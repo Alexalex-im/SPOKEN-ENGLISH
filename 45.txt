@@ -1,0 +1,586 @@
+Does it usually take you 5 minutes to eat your lunch?
+No, it doesn't usually take me 5 minutes to eat my lunch.
+Does it usually take you 1 hour to eat your lunch?
+No, it doesn't usually take me 1 hour to eat my lunch.
+Does it usually take you about 20 minutes to eat your lunch?
+Yes, it usually takes me about 20 minutes to eat my lunch.
+How long does it usually take you to eat your lunch?
+It usually takes me about 20 minutes to eat my lunch .
+How long does it usually take you to eat your lunch ?
+Are the chairs in this restaurant comfortable?
+No, the chairs in this restaurant aren't comfortable.
+Are the chairs in this restaurant uncomfortable?
+Yes, the chairs in this restaurant are uncomfortable.
+Why are you standing on the table?
+I'm standing on the table because these chairs are uncomfortable.
+Why are you standing on the table?
+I'm standing on the table because these chairs are uncomfortable.
+Do you like to lie on the couch and do nothing on weekends?
+Yes, I like to lie on the couch and do nothing on weekends.
+Do you like to work hard on weekends?
+No, I don't like to work hard on weekends.
+What do you like to do on weekends?
+I like to lie on the couch and do nothing on weekends.
+Can you earn a lot of money by lying on the couch and doing nothing?
+No, I can't earn a lot of money by lying on the couch and doing nothing.
+Can you only make a lot of money by working hard?
+Yes, I can only make a lot of money by working hard.
+How can you make a lot of money?
+I can make a lot of money by working hard.
+How can you make a lot of money?
+I can make a lot of money by working hard.
+And smart.
+Don't just work hard.
+Work smart.
+Be creative.
+Generate business ideas.
+That's the way to earn money.
+And it only comes from hard work.
+Do you enjoy working hard Monday to Friday?
+Yes, I enjoy working hard Monday to Friday.
+If you work hard Monday to Friday, does it mean you earn a lot of money?
+No, if I work hard Monday to Friday, it doesn't mean I earn a lot of money.
+Do people often earn peanuts when they work hard?
+Yes, people often earn peanuts when they work hard.
+Do you like to drink coffee at work?
+Yes, I like to drink coffee at work.
+Do you usually drink a lot of coffee at work?
+Yes, I usually drink a lot of coffee at work.
+Do you put any sugar in your coffee?
+Yes, I put some sugar in my coffee.
+Do you put 10 spoons of sugar in your coffee?
+No, I don't put 10 spoons of sugar in my coffee.
+Do you put 2 spoons of sugar in your coffee?
+Yes, I put 2 spoons of sugar in my coffee.
+How much sugar do you usually put in your coffee?
+I usually put 2 spoons of sugar in my coffee.
+How much sugar do you usually put in your coffee?
+How much sugar do you usually put in your coffee?
+I usually put 2 spoons of sugar in my coffee.
+Does coffee taste good to you without sugar?
+No, coffee doesn't taste good to me without sugar.
+Does coffee taste terrible to you without sugar?
+Yes, coffee tastes terrible to me without sugar.
+Why do you put sugar in your coffee?
+I put sugar in my coffee because coffee without sugar tastes terrible to me.
+Why do you put sugar in your coffee?
+I put sugar in my coffee because coffee without sugar tastes terrible to me.
+Is this floor dry?
+No, this floor isn't dry.
+Is this floor wet?
+Yes, this flour is wet.
+Can you fall if you walk on the wet floor with your eyes closed?
+Yes, I can fall if I walk on the wet floor with my eyes closed.
+Can you fall if you walk on the wet floor with your eyes closed?
+Is it pleasant to fall on the wet floor?
+No, it's not pleasant to fall on the wet floor.
+Is it unpleasant to fall on the wet floor?
+Yes, it's unpleasant to fall on the wet floor.
+Is it Sunny now?
+No, it's not Sunny now.
+Are you wearing sunglasses?
+No, I'm not wearing sunglasses.
+Why not?
+Because it's not Sunny now.
+Why aren't you wearing sunglasses?
+I'm not wearing sunglasses because it's not Sunny now.
+How's the weather now?
+It's raining now.
+How's the weather now?
+How's the weather now?
+It's raining now.
+Are you holding anything in your hand?
+Yes, I'm holding something in my hand.
+What are you holding in your hand?
+I'm holding an umbrella in my hand.
+Why?
+Because it's raining.
+Why are you holding an umbrella in Your hand?
+I'm holding an umbrella in my hand because it's raining.
+Are you holding anything else in your hand?
+No, I'm not holding anything else in my hand.
+What else are you holding in your hand?
+I'm holding nothing else in my hand.
+Do you need to wear sunglasses when it's raining hard?
+No, I don't need to wear sunglasses when it's raining hard .
+Of course not.
+You're not Neo.
+And we're not in the Matrix.
+Do you have some dollar bills in your pocket?
+Yes, I have some dollar bills in my pocket.
+Is it comfortable to walk with 1000 bills in your pocket?
+No, it's not comfortable to walk with 1000 bills in my pocket.
+Can 1000 dollar bills fit in your pocket?
+No, 1000 dollar bills can't fit in my pocket.
+If you see a dollar bill lying in the street, do you pick it up?
+Yes, if I see a dollar bill lying in the street I pick it up.
+What do you do if you see a dollar bill lying in the street?
+If I see a dollar bill lying in the street, I pick it up.
+If you drop a dollar bill in the street, do you pick it up?
+Yes, if I drop a dollar bill in the street, I pick it up.
+What do you do if you drop a dollar bill in the street?
+If I drop a dollar bill in the street, I pick it up.
+Can someone else pick up your dollar bill if you don't?
+Yes, someone else can pick up my dollar bill if I don't.
+What can someone else do if you drop your dollar bill in the street and don't pick it up?
+If I drop my dollar bill in the street and don't pick it up, someone else can pick it up.
+Does a dollar bill break if you drop it from the 3'd floor?
+No, a dollar bill doesn't break if I drop it from the 3'd floor.
+Does a dollar bill break if you drop it from the 10th floor?
+No, a dollar bill doesn't break if I drop it from the 10th floor.
+Do people wear glasses when they can't see well?
+Yes, people wear glasses when they can't see well.
+Do people wear sunglasses when they can't see well?
+No, people don't wear sunglasses when they can't see well.
+What do people wear when they can't see well?
+People wear glasses when they can't see well.
+Is it comfortable to wear broken glasses?
+No, It's not comfortable to wear broken glasses.
+Can you see well wearing broken glasses?
+No, I can't see well wearing broken glasses.
+Do you have a phone?
+Yes, I have a phone.
+How many phones do you have?
+I have one phone.
+Is it too big for you?
+No, it's not too big for me.
+Can your phone fit in your pocket?
+Yes, my phone can fit in my pocket.
+If your phone is too big to fit in your pocket, do you have to buy another phone?
+Yes, if my phone is too big to fit in my pocket, I have to buy another phone.
+Which wouldn't be a size of a snowboard.
+What do you have to do if your phone is too big to fit in your pocket?
+If my phone is too big to fit in my pocket, I have to buy another phone.
+Is the glass on your phone broken?
+No, the glass on my phone isn't broken.
+Do you like to use a phone with a broken glass?
+No, I don't like to use a phone with a broken glass.
+Do you hate to use a phone with a broken glass?
+Yes, I hate to use a phone with a broken glass.
+How do you feel about using a phone with a broken glass?
+I hate to use a phone with a broken glass.
+How do you feel about using a phone with a broken glass?
+How do you feel about using a phone with a broken glass?
+I hate to use a phone with a broken glass.
+Does a phone glass break if you drop it from the 3'd floor?
+Yes, a phone glass breaks if I drop it from the 3'd floor.
+Does a phone glass break if you drop it from the 10th floor?
+Yes, a phone glass breaks if I drop it from the 10th floor.
+Do you have to pay to walk in this park?
+No, I don't have to pay to walk in this park.
+Do you need to buy a ticket to walk in this park?
+No, I don't need to buy a ticket to walk in this park.
+Can you walk in this park for free?
+Yes, I can walk in this park for free.
+How much do you have to pay to walk in this park?
+I don't have to pay anything to walk in this park.
+How much do you have to pay to walk in this park?
+How much do you have to pay to walk in this park?
+I don't have to pay anything to walk in this park.
+Why not?
+Because it's free.
+It's free.
+You can walk in this park for free.
+Do you need to buy a ticket to watch a movie at a movie theatre?
+Yes, I need to buy a ticket to watch a movie at a movie theatre.
+What do you need to buy to watch a movie at a movie theatre?
+I need to buy a ticket to watch a movie at a movie theatre.
+What do you need to buy to watch a movie at a movie theatre?
+What do you need to buy to watch a movie at a movie theatre?
+I need to buy a ticket to watch a movie at a movie theatre.
+If you try to watch a movie without a ticket, can they kick you out?
+Yes, if I try to watch a movie without a ticket, they can kick me out.
+What can they do if you try to watch a movie without a ticket?
+If I try to watch a movie without a ticket, they can kick me out.
+If your clothes get wet in the rain, do you have to take them off to make them dry?
+Yes, if my clothes get wet in the rain, I have to take them off to make them dry.
+What do you have to do with your clothes, if they get wet in the rain?
+If my clothes get wet in the rain, I have to take them off to make them dry.
+What do you have to do with your clothes, if they get wet in the rain?
+What do you have to do with your clothes, if they get wet in the rain?
+If my clothes get wet in the rain, I have to take them off to make them dry.
+Do you know any winter sports game?
+Yes, I know some winter sports games.
+Do you like to play winter sports games?
+Yes, I like to play winter sports games.
+Do you sometimes like to play video games, too?
+Yes, I sometimes like to play video games, too.
+Which is better for you, to play video games or sports games?
+It's better for me to play sports games.
+Are you in the restaurant now?
+No, I'm not in the restaurant now.
+Are you at a movie theatre now?
+No, I'm not at a new with theatre now.
+Are you at a gas station now?
+Yes, I'm at a gas station.
+Are you here to drink some beer?
+No, I'm not here to drink some beer.
+Are you here to eat a slice of pizza?
+No, I'm not here to eat a slice of pizza.
+Are you here to fill up your car?
+Yes, I'm here to fill up my car.
+Why are you here?
+I'm here to fill up my car.
+Am I filling up your car now?
+Yes, you're filling up my car now.
+Whose car am I filling up now?
+You are filling up my car now.
+Am I filling it up with green tea?
+No, you aren't filling it up with green tea.
+Are you sure?
+Am I filling up your car with peanuts?
+No, you aren't filling up my car with peanuts.
+Am I filling up your car with gas?
+Yes, you are filling up my car with gas.
+What am I filling up your car with?
+You are filling up my car with gas.
+Does your car run on electricity?
+No, my car doesn't run on electricity.
+Does your car run on water?
+No, my car doesn't run on water.
+Does your car run on beer?
+No, my car doesn't run on beer.
+Does your car run on gas?
+Yes, my car runs on gas.
+What does your car run on?
+My car runs on gas.
+What does your car run on?
+Is there a lot of gas in your car?
+No, there isn't a lot of gas in my car.
+Is your car low on gas?
+Yes, my car is low on gas.
+Why am I filling up your car?
+You are filling up my car because it's low on gas.
+Why am I filling up your car?
+You are filling up my car because it's low on gas.
+Does it take 1 hour to fill up your car?
+No, it doesn't take 1 hour to fill up my car.
+Does it take 1 minute to fill up your car?
+No, it doesn't take 1 minute to fill up my car.
+How long does it take to fill up your car?
+It takes about 3 minutes to fill up my car.
+How long does it take to fill up your car?
+How long does it take to fill up your car?
+It takes about 3 minutes to fill up my car.
+If I say my car is low on gas, does it mean there is a lot of gas in it?
+No, if you say your car is low on gas, it doesn't mean there is a lot of gas in it.
+If I say my car is low on gas, does it mean there is very little gas in it?
+Yes, if you say your car is low on gas, it means there is very little gas in it.
+What does it mean if I say my car is low on gas?
+If you say your car is low on gas, it means there is very little gas in it.
+When your car is low on gas, do you have to look for a gas station?
+Yes, when my car is low on gas, I have to look for a gas station.
+Do they sell gas in a restaurant?
+No, they don't sell gas in a restaurant.
+When your car is low on gas, do you have to look for a restaurant?
+No, when my car is low on gas, I don't have to look for a restaurant.
+Why not?
+Because they don't sell gas in a restaurant.
+Why don't you look for a restaurant when your car is low on gas?
+I don't look for a restaurant when my car is low on gas because they don't sell gas in a restaurant.
+Why don't you look for a restaurant when your car is low on gas?
+Why don't you look for a restaurant when your car is low on gas?
+I don't look for a restaurant when my car is low on gas because they don't sell gas in a restaurant.
+Can you fill up your car in a restaurant?
+No, I can't fill up my car in a restaurant.
+Why not?
+Because they don't sell gas in a restaurant.
+Do we call a place where they sell gas a gas station?
+Yes, we call a place where they sell gas a gas station.
+What do we call a place where they sell gas?
+We call a place where they sell gas a gas station.
+What do we call a place where they sell gas?
+What do we call a place where they sell gas?
+We call a place where they sell gas a gas station.
+Do you have money to pay for gas?
+Yes, I have money to pay for gas.
+Do you think you have enough money to pay for gas?
+Yes, I think I have enough money to pay for gas.
+Can you fill up your car for free at the gas station?
+No, I can't fill up my car for free at the gas station.
+With electric cars.
+You have to charge them.
+If your car battery is low.
+If your car battery has a low charge.
+You have to find a charging station.
+Again.
+If your electric car has a low charge.
+You have to find a charging station.
+When your electric car battery is low, do you have to look for a gas station?
+No, when my electric car battery is low, I don't have to look for a gas station.
+When your electric car battery is low, do you have to look for a charging station?
+Yes, when my electric car battery is low, I have to look for a charging station.
+What do you have to look for when your electric car battery is low?
+When my electric car battery is low, I have to look for a charging station.
+Does it take 3 minutes to charge your electric car?
+No, it doesn't take 3 minutes to charge my electric car.
+Does it take 10 minutes to charge your electric car?
+No, it doesn't take 10 minutes to charge my electric car.
+It can take about 30 minutes.
+If you use some kind of a supercharger.
+If you charge from your home outlet.
+It can take hours to charge from empty to full.
+Do you drive a car, or a truck?
+I drive a car.
+Does your car often break down?
+No, my car doesn't often break down.
+Do you like it when your car breaks down?
+No, I don't like it when my car breaks down.
+Do you hate it when your car breaks down?
+Yes, I hate it when my car breaks down.
+How do you feel about it when your car breaks down?
+I hate it when my car breaks down.
+How do you feel about it when your car breaks down?
+How do you feel about it when your car breaks down?
+I hate it when my car breaks down.
+Does it drive you crazy when your car breaks down?
+Yes, it drives me crazy when my car breaks down.
+Do you know how to fix your car if it breaks down?
+No, I don't know how to fix my car if it breaks down.
+Do they probably know how to fix your car at the garage when it breaks down?
+Yes, they probably know how to fix my car at the garage when it breaks down.
+If your car breaks down and you don't know what to do with it, do you have to call for a tow truck?
+Yes, if my car breaks down and I don't know what to do with it, I have to call for a tow truck.
+If your car breaks down and you don't know what to do with it, do you have to order a pizza delivery?
+No, if my car breaks down and I don't know what to do with it, I don't have to order a pizza delivery.
+What do you have to do when your car breaks down and you don't know what to do with it?
+When my car breaks down and I don't know what to do with it, I have to call for a tow truck.
+What do we call this truck that tows cars?
+We call this truck that tows cars a tow truck.
+What do we call this truck that tows cars?
+What do we call this truck that tows cars?
+We call this truck that tows cars a tow truck.
+So, if your car breaks down.
+You can call for a tow truck.
+Which will tow your car to the garage.
+But of course.
+It's not for free.
+You have to pay for it.
+Do you have to get your car to the garage if it breaks down?
+Yes, I have to get my car to the garage if it breaks down.
+Where do you have to get your car if it breaks down?
+I have to get my car to the garage if it breaks down.
+Where do you have to get your car if it breaks down?
+How can you get your car to the garage if it breaks down?
+If my car breaks down, I can get it to the garage by calling for a tow truck.
+How can you get your car to the garage if it breaks down?
+How can you get your car to the garage if it breaks down?
+If my car breaks down, I can get it to the garage by calling for a tow truck.
+Do they tow your car to the garage for free?
+No, they don't tow my car to the garage for free.
+Do you have to pay for towing your car to the garage?
+Yes, I have to pay for towing my car to the garage.
+Is your car too small for you?
+No, my car isn't too small for me.
+Is your car big enough for you?
+Yes, my car is big enough for me.
+Can 20 people fit in your car?
+No, 20 people can't fit in my car.
+Can 11 people fit in your car?
+No, 11 people can't fit in my car.
+Can 5 people fit in your car?
+Yes, 5 people can fit in my car.
+How many people can fit in your car?
+5 people can fit in my car.
+How many people can fit in your car?
+Do electric cars need gas to run?
+No, electric cars don't need gas to run.
+What do electric cars need to run?
+Electric cars need electricity to run.
+What do electric cars need to run?
+Electric cars need electricity to run.
+Can you charge your electric car for free at the charging station?
+No, I can't charge my electric car for free at the charging station.
+Can you fill up your car for free at the gas station?
+No, I can't fill up my car for free at the gas station.
+You want to charge your car.
+You want to fill it up.
+Pay for it.
+In 5 minutes
+In 3 days
+To hope
+To become
+Law
+A lawyer
+To graduate
+To graduate from college
+Graduation
+A graduate
+To flunk out
+To flunk out of college
+If you don't study hard, you can flunk out of college
+To run out
+To run out of gas
+To run out of money
+I don't like to run out of money
+A dead-end job
+Nervous
+To get nervous
+Can you drive a truck?
+No, I can't drive a truck.
+Do you want to become a truck driver after you graduate from college?
+No, I don't want to become a truck driver after I graduate from college.
+It's not right for a college graduate
+To become a truck driver.
+What do you study.
+I study law.
+What do you study.
+I study law.
+A future lawyer.
+Do you hope to become a lawyer after you graduate from college?
+Yes, I hope to become a lawyer after I graduate from college.
+What do you hope to become after you graduate from college?
+I hope to become a lawyer after I graduate from college.
+Do you hope to flunk out of college in 1 month?
+No, I hope not to flunk out of college in 1 month.
+Do you hope to flunk out of college in 2 years?
+No, I hope not to flunk out of college in 2 years.
+When do you hope to flunk out of college?
+I hope not to flunk out of college.
+When do you hope to flunk out of college?
+I hope not to flunk out of college.
+Do you hope to graduate with bad grades?
+No, I don't hope to graduate with bad grades.
+Do you hope to graduate with good grades?
+Yes, I hope to graduate with good grades.
+Can you get good grades if you hang out with your friends instead of studying hard?
+No, I can't get good grades if I hang out with my friends instead of studying hard.
+Can you only get terrible grades if you hang out with your friends instead of studying hard?
+Yes, I can only get terrible grades if I hang out with my friends instead of studying hard.
+What do you have to do if you want to get good grades?
+I have to study hard if I want to get good grades.
+What do you have to do if you want to get good grades?
+Is a lawyer a dead -end job?
+No, a lawyer isn't a dead end job.
+Do good lawyers earn a little money?
+No, good lawyers don't earn a little money.
+Do good lawyers earn a lot of money?
+Yes, good lawyers earn a lot of money.
+If you are a lawyer, does it mean that you are rich?
+No, if I'm a lawyer, it doesn't mean that I'm rich.
+Your job titles mean nothing.
+You want to be successful.
+You want to be rich.
+You have to work hard.
+You have to be better than everybody else.
+Do you have to go to college to become a lawyer?
+Yes, I have to go to college to become a lawyer.
+Where do you have to go to become a lawyer?
+I have to go to college to become a lawyer.
+Where do you have to go to become a lawyer?
+Does it take 1 year to become a lawyer?
+No, it doesn't take one year to become a lawyer.
+Does it take 3 years to become a lawyer?
+No, it doesn't take 3 years to become a lawyer.
+How long does it take to become a lawyer?
+It takes 5 years to become a lawyer.
+How long does it take to become a lawyer?
+How long does it take to become a lawyer?
+It takes 5 years to become a lawyer.
+Can you work as a lawyer if you don't have a college degree?
+No, I can't work as a lawyer if I don't have a college degree.
+Do you have a lot of job opportunities after you graduate from college?
+Yes, you have a lot of job opportunities after you graduate from college.
+Is it pleasant to flunk out of college?
+No, it's not pleasant to flunk out of college.
+Do students usually get nervous when they flunk out of college?
+Yes, students usually get nervous when they flunk out of college.
+How do students usually feel when they flunk out of college?
+Students usually get nervous when they flunk out of college.
+How do students usually feel when they flunk out of college?
+How do students usually feel when they flunk out of college?
+Students usually get nervous when they flunk out of college.
+Do you think this teacher likes Jack?
+No, I think this teacher doesn't like Jack.
+Do you think Jack studies hard?
+No, I think Jack doesn't study hard.
+Do you think this teacher wants to give him a good grade?
+No, I think this teacher doesn't want to give him a good grade.
+Do you think she wants to give him a bad grade?
+Yes, I think she wants to give him a bad grade.
+What grade do you think she wants to give him?
+I think she wants to give him a bad grade.
+What grade do you think she wants to give him?
+What grade do you think she wants to give him?
+I think she wants to give him a bad grade.
+Why does she want to give him a bad grade?
+She wants to give him a bad grade because he doesn't study hard.
+Why does she want to give him a bad grade?
+Why does she want to give him a bad grade?
+She wants to give him a bad grade because he doesn't study hard.
+Does he have a good chance of flunking out of college if he only gets bad grades?
+Yes, he has a good chance of flunking out of college if he only gets bad grades.
+Do you often go grocery shopping?
+Yes, I often go grocery shopping.
+Do you enjoy grocery shopping during rush hour?
+No I don't enjoy grocery shopping during rush hour.
+Why not?
+Because there are too many people at the store during rush hour.
+Why don't you enjoy grocery shopping during rush hour?
+I don't enjoy grocery shopping during rush hour because there are too many people at the store during rush hour.
+Do you always have enough money to pay for the groceries you take?
+Yes, I always have enough money to pay for the groceries I take.
+Can you pay for the groceries if you run out of money?
+No, I can't pay for the groceries if I run out of money.
+Then don't take so many groceries.
+Or choose cheaper ones.
+Those you can afford.
+Do you have bills to pay?
+Yes, I have bills to pay.
+Do you sometimes run out of money and don't have enough to pay your bills?
+Yes, I sometimes run out of money and don't have enough to pay my bills.
+Do people often run out of money if they earn peanuts?
+Yes, people often run out of money if they earn peanuts.
+What do people often run out of if they earn peanuts?
+People often run out of money if they earn peanuts.
+What do people often run out of if they earn peanuts?
+Is there any broken glass on the floor?
+No, there isn't any broken glass on the floor.
+Do you like to walk on the broken glass?
+No, I don't like to walk on the broken glass.
+Is it good for your shoes to walk on the broken glass?
+No, it's not good for my shoes to walk on the broken glass.
+Is it very bad for your shoes to walk on the broken glass?
+Yes, it's very bad for my shoes to walk on the broken glass.
+Are you a college graduate?
+Yes, I'm a college graduate.
+Do you have a little work experience ?
+No, I don't have a little work experience.
+Do you have a lot of work experience?
+Yes, I have a lot of work experience.
+How much work experience do you have?
+I have a lot of work experience.
+Do you think you have a lot of job opportunities in this place?
+No, I don't think I have a lot of job opportunities in this place.
+Do you think this is a dead -end job?
+Yes, I think this is a dead -end job.
+What's a dead -end job?
+A dead -end job is a job without any opportunities.
+If you think you have a dead -end job, is it better to look for another job?
+Yes, if I think I have a dead -end job, it's better to look for another job.
+What is it better for you to do if you have a dead -end job?
+If I have a dead -end job, it's better for me to look for another job.
+Do you have a good chance of finding a well-paid job without a college degree?
+No, I don't have a good chance of finding a well-paid job without a college degree.
+Do you have a good chance of finding a well-paid job without much work experience?
+No, I don't have a good chance of finding a well-paid job without much work experience.
+So, the two things you need to find a well-paid job are:
+College degree.
+And much work experience.
+What are the two things you need to have to find a well-paid job?
+The two things I need to have to find a well-paid job are: college degree and much work experience.
+What are the two things you need to have to find a well-paid job?
+The two things I need to have to find a well-paid job are: college degree and much work experience.
+Do you rent an apartment?
+Yes, I rent an apartment .
+Do you earn enough money to pay your rent?
+Yes, I earn enough money to pay my rent.
+Do you hope your rent goes up in two months?
+No, I hope my rent doesn't go up in two months.
+If your apartment becomes too expensive for you, is it a good idea to find another place to live?
+Yes, if my apartment becomes too expensive for me, it's a good idea to find another place to live.
+What do you have to do if your apartment becomes too expensive for you?
+If my apartment becomes too expensive for me, I have to find another place to live.
+What do you have to do if your apartment becomes too expensive for you?
+If my apartment becomes too expensive for me, I have to find another place to live.
+----‐------------------------------------------------------

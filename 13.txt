@@ -1,0 +1,322 @@
+Do you usually drink coffee or tea in the morning?
+I usually drink coffee in the morning.
+What do you usually drink in the morning?
+I usually drink coffee in the morning.
+What do you usually drink in the morning?
+Do you drink your coffee in bed?
+No, I don't drink my coffee in bed.
+Do you usually drink your coffee on the train when you go to work?
+No, I don't usually drink my coffee on the train when I go to work.
+Do you usually drink your coffee on the train when you go to work?
+Do you usually drink coffee when it's hot?
+Yes, I usually drink coffee when it's hot.
+Do you usually drink coffee when it's cold?
+No, I don't usually drink coffee when it's cold.
+How do you like your coffee?
+I like my coffee hot.
+How do you like your coffee?
+How do you like your coffee?
+I like my coffee hot.
+Do you like cold tea?
+No, I don't like cold tea.
+Do you like warm tea.
+Yes, I like warm tea.
+Do you usually drink tea when it's warm or when it's cold?
+I usually drink tea when it's warm.
+How do you like your tea?
+I like my tea warm.
+How do you like your tea?
+I like my tea warm.
+Do you eat tea or do you drink tea
+I drink tea?
+Is your name Sean?
+No, my name isnt Sean.
+Is Your name Tim?
+No, my name isn't Tim.
+Is your name Mike.
+No, my name isn't Mike.
+Is your name John?
+No, my name isn't John.
+Is your name Ron?
+Yes, My name is Ron.
+What is your name?
+My name is Ron.
+What is your name?
+Is this your phone?
+No, this is not my phone.
+Is this her phone?
+No, this is not her phone.
+Is this his phone?
+No, this is not his phone.
+Is this my phone?
+Yes,This is your phone.
+Whose phone is this?
+This is your phone.
+Whose phone is this?
+Is my name John?
+No, your name isn't John.
+Is my name Lisa?
+No, your name isn't Lisa.
+No, My name isn't Lisa.
+Lisa is over there.
+Her name is Lisa.
+My name is Sam.
+Is my name Ron?
+No, your name isn't Ron.
+Is my name Sam?
+Yes, your name is Sam.
+What is my name?
+Your name is Sam.
+What is my name?
+Who's name is Ron?
+My name is Ron.
+Whose name is Sam?
+Your name is Sam.
+Do you have a phone?
+Yes, I have a phone.
+Do you have a phone?
+Do you like your phone?
+Yes, I like my phone.
+Do you often use your phone?
+Yes, I often use my phone.
+Do you use your phone when you work?
+Yes, I use my phone when I work.
+Do you use your phone when you take a train ?
+Yes, I use my phone when I take a train.
+Do you use your phone when you sleep?
+No, I don't use my phone when I sleep.
+Do you use your phone when you sleep.
+No, I don't use my phone when I sleep.
+Do you go to work in the morning?
+Yes, I go to work in the morning.
+Do you go to work in the afternoon?
+No, I don't go to work in the afternoon.
+Do you go to work in the evening?
+No, I don't go to work in the evening.
+Do you go to work at the night?
+No, I don't go to work at night.
+When do you go to work?
+I go to work in the morning.
+When do you go to work?
+Do you work at a restaurant?
+No, I don't work at a restaurant.
+Do you work at an office?
+Yes, I work at an office.
+Where do you work?
+I work at an office.
+Where do you work?
+Do you like your job?
+Yes, I like my job.
+Are people nice at your work?
+Yes, people are nice at my work.
+Do you sleep at work?
+No, I don't sleep at work.
+Do you go to work at 5 AM?
+No, I don't go to work at 5 AM.
+Do you go to work at 12 o'clock noon?
+No, I don't go to work at 12 o'clock noon.
+Do you go to work at 8 o'clock in the morning?
+Yes, I go to work at 8 o'clock in the morning.
+What time do you go to work?
+I go to work at 8 o'clock in the morning.
+What time do you go to work?
+Do you sleep on the bus when you go to work?
+No, I don't sleep on the bus when I go to work.
+Do you sleep on the bus when you go to work?
+Do you sleep in your bed?
+Yes, I sleep in my bed.
+Do you sleep at a restaurant?
+No, I don't sleep at a restaurant.
+Do you sleep under your table at work?
+No, I don't sleep under my table at work.
+Do you sleep under your table at work?
+Where do you sleep?
+I sleep in my bed.
+Where do you sleep?
+Do you eat cereal for breakfast?
+Yes, I eat cereal for breakfast.
+Do you like your serial with or without milk?
+I like my cereal with milk.
+How do you like your cereal?
+I like my cereal with milk.
+How do you like your cereal?
+Is a hamburger with soda a good breakfast?
+No, a hamburger with soda isn't a good breakfast.
+Is a hamburger with soda a bad breakfast?
+Yes, a hamburger with soda is a bad breakfast.
+Do you often eat hamburgers and French fries?
+I don't often eat hamburgers and French fries.
+Do you eat hamburgers and French fries at home or at a restaurant?
+I eat hamburgers and French fries at a restaurant.
+Where do you usually eat hamburgers and French fries?
+I usually eat hamburgers and French fries at a restaurant.
+Where do you usually eat hamburgers and French fries?
+Do you usually eat a salad for lunch?
+Yes, I usually eat a salad for lunch.
+Do you usually eat a slice of pizza for lunch?
+No, I don't usually eat a slice of pizza for lunch.
+Is a slice of pizza a good lunch?
+No, a slice of pizza isn't a good lunch.
+Do you usually eat pizza at work or at a restaurant?
+I usually eat pizza at a restaurant.
+Is a salad a good lunch?
+Yes, a salad is a good lunch.
+What is a good lunch?
+A salad is a good lunch.
+What is a good breakfast?
+Cereal is a good breakfast.
+Do you usually eat your breakfast at 5 o'clock in the morning?
+I don't usually eat my breakfast at 5 o'clock in the morning.
+Do you usually eat your breakfast at 5 o'clock in the morning?
+Do you usually eat your breakfast at 10 o'clock in the morning?
+I don't usually eat my breakfast at 10 o'clock in the morning.
+Do you usually eat your breakfast at 7 o'clock in the morning?
+Yes, I usually eat my breakfast at 7 o'clock in the morning.
+What time do you usually eat your breakfast?
+I usually eat my breakfast at 7 o'clock in the morning.
+Do you usually have a big breakfast or a small breakfast?
+I usually have a small breakfast.
+Do you like cold pizza?
+No, I don't like cold pizza.
+Do you like hot pizza?
+Yes, I like hot pizza.
+How do you like your pizza?
+I like my Pizza Hot.
+How do you like your pizza?
+Do you drink pizza or do you eat it?
+I eat pizza.
+Do you drink soda?
+Yes, I drink soda.
+Do you eat French fries or do you drink friends fries.
+I eat French fries.
+Do you like French fries for dinner?
+No, I don't like French fries for dinner.
+Do you like French fries for dinner?
+Do you eat your dinner at 4 PM?
+No, I don't eat my dinner at 4 PM.
+Do you eat your dinner at 12 o'clock midnight?
+No, I don't eat my dinner at 12 o'clock midnight.
+Do you usually eat your dinner at 8 PM?
+Yes, I usually eat my dinner at 8 PM.
+What time do you usually eat your dinner?
+I usually eat my dinner at 8 PM.
+What time do you usually eat your dinner?
+I drink 2 cups of coffee in the morning.
+He drinks 2 cups of coffee in the morning-simple present tense(s,es)
+Jennifer likes her car
+Have (haves - wrong (no word on haves )
+Have - has
+I have
+You have
+We have
+They have
+He has
+She has
+It has
+French fries have a lot of salt in them.
+This cake has a lot of sugar in it.
+Does.
+Does John drive a car.
+How many cups of coffee does Lisa drink in the morning?
+Does not.
+Doesn't.
+John doesn't have a car.
+Lisa doesn't like tea.
+Sarah doesn't work hard.
+John likes Lisa.
+Who does John like.
+Who likes Lisa.
+Mason lives with his parents.
+Who does Mason live with.
+Who lives with his parents.
+Much
+Many
+How much
+How many
+a lot of (a lot of = much/many)
+Sugar
+A cup
+A cup of coffee
+A cup of tea
+Good for you
+Bad for you
+During
+Sometimes
+Every day
+Why
+Because
+I - me
+You - you
+He - Him
+She - her
+It - it
+We - us
+They - them
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+How do you like your cereal With or without milk?
+I like my cereal with milk.
+What do you usually drink with your breakfast?
+I usually drink coffee with my breakfirst.
+What do you usually drink with your breakfast?
+I usually drink coffee with my breakfast.
+Do you like coffee with or without milk?
+I like coffee with milk.
+Do you drink much coffee during the day?
+I don't drink much coffee during the day.
+Do you drink one cup of coffee during the day?
+No, I don't drink one cup of coffee during the day.
+Do you usually drink 2 cups of coffee during the day?
+Yes, I usually drink 2 cups of coffee during the day.
+How many cups of coffee do you usually drink during the day?
+I usually drink 2 cups of coffee during the day.
+How many cups of coffee do you usually drink during the day?
+Is it good for you to drink a lot of coffee?
+No, it isn't good for me to drink a lot of coffee.
+Is it good for you to drink a lot of coffee?
+No, it isn't good for me to drink a lot of coffee.
+Is it bad for you to drink a lot of coffee?
+Yes, it is bad for me to drink a lot of coffee.
+Why don't you drink a lot of coffee?
+I don't drink a lot of coffee because it's bad for me.
+Do you take a bus to work?
+No, I don't take a bus to work.
+Do you take a train to work?
+Yes, I take a train to work.
+How do you go to work?
+I take a train to work.
+How do you go to work?
+I take a train to work.
+Do you eat a lot of sugar during the day?
+No, I don't eat a lot of sugar during the day.
+Is it good for you to eat a lot of sugar?
+No, it's not good for me to eat a lot of sugar.
+Is it bad for you to eat a lot of sugar?
+Yes, it's bad for me to eat a lot of sugar.
+Why don't you eat a lot of sugar during the day?
+I don't eat a lot of sugar during the day because a lot of sugar is bad for me.
+Why don't you eat a lot of sugar during the day?
+I don't eat a lot of sugar during the day because a lot of sugar is bad for me.
+Does soda have a lot of sugar in it?
+Yes, soda has a lot of sugar in it.
+Do you usually drink a lot of soda with your lunch?
+I don't usually drink a lot of soda with my lunch.
+Why not?
+Because it's bad for me to drink a lot of soda.
+Why don't you drink a lot of soda with your lunch?
+I don't drink a lot of soda with my lunch because it's bad for me to drink a lot of soda.
+Do you sometimes eat pizza at night?
+Yes, I sometimes eat pizza at night
+Is it good for you?
+No, it's not good for me.
+Is it bad for you to eat pizza at night?
+Yes, It's bad for me to eat pizza at night.
+Do you eat hamburgers for dinner everyday?
+No, I don't eat hamburgers for dinner every day.
+Is it good for you to eat hamburgers for dinner every day?
+No, it's not good for me to eat hamburgers for dinner every day.
+Is it bad for you to eat hamburgers for dinner everyday?
+Yes, it's bad for me to eat hamburgers for dinner every day.
+Why don't you eat hamburgers for dinner every day?
+I don't eat hamburgers for dinner every day because it's bad for me.
+----‐------------------------------------------------------

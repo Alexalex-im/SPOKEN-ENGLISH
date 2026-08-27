@@ -1,0 +1,603 @@
+Do you prefer to eat healthy food or junk food for breakfast?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+Do you go grocery shopping when your fridge is empty?
+Yes, I go grocery shopping when my fridge is empty.
+Is your fridge full of food now?
+No, my fridge isn't full of food now.
+Is your fridge empty?
+Yes, my fridge is empty.
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty?
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty.
+Do you go to the movies when your fridge is empty?
+No, I don't go to the movies when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+Do you have your favourite grocery store?
+Yes, I have my favorite grocery store.
+Is it a big store or a small store ?
+It's a big store.
+Is your favourite grocery store closed on Saturdays and Sundays?
+No, my favorite grocery store isn't close on Saturdays under Sundays.
+Is your favourite grocery store open on Saturdays and Sundays?
+Yes, My favourite grocery store is open on Saturdays and Sundays.
+Do you usually go grocery shopping on weekends or on work days?
+I usually go grocery shopping on weekends, and sometimes on work days.
+Do you usually go grocery shopping on weekends or on workdays?
+I usually go grocery shopping on weekends, and sometimes on work days.
+How many times a week do you usually go grocery shopping?
+I usually go grocery shopping 4 times a week.
+How many times a week do you usually go grocery shopping?
+Do you like your job?
+Yes, I like my job.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+Does it mean you come to work at 9 and leave work at 5?
+Yes, it means I come to work at 9 and leave work at 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work
+I leave work at 5 PM?
+Do you usually have time to eat during the work day?
+Yes, I usually have time to eat during the work day.
+Do you go to work 3 times a week?
+No, I don't go to work 3 times near week.
+Do you go to work 7 times a week?
+No, I don't go to work 7 times a week
+Do you go to work 5 times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work 5 times a week.
+How many times a week do you go to work?
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you like to work Monday to Friday?
+Yes, I like to work Monday to Friday.
+Do you usually have a lot of work to do on work days?
+Yes, I usually have a lot of work to do on work days.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+Do you often order a pizza delivery?
+Yes, I often order a pizza delivery.
+Do you order a pizza delivery 3 times a day?
+No, I don't order a pizza delivery 3 times a day.
+Do you order a pizza delivery 5 times a week?
+No, I don't order a pizza delivery 5 times a week.
+Do you order a pizza delivery 3 times a week?
+Yes, I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+Do you get hungry if you don't eat for 5 days?
+Yes, I get hungry if I don't eat for 5 days.
+Do you get thirsty if you don't drink for 2 days?
+Yes, I get thirsty if I don't drink for 2 days.
+Do you like to stay at work at night?
+No, I don't like to stay at work at night.
+Do you sometimes stay at work at night when you have a lot of work to do?
+Yes, I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+Do you stay at work when you have free time?
+No, I don't stay at work when I have free time.
+Can you drive a car?
+Yes, I can drive a car.
+Do you have a car to drive?
+No, I don't have a car to drive.
+If he had a car.
+Why would he be taking the Subway.
+Are you driving a car?
+No, I'm not driving a car.
+Are you in the Subway?
+Yes, I'm in the Subway.
+Where are you now?
+I'm in the Subway.
+Do you take the Subway to work every day?
+Yes, I take the Subway to work every day.
+How do you get to work?
+I take the Subway to work.
+How do you get to work?
+I take the Subway to work.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Are you usually tired when you go to work?
+No, I'm usually not tired when I go to the work.
+Do you usually get very tired at work?
+Yes, I usually get very tired at work.
+Do you like to get very tired?
+No, I don't like to get very tired.
+Are you usually tired when you go home from work?
+Yes, I'm usually tired when I go home from work.
+Do you like to relax when you're tired?
+Yes, I like to relax when I'm tired.
+Do you like to work when you're very tired?
+No, I don't like to work when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+Do you have your favourite place to relax when you're tired?
+Yes, I have my favourite place to relax when I'm tired.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+Are you homeless?
+No, I am not homeless.
+Do you have a place to live?
+Yes, I have a place to live
+Do you have a place to live?
+Do you know any people who don't have a place to live?
+No, I don't know any people who don't have a place to live.
+Do you live in the Subway?
+No, I don't live in the Subway.
+Why not?
+Because I have a home.
+So, why don't you live in the Subway?
+I don't live in the Subway because I have a home.
+Do you know any people who live in the Subway?
+No, I don't know any people who live in the subway.
+Are there any trees growing in the subway?
+No, there aren't any trees growing in the subway.
+Do you think you are rich?
+No, I don't think I'm rich.
+Why not?
+Because I don't have money for a car.
+So, why do you think you're not rich?
+I think I'm not rich because I don't have money for a car.
+Do you want to be rich?
+Yes, I want to be rich.
+Do you have a fridge in your kitchen?
+Yes, I have a fridge in my kitchen.
+How many fridges do you have in your kitchen?
+I have one fridge in my kitchen.
+How many fridges do you have in your kitchen?
+Do you put food in your fridge?
+Yes, I put food in my fridge.
+Do you put grass and leaves in your fridge?
+No, I don't put grass and leaves in my fridge.
+What do you put in your fridge?
+I put food in my fridge.
+Do you like it when your fridge is full of tasty food?
+Yes, I like it when my fridge is full of tasty food.
+Do you like it when your fridge is full of tasty food?
+Do you like it when your fridge is full of gross food?
+No, I don't like it when my fridge is full of gross food.
+Do you like it when your fridge is full of gross food?
+When your fridge is empty, do you go grocery shopping?
+Yes, when my fridge is empty, I go grocery shopping.
+What do you do when your fridge is empty?
+When my fridge is empty, I go grocery shopping.
+Can you go grocery shopping when you don't have any money?
+No, I can't go grocery shopping when I don't have any money.
+Can poor people go to the restaurant every day?
+No, poor people can't go to the restaurant every day.
+Can you cook?
+Yes, I can cook.
+Do you think you cook badly?
+No, I don't think I cook badly.
+Do you think you cook well?
+Yes, I think I cook well.
+Is your job to cook food?
+Yes, my job is to cook food.
+What is your job?
+My job is to cook food.
+Can you cook scrambled eggs Well?
+Yes, I can cook scrambled eggs well.
+Do you like bananas?
+Yes, I like bananas.
+How many bananas can you eat for lunch?
+I can eat 2 bananas for lunch.
+How many bananas can you eat for lunch?
+Do you know a place where I can buy some bananas?
+Yes, I know a place where you can buy some bananas.
+Can I buy some bananas at a movie theatre?
+No, you can't buy any bananas at a movie theatre.
+Can I buy some bananas at a grocery store?
+Yes, you can buy some bananas at a grocery store.
+Where can I buy some bananas?
+You can buy some bananas at a grocery store.
+Do you need to have some money to buy bananas at a grocery store?
+Yes, I need to have some money to buy bananas at a grocery.
+Do you need to have some money to buy bananas at a grocery store?
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+Do bananas grow on trees?
+Yes, bananas grow on trees.
+Where do bananas grow?
+Bananas grow on trees.
+Where do bananas grow?
+What colour are bananas?
+Bananas are yellow.
+Do bananas grow in Canada?
+No, bananas don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't bananas grow in Canada?
+Bananas don't grow in Canada. because it's too cold for them to grow there.
+Bananas only grow in hot countries.
+Canada is not hot by any means.
+Can you eat fresh bananas?
+Yes, I can eat fresh bananas.
+What about meat, can you eat fresh meat?
+No, I can't eat fresh meat.
+Do you need to cook your meat before you can eat it?
+Yes, I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it?
+I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it.
+Is it a great idea to eat fresh meat?
+No, it's not a great idea to eat fresh meat.
+Is it good for you to eat fresh meat?
+No, it's not good for me to eat fresh meat.
+Is it really bad for you to eat fresh meat?
+Yes, it's really bad for me to eat fresh meat.
+Do you eat fresh bananas?
+Yes, I eat fresh bananas.
+Do you need to cook bananas before you can eat them?
+No, I don't need to cook bananas before I can eat them.
+Do they sell pineapples in the Subway?
+No, they don't sell pineapples in the Subway.
+Do they sell pineapples at a movie theatre?
+No, they don't sell pineapples at a movie theatre.
+Do you know a place where they sell pineapples?
+Yes, I know a place where they sell pineapples.
+Do you know a place where they sell pineapples?
+Where can I buy some pineapples?
+You can buy some pineapples at a grocery store.
+Do pineapples grow in Canada?
+No, pineapples don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't pineapples grow in Canada?
+Pineapples don't grow in Canada because it's too cold for them to grow there.
+Do pineapples grow in Thailand?
+Yes, pineapples grow in Thailand.
+Is it too cold for them to grow there?
+No, it's not too cold for them to grow there.
+Do you need to go to Thailand to eat pineapples?
+No, I don't need to go to Thailand to eat pineapples.
+Why not?
+Because I can buy them at a grocery store here.
+Why do you not need to go to Thailand to eat pineapples?
+I don't need to go to Thailand to eat pineapples because I can buy them at a grocery store here.
+Do you need to cook pineapples before you can eat them?
+No, I don't need to cook pineapples before I can eat them.
+Can you eat pineapples fresh?
+Yes, I can eat pineapples fresh.
+Can you eat pineapples fresh?
+The weather
+How is the weather?
+To drive one crazy
+You drive me crazy!
+The weather is driving me crazy!
+To love
+To start
+It's starting to rain
+Lately
+Right
+Wrong
+About
+To predict
+Predictable
+Unpredictable
+An umbrella
+Back in the restaurant
+Probably
+Exactly
+I don't know exactly
+Wet
+To Get wet
+Dry
+To Get dry
+It's raining hard
+It's raining really hard
+To tell
+To give
+Thank you, Josh, this restaurant is awesome.
+You're welcome, Lilly.
+I like to eat at that restaurant from time to time.
+The food is good and it's not too expensive.
+But next time I want to take you to that Italian place.
+Good idea.
+Does Josh like this Chinese restaurant?
+Yes, Jose likes this Chinese restaurant.
+Does he think it's terrible?
+No, he doesn't think it's terrible.
+Does he think it's awesome?
+Yes, he thinks it's awesome.
+What do you answer when people say "thank you"?
+When people say "thank you", you answer "you're welcome".
+Is this restaurant cheap enough for Josh to eat there from time to time?
+Yes, this restaurant is cheap enough for jokes to eat there from time to time.
+How's the food there?
+The food is good there.
+Where does he want to take Lily next time?
+He wants to take Lily to the Italian restaurant next time.
+Does she want him to take her to the Italian restaurant next time?
+Yes, she wants him to take her to the Italian restaurant next time.
+Where does she want him to take her next time?
+She wants him to take her to the Italian restaurant next time.
+Uh-oh, it's starting to rain.
+It's starting to rain.
+Is it raining now?
+Yes, it is raining now.
+Is it snowing now?
+No, it isn't snowing now.
+Is the weather nice now?
+No, the weather isn't nice now.
+How's the weather?
+It's raining.
+How's the weather?
+How's the weather?
+It's raining.
+Is it a good weather to go for a walk without an umbrella?
+No, it's not a good weather to go for a walk without an umbrella.
+Is it a terrible weather to go for a walk without an umbrella?
+Yes, it's a terrible weather to go for a walk without an umbrella.
+Why?
+Because it's raining.
+Why is it a terrible weather to go for a walk without an umbrella?
+It's a terrible weather to go for a walk without an umbrella because it's raining.
+Why is it a terrible weather to go for a walk without an umbrella?
+It's starting to rain.
+Uh-Oh, it's starting to rain.
+The weather is driving me crazy lately.
+The weather is driving her crazy lately.
+It means that lately the weather is terrible and she hates it.
+The weather is driving her crazy.
+Does she like the weather lately?
+No, she doesn't like the weather lately.
+How do you know?
+Because she says that the weather is driving her crazy lately.
+How do you know that she doesn't like the weather lately?
+I know that she doesn't like the weather lately because she says that the weather is driving her crazy lately.
+Does it mean she hates this weather?
+Yes, it means she hates this weather.
+Does Lily like it when it's raining?
+No, Lily doesn't like it when it's raining.
+Does Lily like it when it's raining?
+Does Lily hate it when it's raining?
+Yes, Lily hates it when it's raining.
+Is Josh driving her crazy lately?
+No, Josh isn't driving her crazy lately.
+Is Chinese food driving her crazy lately.
+No, Chinese food isn't driving her crazy lately.
+Is Italian food driving her crazy lately?
+No, Italian food isn't driving her crazy lately.
+What is driving her crazy lately?
+No, Italian food isn't driving her crazy lately.
+What is driving her crazy lately?
+The weather is driving her crazy lately.
+How's the weather now?
+It's raining now.
+It's raining It's starting to rain now. And Lily doesn't like it The weather is driving her crazy. Uh-Oh it's starting to rain The weather is driving me crazy lately And Joe's answers Yeah you're right The weather is really unpredictable He thinks Lily is right about the weather.
+He thinks this weather is terrible.
+He says.
+Yeah you're right.
+Does Josh think this weather is nice?
+No, Josh doesn't think this weather is nice.
+The josh think Lily is wrong about the weather?
+No, Josh doesn't think Lily is wrong about the weather.
+Does he think she is right about the weather?
+Yes, he thinks she is right about the weather.
+What does he think Lily is right about?
+He thinks Lily is right about the weather.
+Does Josh like it when it's raining?
+No, Josh doesn't like it when it's raining.
+He doesn't like it.
+He thinks Lily is right about the weather.
+Yeah, you're right.
+The weather is really unpredictable.
+He says that the weather is really unpredictable lately.
+When the weather is unpredictable.
+It means you can't predict it.
+Now it's raining in 1 minute it's not.
+Next minute it's raining in 2 minutes it's not.
+The weather is unpredictable.
+The weather is really unpredictable.
+Does he think the weather is predictable lately?
+No, he doesn't think the weather is predictable lately.
+Does he think the weather is unpredictable lately?
+Yes, he thinks the weather is unpredictable lately.
+When the weather is unpredictable, does it mean you can't predict it
+Yes, when the weather is unpredictable, it means you can't predict it.
+What does it mean when the weather is unpredictable?
+When the weather is unpredictable, it means you can't predict it.
+What does it mean when the weather is unpredictable?
+Can Josh predict the weather?
+No, Josh can't predict the weather.
+Why not?
+Because it's unpredictable.
+Can Lily predict the weather?
+No, Lily can't predict the weather.
+Why can't Lily predict the weather?
+Lily can't predict the weather because it's unpredictable.
+Who is this weather driving crazy?
+This weather is driving Lily crazy.
+Does it mean she loves this weather, or hates it?
+It means she hates it.
+It's an unpredictable weather.
+She doesn't like it.
+It's driving her crazy
+She wants her umbrella.
+So she asks.
+Do you have our umbrellas, Josh?
+She thinks Josh has her and his umbrellas.
+Does she think Josh has their umbrellas?
+Yes, she thinks Josh has their umbrellas.
+What does she think Josh has?
+She thinks Josh has their umbrellas.
+Do they need their umbrellas now?
+Yes, They need their umbrellas now.
+Why?
+Because it's raining.
+Why do they need their umbrellas?
+They need their umbrellas because it's raining.
+Can they get wet in the rain without their umbrellas?
+Yes they can get wet in the rain without their umbrellas.
+Who thinks Josh has their umbrellas?
+Lily thinks Josh has their umbrellas.
+Does it mean that Lily doesn't have hers?
+Yes, it means that Lily doesn't have hers.
+She doesn't have hers.
+She hopes that Josh has hers.
+So, she asks.
+Do you have our umbrellas, Josh?
+And Josh answers.
+I have mine. I don't have yours.
+Josh has his umbrella.He doesn't have hers.
+Does Josh have two umbrellas?
+No, Josh doesn't have two umbrellas.
+Does Josh have only one umbrella?
+Yes, Josh has only one umbrella.
+How many umbrellas does Josh have?
+Josh has only one umbrella.
+How many umbrellas does Josh have?
+Whose umbrella does he have?
+He has his umbrella.
+Does he have hers?
+No, he doesn't have hers.
+Whose umbrella does he not have?
+He doesn't have Lily's umbrella.
+Do you have our umbrellas, Josh?
+I have mine.I don't have yours.
+Lily doesn't like this answer.
+She says.
+You don't have mine?
+Where is mine?
+And Josh answers.
+I dont know.It's probably back in the restaurant.
+Does Josh know where his umbrella is?
+Yes, Josh Knows where his umbrella is.
+Is he holding his umbrella in his hand now?
+Yes, he is holding his umbrella in his hand now.
+Whose umbrella is he holding in his hand now?
+He is holding his umbrella in his hand now.
+Does he know where hers is?
+No, he doesn't know where hers is.
+He says.
+I don't know. It's probably back in the restaurant.
+Probably.
+He doesn't know exactly. But he thinks that her umbrella is probably back in the restaurant.
+Where they came from.
+Does he know exactly where her umbrella is?
+No, he doesn't know exactly where her umbrella is.
+Does he think it's probably back home?
+No, he doesn't think it's probably back home.
+Does he think it's probably back on the Subway?
+No, he doesn't think it's probably back on the subway.
+Does he think her umbrella is probably back in the restaurant?
+Yes, he thinks her umbrella is probably back in the restaurant.
+When he says "probably back in the restaurant", does it mean he knows exactly where it is?
+No, when he says "probably back in the restaurant", it means he doesn't know exactly where it is.
+When you don't know exactly.
+You say "probably".
+It's probably back in the restaurant.
+Maybe in the restaurant.
+Maybe not.
+Meanwhile.
+Lily is getting wet in the rain.
+She says.
+Josh, I'm getting all wet!
+Is she getting all dry in the rain?
+No, she isn't getting all dry in the rain.
+Is she getting all wet?
+Yes, she is getting all wet.
+Why?
+Because it's raining and she doesn't have her umbrella.
+Why is she getting all wet?
+She is getting all wet because it's raining and she doesn't have her umbrella.
+Why is she getting all wet?
+Is she getting a little wet?
+No, she isn't getting a little wet.
+Is she getting all wet?
+Yes, she is getting all wet.
+Is Josh holding her umbrella?
+No, Josh isn't holding her umbrella.
+Whose umbrella is he holding?
+He is holding his umbrella.
+Where is hers?
+Hers is probably back in the restaurant.
+Where is hers?
+Hers is probably back in the restaurant.
+Why isn't she holding her umbrella?
+She isn't holding her umbrella because it's probably back in the restaurant.
+Why is she getting all wet?
+She is getting all wet because she doesn't have her umbrella.
+The weather is very unpredictable.
+It's raining now.
+Josh got his umbrella.
+He is dry.
+He isn't getting wet.
+And Lily is getting all wet.
+Because Josh thinks her umbrella is probably back in the restaurant.
+It's probably back in the restaurant.
+Josh, I'm getting all wet.
+And Josh answers:
+Hmm, yes, you are!
+And now it's raining really hard.
+Is it raining a little?
+No, it isn't raining a little.
+Is it raining really hard now?
+Yes it's raining really hard now.
+How is it raining?
+It's raining really hard.
+How's the weather now?
+It's raining really hard now.
+How's the weather now?
+Is Josh getting all wet now?
+No, Josh isn't getting all wet now.
+Why not?
+Because he has his umbrella.
+Who is getting all wet now?
+Lily is getting all wet now.
+Why?
+Because she doesn't have her umbrella and it's raining really hard now.
+Why is Lily getting all wet?
+Lily is getting all wet because she doesn't have her umbrella and it's raining really hard.
+Where is her umbrella?
+Her umbrella is probably back in the restaurant.
+It's probably back in the restaurant.
+And she is standing here getting all wet because it's raining really hard.
+Josh, I'm getting all wet.
+Josh doesn't seem to care.
+Hmm, yes, you are!
+And now it's raining really hard.
+To which Lily responds.
+Josh, GIVE ME YOUR UMBRELLA!
+Does she want Josh to give her his umbrella?
+Yes, she wants Josh to give her his umbrella.
+What does she want Josh to give her?
+She wants Josh to give her his umbrella.
+What does she want Josh to give her?
+Does she like to get wet in the rain?
+No, she doesn't like to get wet in the rain.
+Why does she want Josh to give her his umbrella?
+She wants Josh to give her his umbrella because she doesn't like to get wet in the rain.
+Is Lily asking Josh to give her his umbrella?
+No, Lily isn't asking Josh to give her his umbrella.
+He is Lily telling Josh to give her his umbrella?
+Yes, Lily is telling Josh to give her his umbrella.
+What is she telling Josh to do?
+She is telling Josh to give her his umbrella.
+Yeah, let him get wet.
+If he doesn't like it. He can go back to the restaurant to get her umbrella.
+Meanwhile.
+Be a gentleman and give the lady your umbrella.
+----‐------------------------------------------------------

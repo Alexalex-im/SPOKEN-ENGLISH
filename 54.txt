@@ -1,0 +1,485 @@
+Do you like your car?
+No, I don't like my car.
+Do you want to buy a different car?
+Yes, I want to buy a different car.
+Is your car the same as mine?
+No, my car isn't the same as yours.
+Is your car different from mine?
+Yes, my car is different from yours.
+Which car do you think is better, mine, or yours?
+I think your car is better.
+You know as they say.
+It always seems like the grass is greener.
+On the other side of the fence.
+Do you always wear a seat belt when you drive a car?
+Yes, I always wear a seat belt when I drive a car.
+What do you always wear when you drive a car?
+I always wear a seat belt when I drive a car.
+What do you always wear when you drive a car?
+When your car is running out of gas, does it mean you have to go to the gas station to fill it up?
+Yes, when my car is running out of gas, it means I have to go to the gas station to fill it up.
+What does it mean when your car is running out of gas?
+When my car is running out of gas, it means I have to go to the gas station to fill it up.
+What does it mean when your car is running out of gas?
+Can you always predict when your car can run out of gas?
+Yes, I can always predict when my car can run out of gas.
+Of course you can.
+There is a fuel indicator.
+Sherlock .
+When you need to fill up your car, do you always look for a cheap gas station?
+Yes, when I need to fill up my car, I always look for a cheap gas station.
+Do you have to pay a lot of money for gas at an expensive gas station?
+Yes, I have to pay a lot of money for gas at an expensive gas station.
+Do you have a dead -end job?
+Yes, I have a dead -end job.
+Does it mean you have to find a different job?
+Yes, it means I have to find a different job.
+Are you a Harvard graduate?
+No, I'm not a Harvard graduate.
+Is it difficult for you to find a well paid job?
+Yes, it's difficult for me to find a well paid job.
+Do you have to have a lot of work experience to find a well paid job?
+Yes, I have to have a lot of work experience to find a well paid job.
+What do you have to have to find a well paid job?
+I have to have a lot of work experience to find a well paid job.
+What do you have to have to find a well paid job?
+Do you often take a train?
+No, I don't often take a train.
+Do you wear a seat belt on the train?
+No, I don't wear a seat belt on the train.
+Are there any seat belts on the train?
+Yes, there are seat belts on the train.
+Is this your car?
+Yes, this is my car.
+Is it a new car, or a used car?
+It's a used car.
+Is it out of gas?
+No, it's not out of gas.
+Is it broken?
+Yes, it's broken.
+What's wrong with your car?
+My car is broken.
+What's wrong with your car?
+What's wrong with your car?
+My car is broken.
+Can you drive a car if it's broken?
+No, I can't drive my car if it's broken.
+If you want to drive it, do you have to fix it first?
+Yes, if I want to drive it, I have to fix it first.
+Or buy a normal car.
+What do you have to do if you want to drive a broken car?
+If I want to drive a broken car, I have to fix it first.
+What do you have to do if you want to drive a broken car?
+Do you prefer to drive a new car, or a used car?
+I prefer to drive a new car.
+I need to fill up on gas.
+Is there a gas station nearby?
+No, there isn't a gas station nearby.
+Do you know why I need a gas station?
+Yes, I know why you need a gas station.
+Do I need a gas station because my car is low on gas?
+Yes, you need a gas station because your car is low on gas.
+Why do I need a gas station?
+You need a gas station because your car is low on gas.
+When you need to fill up your car, do you always look for cheap gas?
+Yes, when I need to fill up my car, I always look for cheap gas.
+Why?
+Because I don't have money for expensive gas.
+Why do you always look for cheap gas when you need to fill up your car?
+When I need to fill up my car, I always look for cheap gas because I don't have money for expensive gas.
+Does it make you feel good when you prepare hard for the exam, but they give you a bad grade?
+No, it doesn't make me feel good when I prepare hard for the exam, but they give me a bad grade.
+Does it make you feel bad when you prepare hard for the exam, but they give you a bad grade?
+Yes, it makes me feel bad when I prepare hard for the exam, but they give me a bad grade.
+How does it make you feel when you prepare hard for the exam, but they give you a bad grade?
+It makes me feel bad when I prepare hard for the exam, but they give me a bad grade.
+How does it make you feel when you prepare hard for the exam, but they give you a bad grade?
+Is it good for your grade if you get late for an exam?
+No, it's not good for my grade if I get late for an exam.
+Is it bad for your grade if you get late for an exam?
+Yes, It's bad for my grade if I get late for an exam.
+Do you have to pass all your exams if you want to stay in college?
+Yes, I have to pass all my exams if I want to stay in college.
+What do you have to do if you want to stay in college?
+I have to pass all my exams if I want to stay in college.
+If you fail too many exams, do you have a good chance of flunking out of college?
+Yes, if I fail too many exams, I have a good chance of flunking out of college.
+Do you think Josh is thinking about passing his exam?
+No, I don't think josh is thinking about passing his exam.
+Do you think josh wants to flunk out of college?
+Yes, I think Josh wants to flunk out of college.
+If Josh wants to flunk out of college, does he have to pass all his exams?
+No, if Josh wants to flunk out of college, he doesn't have to pass all his exams.
+If Josh wants to flunk out of college, Does he have to fail most of his exams?
+Yes, if Josh wants to flunk out of college he has to fail most of his exams.
+What does Josh have to do if he wants to flunk out of college?
+If Josh wants to flunk out of college, he has to fail most of his exams.
+What does Josh have to do if he wants to flunk out of college?
+What does Josh have to do if he wants to flunk out of college?
+If Josh wants to flunk out of college, he has to fail most of his exams.
+Do you want to graduate from college with good grades, or with bad grades?
+I want to graduate from college with good grades.
+What grades do you want to graduate from college with?
+I want to graduate from college with good grades.
+What grades do you want to graduate from college with?
+Do you have a better chance of finding a well paid job if you graduate with good grades?
+Yes, I have a better chance of finding a well paid job if I graduate with good grades.
+What do you have to do if you want to find a well paid job after graduation?
+If I want to find a well paid job after graduation, I have to graduate with good grades.
+What do you have to do if you want to find a well paid job after graduation?
+If I want to find a well paid job after graduation, I have to graduate with good grades.
+Bill is unlucky.
+He ran out of gas.
+In the middle of nowhere.
+He is out of gas.
+Are you driving?
+No, I'm not driving.
+Why not?
+Because I'm out of gas.
+Why aren't you driving?
+I'm not driving because I'm out of gas.
+Is there any snow here?
+Yes, there is a lot of snow here.
+Does your car run on snow?
+No, my car doesn't run on snow.
+What does your car run on?
+My car runs on gas.
+Do you need to go to the charging station to charge your car?
+No, I don't need to go to the charging station to charge my car.
+Why not?
+Because it's not an electric car.
+Do electric cars need gas to run?
+No, electric cars don't need gas to run.
+What do electric cars need to run?
+Electric cars need gas to run.
+What do electric cars need to run?
+What about your car, what does your car need to run?
+My car needs gas to run.
+Do you need to go to the gas station to fill up your car with gas?
+Yes, I need to go to the gas station to fill up my car with gas.
+Where do you need to go and why?
+I need to go to the gas station to fill up my car with gas.
+Is there a gas station nearby?
+No, there is no gas station nearby.
+Can you fill up your car at a gas station if you're out of money?
+No, I can't fill up my car at a gas station if I'm out of money.
+What do you need to have if you want to fill up your car at a gas station?
+If I want to fill up my car at a gas station, I need to have money.
+If you don't have money for gas, is it a good idea to fill up your car with snow?
+No, if I don't have money for gas, it's not a good idea to fill up my car with snow.
+If you don't have money for gas, is it a terrible idea to fill up your car with snow?
+Yes, if I don't have money for gas, it's a terrible idea to fill up my car with snow.
+It's the stupidest thing you cloud do.
+Paying for a tow truck would be the cheapest.
+And probably the only viable solution here.
+Does your car have a trunk?
+Yes, my car has a trunk.
+Do you need a trunk in a car?
+Yes, I need a trunk in a car.
+How many trunks does your car have?
+My car has one trunk.
+How many trunks does your car have?
+Do you keep anything in your trunk?
+Yes, I keep something in my trunk.
+Do you sleep in the trunk?
+No, I don't sleep in the trunk.
+Is there room for a spare tire in your trunk?
+No, there isn't room for a spare tire in my trunk.
+Does it mean your trunk is too small, or big enough for a spare tire?
+It means my trunk is too small for a spare tire.
+What does it mean if there is no room for a spare tire in your trunk?
+If there is no room for a spare tire in my trunk, it means my trunk is too small.
+Do you sometimes get a flat tire?
+Yes, I sometimes get a flat tire.
+Is it pleasant to get a flat tire?
+No, it's not pleasant to get a flat tire.
+Is it unpleasant to get a flat tire?
+Yes, it's unpleasant to get a flat tire.
+How is it to get a flat tire?
+It's unpleasant to get a flat tire.
+Do you know how to change a flat tire?
+Yes, I know how to change a flat tire.
+Do you have to call for a tow truck if you get a flat tire and don't know how to change it?
+Yes, I have to call for a tow truck if I get a flat tire and don't know how to change it.
+Who do you have to call for if you get a flat tire and don't know how to change it?
+I have to call for a tow truck if I get a flat tire and don't know how to change it.
+Who do you have to call for if you get a flat tire and don't know how to change it?
+MBA is a very desirable degree.
+Which means a lot of people want to get it.
+But it's very expensive and difficult to get.
+Is it cheap to get a quality MBA?
+No, it's not cheap to get a quality MBA.
+Does it cost a lot of get a quality MBA?
+Yes, it costs a lot to get a quality MBA.
+Do you have to go to a business school to get an MBA?
+Yes, I have to go to a business school to get an MBA.
+Do you have to go to a bar and drink a lot of beer to get an MBA?
+No, I don't have to go to a bar and drink a lot of beer to get an MBA.
+Where do you have to go to get an MBA?
+I have to go to a business school to get an MBA.
+Where do you have to go to get an MBA?
+Do you have to study hard there?
+Yes, I have to study hard there.
+If you don't study hard at a business school, do they kick you out?
+Yes, if I don't study hard at a business school, they kick me out.
+Why do you have to study hard at a business school?
+I have to study hard at a business school because if I don't, they kick me out.
+Why do you have to study hard at a business school?
+Why do you have to study hard at a business school?
+I have to study hard at a business school because if I don't, they kick me out.
+Entering an MBA program and paying your tuition.
+Is not enough.
+Study hard.
+Or get kicked out.
+Do you want to start a business?
+Yes, I want to start a business.
+Do you want to start a business tomorrow?
+No, I don't want to start a business tomorrow.
+You don't go into business like that.
+You have to be prepared.
+It might take years.
+Do you want to start a business in several years?
+Yes, I want to start a business in several years.
+Do you have to be well prepared before you start a business?
+Yes, I have to be well prepared before I start a business.
+Is it a good idea to start a business if you are unprepared?
+No, it's not a good idea to start a business if I'm unprepared.
+Can it take several years to prepare to start a business?
+Yes, it can take several years to prepare to start a business.
+How long can it take to prepare to start a business?
+It can take several years to prepare to start a business.
+How long can it take to prepare to start a business?
+Do you work here?
+Yes, I work here.
+Do you hang out here?
+No, I don't hang out here.
+What do you do here?
+I work here.
+Do you have any clients here now?
+No, I don't have any clients here now.
+Do you have a lot of clients lately?
+No, I don't have a lot of clients lately.
+Does it mean the business is going fine?
+No, it doesn't mean the business is going fine.
+Does it mean the business is going badly?
+Yes, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+If I don't have a lot of clients, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+Do you have a lot of time to rest when you don't have many clients?
+Yes, I have a lot of time to rest when I don't have many clients.
+Do people come to your bar when they run out of bread?
+No, people don't come to my bar when they run out of bread.
+Do people come to your bar when they want to have a beer?
+Yes, people come to my bar when they want to have a beer.
+When do people come to your bar?
+People come to my bar when they want to have a beer.
+Having very few clients is bad for you.
+You can't stay in business for long if you don't have enough clients.
+Is having a few clients good for your business?
+No, having a few clients isn't good for my business.
+Is having a few clients bad for your business?
+Yes, having a few clients is bad for my business.
+How is it to have a few clients?
+It's bad for my business to have a few clients.
+Can you stay in business for long if you don't have any clients?
+No, I can't stay in business for long if I don't have any clients.
+You want to stay in business.
+You need some clients to bring some cash.
+Otherwise.
+You go out of business.
+Do you have to go out of business if you don't have enough clients?
+Yes, I have to go out of business if I don't have enough clients.
+What do you have to do if you don't have enough clients?
+I have to go out of business if I don't have enough clients.
+A gym
+To work out
+People go to the gym to workout
+To be fit
+To stay fit
+If you want to be fit, eat healthy
+You can't stay fit by eating junk food
+Regularly
+People who want to stay fit regularly go to the gym
+To understand
+I understand how important it is to work out regularly
+Necessary
+It is necessary to eat healthy if you want to be fit
+To be organized
+You need to be well organized if you want to start a business
+To avoid
+You have to avoid junk food if you want to stay fit.
+Do you go to the gym regularly?
+Yes, I go to the gym regularly.
+Do you go to the gym to hang out with your friends and drink beer?
+No, I don't go to the gym to hang out with my friends and drink beer.
+Do you go to the gym to watch movies?
+No, I don't go to the gym to watch movies.
+Do you go to the gym to play video games?
+No, I don't go to the gym to play video games.
+Do you go to the gym to workout?
+Yes, I go to the gym to workout.
+How often do you go to the gym to workout?
+I regularly go to the gym to workout.
+Why do you regularly go to the gym?
+I regularly go to the gym to workout.
+Why do you regularly go to the gym?
+Do you want to stay fit?
+Yes, I want to stay fit.
+Staying fit.
+If you want to stay fit.
+Working out is not the only thing you need to do.
+You also have to eat healthy food.
+And avoid junk food.
+If you want to stay fit, is working out the only thing you need to do?
+No, if I want to stay fit, working out is not the only thing I need to do.
+If you want to stay fit, is it necessary to eat healthy food?
+Yes, if I want to stay fit, it is necessary to eat healthy food.
+Is it better to avoid junk food if you want to stay fit?
+Yes, it's better to avoid junk food if I want to stay fit.
+What food do you have to eat if you want to stay fit?
+I have to eat healthy food if I want to stay fit.
+What food do you have to eat if you want to stay fit?
+What food do you have to avoid if you want to stay fit?
+I have to avoid junk food if I want to stay fit.
+What food do you have to avoid if you want to stay fit?
+Do you usually avoid eating junk food?
+No, I don't usually avoid eating junk food.
+Do you usually avoid eating junk food?
+Do you understand how bad junk food is for you?
+Yes, I understand how bad junk food is for me.
+Do you regularly eat junk food for lunch?
+Yes, I regularly eat junk food for lunch.
+What kind of food do you regularly eat for lunch?
+I regularly eat junk food for lunch.
+Can you become fit by eating junk food?
+No, I can't become fit by eating junk food.
+What time do you usually get up in the morning?
+I usually get up at 6 o'clock in the morning.
+Do you work out before you go to work?
+No, I don't work out before I go to work.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+How do you like your cereal?
+I like my cereal with milk.
+How do you like your cereal?
+I like my cereal with milk.
+What time do you usually leave home?
+I usually leave home at 7 AM.
+Do you drive your car to work?
+Yes, I drive my car to work.
+How do you get to work?
+I drive my car to work.
+How do you get to work?
+I drive my car to work.
+Do you drive to work during rush hour?
+Yes, I drive to work during rush hour.
+Are you often stuck in traffic during rush hour?
+Yes, I'm often stuck in traffic during rush hour.
+Is it cool to be stuck in traffic during rush hour?
+No, it's not cool to be stuck in traffic during rush hour.
+Is it boring to be stuck in traffic during rush hour?
+Yes, it's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+It's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+Do you usually have a lot of work to do during the day?
+Yes, I usually have a lot of work to do during the day.
+Do you regularly miss work?
+No, I don't regularly miss work.
+Can you miss your work when you just want to stay home?
+No, I can't miss my work when I just want to stay home.
+Can you miss your work when you just want to stay home?
+If you miss a few workdays because you just want to stay home, can you get fired?
+Yes, if I miss a few work days because I just want to stay home, I can get fired.
+Do you want to get fired?
+No, I don't want to get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Do you usually try to avoid heavy traffic when you go to work?
+Yes, I usually try to avoid heavy traffic when I go to work.
+Why?
+Because I don't like to be stuck in traffic.
+Why do you usually try to avoid heavy traffic when you go to work?
+I usually try to avoid heavy traffic when I go to work because I don't like to be stuck in traffic.
+Are you driving your car now?
+No, I'm not driving my car now.
+Are you out of gas?
+No, I'm not out of gas.
+Do you have a flat tire?
+Yes, I have a flat tire.
+What's wrong with your tire?
+My tire is flat.
+What's wrong with your tire?
+My tire is flat.
+Why aren't you driving your car?
+I'm not driving my car because I have a flat tire.
+Do you regularly get a flat tire?
+No, I don't regularly get a flat tire.
+Is my car the same as yours?
+No, your car isn't the same as mine.
+Is my car different from yours?
+Yes, your car is different from mine.
+Do I drive a small expensive sports car?
+No, you don't drive a small expensive sports car.
+Do I drive a tow truck?
+Yes, you drive a tow truck.
+What kind of truck do I drive?
+You drive a tow truck .
+Do I have a flat tire too?
+No, you don't have a flat tire too.
+Does your car have a trunk?
+Yes, my car has a trunk.
+Do you have a spare tire in your trunk?
+No, I don't have a spare tire in my trunk.
+Is your trunk big enough to fit a spare tire in it?
+No, my trunk isn't big enough to fit a spare tire in it.
+Is your trunk too small to fit a spare tire in it?
+Yes, my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Do you want me to take your car to the garage?
+Yes, I want you to take my car to the garage.
+Where do you want me to take your car?
+I want you to take my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Do you often go to the doctor?
+No, I don't often go to the doctor.
+Does it cost a little to see a doctor everyday?
+No, it doesn't cost a little to see a doctor every day.
+Does it cost a lot of money to see a doctor every day?
+Yes, it costs a lot of money to see a doctor every day.
+How much does it cost to see a doctor everyday?
+It costs a lot of money to see a doctor everyday.
+How much does it cost to see a doctor everyday?
+Why don't you see a doctor every day?
+I don't see a doctor every day because it costs a lot of money.
+Why don't you see a doctor every day?
+I don't see a doctor every day because it costs a lot of money.
+Do you always fasten your seat belt before you start driving your car?
+Yes, I always fasten my seat belt before I start driving my car.
+What do you always do before you start driving your car?
+I always fasten my seat belt before I start driving my car.
+What do you always do before you start driving your car?
+Are you wearing a seat belt now?
+No, I'm not wearing a seat belt now.
+Why not?
+Because I'm not driving a car.
+Why aren't you wearing a seat belt now?
+I'm not wearing a seat belt now because I'm not driving.
+Why aren't you wearing a seat belt now?
+Do you understand how important it is to wear a seat belt when you drive?
+Yes, I understand how important it is to wear a seat belt when I drive.
+Do you understand how important it is to wear a seat belt when you drive?
+Do you know people who don't wear a seat belt when they drive?
+Yes, I know people who don't wear a seat belt when they drive.
+Do you think they understand how important it is it to wear a seat belt when they drive?
+No, I think they don't understand how important it is to wear a seat belt when they drive.
+----‐------------------------------------------------------

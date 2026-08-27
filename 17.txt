@@ -1,0 +1,632 @@
+What time do you usually have your dinner?
+I usually have my dinner at 7 PM.
+What time do you usually have your dinner?
+Do you eat your dinner before or after you go to bed?
+I eat my dinner before I go to bed.
+Do you eat ever breakfast in bed?
+No, I don't eat my breakfast in bed.
+Do you drink coffee in bed before you get up?
+No, I don't drink coffee in bed before I get up.
+Do you usually put sugar in your coffee?
+Yes, I usually put sugar in my coffee.
+Do you put much sugar in your coffee?
+No, I don't put much sugar in my coffee.
+Do you put a little sugar in your coffee?
+Yes, I put a little sugar in my coffee.
+Do you like hamburgers?
+Yes, I like hamburgers.
+Do they put meat in the hamburgers?
+Yes, they put meat in the hamburgers.
+Do you like your hamburgers with or without meat?
+I like my hamburgers with meat.
+How do you like your hamburger?
+I like my hamburger with meat.
+Do you usually sleep a lot during the night?
+No, I don't usually sleep a lot During the night.
+Do you usually sleep a little during the night?
+Yes, I usually sleep a little during the night.
+What time do you usually get up?
+I usually get up at 6 AM.
+What time do you usually go to sleep?
+I usually go to sleep at 12 o'clock midnight.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+Is 6 hours of sleep a lot?
+No, 6 hours of sleep isn't a lot.
+Is 6 hours of sleep a little?
+Yes, 6 hours of sleep is a little.
+Is it good for you to sleep a little every night?
+No, it's not good for me sleep a little will every night.
+Is it healthy to sleep a little every night?
+No, it's not healthy to sleep a little every night?
+Sleep 6 to 8 hours every night.
+Eat healthy.
+And you'll be fine.
+Do you eat meat?
+Yes, I eat meat.
+Do you eat meat 2 o'clock in the morning?
+No, I don't eat meat at 2 o'clock in the morning.
+Is it good for you to eat meat at 2 o'clock in the morning?
+No, it's not good for me to eat meet at 2 o'clock in the morning.
+Is it bad for you to eat meat at 2 o'clock in the morning?
+Yes, it's bad for me to eat meat at 2 o'clock in the morning.
+Is it bad for you to eat meat at 2 o'clock in the morning?
+Why don't you eat meat at night?
+I don't eat meat at night because it's bad for me to eat meat at night.
+Why don't you eat meat at night?
+I don't eat meat at night because it's bad for me to eat meat at night.
+Do they put sugar in French fries?
+No, they don't put sugar in French fries.
+Do they put salt in French fries?
+Yes, they put salt in French fries.
+What do they put in French fries?
+They put salt in French fries.
+What do they put in French fries?
+What do they put in French fries?
+They put salt in French fries.
+Do they put a little salt in French fries?
+No, they don't put a little salt in French fries.
+Do they put a lot of salt in French fries?
+Yes, They put a lot of salt in French fries.
+How much salt do they put in French fries?
+They put a lot of salt in French fries.
+How much salt do they put in French fries?
+Is a hamburger healthy?
+No, a hamburger isn't healthy.
+Are French fries healthy?
+No, French fries aren't healthy.
+Is this healthy food?
+No, this isn't healthy food.
+Is this junk food?
+Yes, this is junk food.
+Do you often go to the movies?
+Yes, I often go to the movies.
+Do you go to the movies everyday?
+No, I don't go to the movies every day.
+Do you eat junk food at the movie theatre?
+Yes, I eat junk food at the movie theatre.
+Do you eat healthy food at the movie theatre?
+No, I don't eat healthy food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+Do you go to the movie theatre to watch movies or to eat junk food?
+I go to the movie theatre to watch movies.
+Do you go to the movie theatre to watch movies or to eat junk?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+Do you eat your junk food before the movie?
+No, I don't eat my junk food before the movie.
+Do you eat your junk food after the movie?
+No, I don't eat my junk food after the movie.
+Do you eat your junk food during the movie?
+Yes, I eat my junk food during the movie.
+When you go to the movie theatre when do you eat your junk food?
+When I go to the movie theatre I eat my junk food during the movie.
+When you go to the movie theatre when do you eat your junk food?
+Do you get up at 2 AM every day?
+No, I don't get up at 2 AM everyday.
+Do you get up at 6 AM every day?
+Yes, I get up at 6 AM every day.
+What time do you get up everyday?
+I get up at 6 AM everyday.
+What time do you get up every day?
+Do you sleep during the day?
+No, I don't sleep during the day.
+Do you sleep on the train?
+No, I don't sleep on the train.
+Do you usually have breakfast before you go to work?
+Yes, I usually have breakfast before I go to work.
+Do you usually have time to have breakfast before you go to work?
+Yes, I usually have time to have breakfast before I go to work.
+Do you have your breakfast before you get up?
+No, I don't have my breakfast before I get up.
+Do you have your breakfast after you get up?
+Yes, I have my breakfast after I get up.
+What time do you usually have Your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What time do you usually have your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+What do you usually eat for breakfast?
+How do you like your cereal with milk or without it?
+I like my cereal with milk.
+Is cereal good for you in the morning?
+Yes, cereal is good for me in the morning.
+Why do you eat cereal in the morning?
+I eat cereal in the morning because it's good for me.
+Do you usually have dinner before work or after work?
+I usually have dinner after work.
+What do you usually eat for dinner?
+I usually eat a salad for dinner.
+Is a salad healthy food?
+Yes, a salad is healthy food.
+Is a salad junk food?
+No, a salad isn't junk food.
+Light salad is good for you.
+It's not junk.
+It's healthy.
+But too much of it of course.
+What time do you usually have your dinner?
+I usually have my dinner at 7 PM.
+What time do you usually have your dinner?
+Do you eat your dinner before or after you go to bed?
+I eat my dinner before I go to bed.
+Do you eat ever breakfast in bed?
+No, I don't eat my breakfast in bed.
+Do you drink coffee in bed before you get up?
+No, I don't drink coffee in bed before I get up.
+Do you usually put sugar in your coffee?
+Yes, I usually put sugar in my coffee.
+Do you put much sugar in your coffee?
+No, I don't put much sugar in my coffee.
+Do you put a little sugar in your coffee?
+Yes, I put a little sugar in my coffee.
+Do you like hamburgers?
+Yes, I like hamburgers.
+Do they put meat in the hamburgers?
+Yes, They put meat in the hamburgers.
+Do you like your hamburgers with or without meat?
+I like my hamburgers with meat.
+How do you like your hamburger?
+I like my hamburger with meat.
+Do you usually sleep a lot during the night?
+No, I don't usually sleep a lot During the night.
+Do you usually sleep a little during the night?
+Yes, I usually sleep a little during the night.
+What time do you usually get up?
+I usually get up at 6 AM.
+What time do you usually go to sleep?
+I usually go to sleep at 12 o'clock midnight.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+Is 6 hours of sleep a lot?
+No, 6 hours of sleep isn't a lot.
+Is 6 hours of sleep a little?
+Yes, 6 hours of sleep is a little.
+Is it good for you to sleep a little every night?
+No, it's not good for me sleep a little will every night.
+Is it healthy to sleep a little every night?
+No, it's not healthy to sleep a little every night.
+Sleep 6 to 8 hours every night.
+Eat healthy.
+And you'll be fine.
+Do you eat meat?
+Yes, I eat meat.
+Do you eat meat 2 o'clock in the morning?
+No, I don't eat meat at 2 o'clock in the morning.
+Is it good for you to eat meat at 2 o'clock in the morning?
+No, it's not good for me to eat meet at 2 o'clock in the morning.
+Is it bad for you to eat meat at 2 o'clock in the morning?
+Yes, it's bad for me to eat meat at 2 o'clock in the morning.
+Is it bad for you to eat meat at 2 o'clock in the morning?
+Why don't you eat meat at night?
+I don't eat meat at night because it's bad for me to eat meat at night.
+Why don't you eat meat at night?
+I don't eat meat at night because it's bad for me to eat meat at night.
+Do they put sugar in French fries?
+No, they don't put sugar in French fries.
+Do they put salt in French fries?
+Yes, they put salt in French fries.
+What do they put in French fries?
+They put salt in French fries.
+What do they put in French fries?
+What do they put in French fries?
+They put salt in French fries.
+Do they put a little salt in French fries?
+No, they don't put a little salt in French fries.
+Do they put a lot of salt in French fries?
+Yes, They put a lot of salt in French fries.
+How much salt do they put in French fries?
+They put a lot of salt in French fries.
+How much salt do they put in French fries?
+Is a hamburger healthy?
+No, a hamburger isn't healthy.
+Are French fries healthy?
+No, French fries aren't healthy.
+Is this healthy food?
+No, this isn't healthy food.
+Is this junk food?
+Yes, this is junk food.
+Do you often go to the movies?
+Yes, I often go to the movies.
+Do you go to the movies everyday?
+No, I don't go to the movies every day.
+Do you eat junk food at the movie theatre?
+Yes, I eat junk food at the movie theatre.
+Do you eat healthy food at the movie theatre?
+No, I don't eat healthy food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+Do you go to the movie theatre to watch movies or to eat junk food?
+I go to the movie theatre to watch movies.
+Do you go to the movie theatre to watch movies or to eat junk?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+Do you eat your junk food before the movie?
+No, I don't eat my junk food before the movie.
+Do you eat your junk food after the movie?
+No, I don't eat my junk food after the movie.
+Do you eat your junk food during the movie?
+Yes, I eat my junk food during the movie.
+When you go to the movie theatre when do you eat your junk food?
+When I go to the movie theatre I eat my junk food during the movie.
+When you go to the movie theatre when do you eat your junk food?
+Do you get up at 2 AM every day?
+No, I don't get up at 2 AM everyday.
+Do you get up at 6 AM every day?
+Yes, I get up at 6 AM every day.
+What time do you get up everyday?
+I get up at 6 AM everyday.
+What time do you get up every day?
+Do you sleep during the day?
+No, I don't sleep during the day.
+Do you sleep on the train?
+No, I don't sleep on the train.
+Do you usually have breakfast before you go to work?
+Yes, I usually have breakfast before I go to work.
+Do you usually have time to have breakfast before you go to work?
+Yes, I usually have time to have breakfast before I go to work.
+Do you have your breakfast before you get up?
+No, I don't have my breakfast before I get up.
+Do you have your breakfast after you get up?
+Yes, I have my breakfast after I get up.
+What time do you usually have Your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What time do you usually have your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+What do you usually eat for breakfast?
+How do you like your cereal with milk or without it?
+I like my cereal with milk.
+Is cereal good for you in the morning?
+Yes, cereal is good for me in the morning.
+Why do you eat cereal in the morning?
+I eat cereal in the morning because it's good for me.
+Do you usually have dinner before work or after work?
+I usually have dinner after work.
+What do you usually eat for dinner?
+I usually eat a salad for dinner.
+Is a salad healthy food?
+Yes, a salad is healthy food.
+Is a salad junk food?
+No, a salad isn't junk food.
+Light salad is good for you.
+It's not junk.
+It's healthy.
+But too much of it of course?
+What time do you usually have your dinner?
+I usually have my dinner at 7 PM.
+What time do you usually have your dinner?
+Do you eat your dinner before or after you go to bed?
+I eat my dinner before I go to bed.
+Do you eat ever breakfast in bed?
+No, I don't eat my breakfast in bed.
+Do you drink coffee in bed before you get up?
+No, I don't drink coffee in bed before I get up.
+Do you usually put sugar in your coffee?
+Yes, I usually put sugar in my coffee.
+Do you put much sugar in your coffee?
+No, I don't put much sugar in my coffee.
+Do you put a little sugar in your coffee?
+Yes, I put a little sugar in my coffee.
+Do you like hamburgers?
+Yes, I like hamburgers.
+Do they put meat in the hamburgers?
+Yes, They put meat in the hamburgers.
+Do you like your hamburgers with or without meat?
+I like my hamburgers with meat.
+How do you like your hamburger?
+I like my hamburger with meat.
+Do you usually sleep a lot during the night?
+No, I don't usually sleep a lot During the night.
+Do you usually sleep a little during the night?
+Yes, I usually sleep a little during the night.
+What time do you usually get up?
+I usually get up at 6 AM.
+What time do you usually go to sleep?
+I usually go to sleep at 12 o'clock midnight.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+How long do you sleep at night?
+I sleep for 6 hours at night.
+Is 6 hours of sleep a lot?
+No, 6 hours of sleep isn't a lot.
+Is 6 hours of sleep a little?
+Yes, 6 hours of sleep is a little.
+Is it good for you to sleep a little every night?
+No, it's not good for me sleep a little will every night.
+Is it healthy to sleep a little every night?
+No, it's not healthy to sleep a little every night.
+Sleep 6 to 8 hours every night
+Eat healthy.
+And you'll be fine.
+Is it hot here now?
+No, it's not hot here now.
+Is it warm here now?
+No, it's not warm here now.
+Is it cool here now?
+No, it's not cool here now.
+Is it cold here now?
+Yes, it's cold here now.
+Do you like it when it's cold?
+No, I don't like it when it's cold.
+Do you like it when it's very hot?
+No, I don't like it when it's very hot.
+Do you like to sleep in your fridge when it's very hot?
+No, I don't like to sleep in my fridge when it's very hot.
+Fridge is not a good idea.
+Nothing is better than your comfy bed.
+Is it hot in your fridge?
+No, it's not hot in my fridge.
+Is it cold in your fridge?
+Yes, it's cold in my fridge.
+Do you have a stomach?
+Yes, I have a stomach.
+How many stomachs do you have?
+I have one stomach.
+Is your stomach full now?
+No, my stomach isn't full now.
+Is your stomach empty now?
+Yes, my stomach is empty now.
+Is there room for a pizza in your stomach now?
+Yes, there is room for a pizza in my
+Stomach now.
+Is there room for 10 big hamburgers in your stomach now?
+No, there isn't room for 10 big hamburgers in my stomach now.
+Is there too little room for 10 hamburgers in your stomach now?
+Yes, there is too little room for 10 hamburgers in my stomach now.
+Do you usually leave for work at 4 AM?
+No, I don't usually leave for work at 4 AM.
+What time do you usually leave for work?
+I usually leave for work at 8 AM.
+Are streets empty of people at 4 AM?
+Yes streets are empty of people at 4 AM.
+Why?
+Because people usually sleep at 4 AM.
+Why are streets usually empty of people at 4 AM?
+Streets are usually empty of people at 4 AM because people usually sleep at 4 AM.
+Why are streets usually empty of people at 4 AM?
+Is there a lot of traffic at 4 AM?
+No, there isn't a lot of traffic at 4 AM
+Why not?
+Because people usually sleep at the 4 am.
+Is it too late for you to leave for work at 10 AM?
+It's too late for me to leave for work at 10 AM.
+If your work starts at 9.
+You have to leave at 8.
+Otherwise, you'll be late for work.
+Do you have a Fridge?
+Yes, I have a fridge.
+How many fridges do you have?
+I have one fridge.
+How many fridges do you have?
+Do you like your fridge?
+Yes, I like my fridge.
+Is your fridge light?
+No, my fridge isn't light.
+Is your fridge heavy?
+Yes, my fridge is heavy.
+Is there any food in your fridge?
+Yes, there is some food in my fridge.
+Is there a little food in your fridge now?
+No, there isn't a little food in my fridge now.
+Is there a lot of food in your fridge now?
+Yes, there is a lot of food in my fridge now.
+How much food is there in your fridge now?
+There is a lot of food in my fridge now.
+How much food is there in your fridge now?
+Is the food in your fridge cold or hot?
+The food in my fridge is cold.
+Do you like to eat cold food from the fridge?
+No, I don't like to eat cold food from the fridge.
+Do you always have some food in your fridge?
+No, I don't always have some food in my fridge.
+Do you always eat a dessert after dinner?
+No, I don't always eat a dessert after dinner.
+Do you like to eat a piece of cake for dessert?
+Yes, I like to eat a piece of cake for dessert.
+How many pieces of cake do you usually eat for dessert?
+I usually eat one piece of cake for dessert.
+Is it good for your stomach to eat 5 big pieces of cake for dessert?
+No, it's not good for my stomach to eat 5 big pieces of cake for dessert.
+Is it too bad for your stomach to eat 5 big pieces of cake for dessert?
+Yes, it's too bad for my stomach to eat 5 big pieces of cake for dessert.
+Yeah and then go to sleep.
+Do you have a fridge in your bathroom?
+No, I don't have a fridge in my bathroom.
+Do you want to have a fridge in your bathroom?
+No, I don't want to have a fridge in my bathroom.
+Is there room for 10 fridges in your bathroom?
+No, there isn't room for 10 fridges in my bathroom.
+Are 10 slices of pizza and 3 pieces of cake light breakfast?
+No, 10 slices of pizza and 3 pieces of cake aren't light breakfast.
+Are 10 slices of pizza and 3 pieces of cake very heavy breakfast?
+Yes, 10 slices of pizza and 3 pieces of cake are very heavy breakfast.
+When you eat your lunch, do you always leave some room for dessert?
+No, When I eat my lunch, I don't always leave some room for dessert.
+When you eat your lunch, do you always leave some room for dessert?
+Do you sleep in the kitchen?
+No, I don't sleep in the kitchen.
+Are there any beds in your kitchen?
+No, there aren't any beds in my kitchen.
+Do you sleep in the living room?
+No, I don't sleep in the living room.
+Do you have a living room?
+Yes, I have a living room.
+Do you have a bathroom?
+Yes, I have a bathroom.
+How many bathrooms do you have?
+I have one bathroom.
+How many bathrooms do you have?
+Do you sleep in the bathroom.
+No, I don't sleep in the bathroom.
+Do you want to sleep in the bathroom?
+No, I don't want to sleep in the bathroom.
+Are there any beds in your bathroom?
+No, there aren't any beds in my bathroom.
+Do you sleep in your bedroom?
+Yes, I sleep in my bedroom.
+Do you sleep on the floor or in your bed?
+I sleep in my bed.
+How many beds are there in your bedroom?
+There is one bed in my bedroom.
+How many beds are there in your bedroom?
+To mean
+What do you mean
+What does it mean
+Hungry
+Thirsty
+Water
+A grocery store
+To go grocery shopping
+To come
+To come to work
+To come home
+To think
+Tasty
+To taste
+It tastes good
+How does it taste
+Gross
+Only
+Are there any grocery stores on the street where you live?
+Yes, There are some grocery stores on the street where I alive.
+Do you often go grocery shopping?
+No, I don't often go grocery shopping.
+Do you go grocery shopping everyday?
+No, I don't go grocery shopping every day.
+Do grocery stores usually work at night?
+No, grocery stores don't usually work at night.
+Do grocery stores only work during the day?
+Yes, Grocery stores only work during the day.
+When do grocery stores usually work?
+Grocery stores usually work during the day.
+When do grocery stores usually work?
+Why don't you go grocery shopping at night?
+I don't go grocery shopping at night because grocery stores don't work at night.
+Why don't you go grocery shopping at night?
+Why don't you go grocery shopping at night?
+I don't go grocery shopping at night because grocery stores don't work at night.
+Are you hungry now?
+Yes, I'm hungry now.
+Is there room for food in your stomach now?
+Yes, there is room for food in my stomach now.
+When you are hungry, does it mean you want to eat?
+Yes, when I'm hungry, it means I want to eat.
+When you are hungry, does it mean you want to drink?
+No, when I'm hungry it doesn't mean I want to drink.
+When you are hungry does it mean you want to sleep?
+No, when I'm hungry, it doesn't mean I want to sleep.
+What does it mean when you are hungry?
+When I'm hungry, it means I want to eat?
+What does it mean when you are hungry?
+When I'm hungry, it means I want to eat.
+Do you like to be hungry?
+No, I don't like to be hungry.
+When you are hungry, do you eat, or do you drink?
+When I'm hungry, I eat.
+What do you do when you are hungry?
+When I'm hungry, I eat.
+What do you do when you are hungry?
+Is there any food at this grocery store?
+Yes, There is some food at this grocery store.
+Is there a little food here?
+Is there a lot of food here at this grocery store.
+Yes, there is a lot of food here at this grocery store.
+How much food is there at this grocery store?
+There is a lot of food at this grocery store.
+How much food is there at this grocery store?
+Do you usually come to work at 10 o'clock in the morning?
+No, I don't usually come to work at 10 o'clock in the morning.
+Do you usually come to work at 8 o'clock at night?
+No, I don't usually come to work at 8 o'clock at night.
+What time do you usually come to work in the morning?
+I usually come to work at 9 o'clock in the morning.
+Do you take a bus to work?
+No, I don't take a bus to work.
+Do you take a train to work?
+Yes, I take a train to work.
+How do you go to work?
+I take a train to work.
+How do you go to work?
+How do you go to work?
+I take a train to work.
+Do you usually drink a cup of coffee after you come to work?
+Yes, I usually drink a cup of coffee after I come to work.
+What do you usually drink after you come to work?
+I usually drink a cup of coffee after I come to work.
+How many cups of coffee do you drink after you come to work in the morning?
+I drink one cup of coffee after I come to work in the morning.
+How many cups of coffee do you drink after you come to work in the morning?
+Do you like your coffee with milk, or without milk?
+I like my coffee with milk.
+Do you put any sugar in your coffee?
+Yes, I put some sugar in my coffee.
+How do you like your coffee?
+I like my coffee with milk and sugar.
+How do you like your coffee?
+Do you think coffee without milk and sugar is tasty?
+No, I think coffee without milk and sugar isn't tasty.
+Do you think coffee without milk and sugar is gross?
+Yes, I think coffee without milk and sugar is gross.
+Does coffee taste good to you with or without milk.
+Coffee tastes good to me with milk.
+How does coffee taste without milk?
+Coffee tests bad without milk.
+Are you thirsty now?
+Yes, I'm thirsty now.
+When you are thirsty, does it mean you want to drink some water?
+Yes, when I'm thirsty, it means I want to drink some water.
+When you are thirsty, does it mean you want to eat some food.
+No ,when I'm thirsty, it doesn't mean I want to eat some food.
+When you are thirsty, does it mean you want to watch a movie?
+No, when I'm thirsty, it doesn't mean I want to watch a movie.
+What does it mean when you are thirsty?
+When I'm thirsty, it means I want to drink some water.
+What does it mean when you are thirsty?
+Do you like French fries?
+Yes, I like French fries.
+Is there usually a lot of salt in French fries?
+Yes, there is usually a lot of salt in French fries.
+Do French fries taste good without salt?
+No, French fries don't taste good without salt.
+How do French fries taste without salt?
+French fries taste bad without salt.
+How do French fries taste without salt?
+French fries taste bad without salt.
+Unfortunately.
+with so much salt.
+It's really bad junk food.
+Are French fries junk food, or healthy food?
+French fries are junk food.
+Do you often eat junk food at the movie theatre?
+Yes, I often eat junk food at the movie theatre.
+Do you drink soda with it?
+Yes, I drink soda with it.
+What do you usually drink with your junk food at the movie theatre?
+I usually drink soda with my junk food at the movie theatre.
+Does junk food usually taste good, or bad?
+Junk food usually tastes good.
+How does junk food usually tastes?
+Junk food usually tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+It's a very bad habit.
+And a very difficult one to quit.
+----‐------------------------------------------------------

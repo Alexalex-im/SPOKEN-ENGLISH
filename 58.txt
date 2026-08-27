@@ -1,0 +1,556 @@
+Do you usually avoid eating junk food?
+No, I don't usually avoid eating junk food.
+Do you usually avoid eating junk food?
+Do you understand how bad junk food is for you?
+Yes, I understand how bad junk food is for me.
+Do you regularly eat junk food for lunch?
+Yes, I regularly eat junk food for lunch.
+What kind of food do you regularly eat for lunch?
+I regularly eat junk food for lunch.
+Can you become fit by eating junk food?
+No, I can't become fit by eating junk food.
+What time do you usually get up in the morning?
+I usually get up at 6 o'clock in the morning.
+Do you work out before you go to work?
+No, I don't work out before I go to work.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+How do you like your cereal?
+I like my cereal with milk.
+How do you like your cereal?
+I like my cereal with milk.
+What time do you usually leave home?
+I usually leave home at 7 AM.
+Do you drive your car to work?
+Yes, I drive my car to work.
+How do you get to work?
+I drive my car to work.
+How do you get to work?
+I drive my car to work.
+Do you drive to work during rush hour?
+Yes, I drive to work during rush hour.
+Are you often stuck in traffic during rush hour?
+Yes, I'm often stuck in traffic during rush hour.
+Is it cool to be stuck in traffic during rush hour?
+No, it's not cool to be stuck in traffic during rush hour.
+Is it boring to be stuck in traffic during rush hour?
+Yes, it's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+It's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+Do you usually have a lot of work to do during the day?
+Yes, I usually have a lot of work to do during the day.
+Do you regularly miss work?
+No, I don't regularly miss work.
+Can you miss your work when you just want to stay home?
+No, I can't miss my work when I just want to stay home.
+Can you miss your work when you just want to stay home?
+If you miss a few workdays because you just want to stay home, can you get fired?
+Yes, if I miss a few work days because I just want to stay home, I can get fired.
+Do you want to get fired?
+No, I don't want to get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Do you usually try to avoid heavy traffic when you go to work?
+Yes, I usually try to avoid heavy traffic when I go to work.
+Why?
+Because I don't like to be stuck in traffic.
+Why do you usually try to avoid heavy traffic when you go to work?
+I usually try to avoid heavy traffic when I go to work because I don't like to be stuck in traffic.
+Are you driving your car now?
+No, I'm not driving my car now.
+Are you out of gas?
+No, I'm not out of gas.
+Do you have a flat tire?
+Yes, I have a flat tire.
+What's wrong with your tire?
+My tire is flat.
+What's wrong with your tire?
+My tire is flat.
+Why aren't you driving your car?
+I'm not driving my car because I have a flat tire.
+Do you regularly get a flat tire?
+No, I don't regularly get a flat tire.
+Is my car the same as yours?
+No, your car isn't the same as mine.
+Is my car different from yours?
+Yes, your car is different from mine.
+Do I drive a small expensive sports car?
+No, you don't drive a small expensive sports car.
+Do I drive a tow truck?
+Yes, you drive a tow truck.
+What kind of truck do I drive?
+You drive a tow truck .
+Do I have a flat tire too?
+No, you don't have a flat tire too.
+Does your car have a trunk?
+Yes, my car has a trunk.
+Do you have a spare tire in your trunk?
+No, I don't have a spare tire in my trunk.
+Is your trunk big enough to fit a spare tire in it?
+No, my trunk isn't big enough to fit a spare tire in it.
+Is your trunk too small to fit a spare tire in it?
+Yes, my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Do you want me to take your car to the garage?
+Yes, I want you to take my car to the garage.
+Where do you want me to take your car?
+I want you to take my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Can you read?
+Yes, I can read.
+How many words a minute can you read?
+I can read about 300 words a minute.
+How many words a minute can you read?
+How many words a minute can you read?
+I can read about 300 words a minute.
+Do you think you read slowly?
+No, I don't think I read slowly.
+Do you think you read fast?
+Yes, I think I read fast.
+If Jack can read just 20 words a minute, does it mean he reads slowly or fast?
+If Jack can read just 20 words a minute, it means he reads slowly.
+What does it mean if Jack can read just 20 words a minute?
+If Jack can read just 20 words a minute, it means he reads slowly.
+What does it mean if Jack can read just 20 words a minute?
+Can you write?
+Yes, I can write.
+Do you often have to write long papers at this library?
+Yes, I often have to write long papers at this library.
+How often do you have to write long papers at this library?
+I have to write long papers at this library several times a week.
+How often do you have to write long papers at this library?
+How often do you have to write long papers at this library?
+I have to write long papers at this library several times a week.
+Do you write those papers because you want to, or because you have to?
+I write those papers because I have to.
+Do your teachers make you write long papers several times a week?
+Yes, my teachers make me write long papers several times a week.
+Who makes you write long papers several times a week?
+My teachers make me write long papers several times a week.
+How many words a minute can you write?
+I can write about 40 words a minute.
+How many words a minute can you write?
+How many words a minute can you write?
+I can write about 40 words a minute.
+Do you think you write slowly, or quickly?
+I think I write quickly.
+If Jack can write only 5 words a minute, does it mean he writes slowly, or quickly?
+If Jack can write only 5 words a minute, it means he writes slowly.
+What does it mean if Jack can write only 5 words a minute?
+If Jack can write only 5 words a minute, it means he writes slowly.
+What does it mean if Jack can write only 5 words a minute?
+Is Jack standing in front of you?
+No, Jack isn't standing in front of me.
+Is Jack sitting behind you?
+Yes, Jack is sitting behind me.
+Where is Jack sitting?
+Jack, is sitting behind me.
+Am I sitting behind you, too?
+No, you're not sitting behind me, too.
+Am I standing to you right?
+No, you aren't standing to my right.
+Am I standing to your left?
+No, you aren't standing to my left.
+Am I sitting in front of you?
+Yes, you are sitting in front of me.
+Where am I sitting?
+You are sitting in front of me.
+Are you here at the library to hang out with your friend Jack?
+No, I'm not here at the library to hang out with my friend Jack.
+Are you here at the library to workout?
+No, I'm not here at the library to workout.
+Are you here at the library to write a paper?
+Yes, I'm here at the library to write a paper.
+Why are you here at the library?
+I'm here at the library to write a paper.
+Who makes you write papers?
+My teachers make me write papers.
+Who makes you write papers?
+My teachers make me write papers.
+Is there anything on the elevator doors?
+Yes, there is something on the elevator doors.
+Is there some sign on the elevator doors?
+Yes, there is some sign on the elevator doors.
+What's on the elevator doors?
+There's some sign on the elevator doors.
+What does it say?
+It says "out of order".
+What does this sign say?
+This sign says "out of order".
+What does this sign say?
+Do you think both of these elevators are working?
+No, I don't think both of these elevators are working.
+Do you think one of these elevators isn't working?
+Yes, I think one of these elevators Isn't working.
+What makes you think so?
+I think so because one of them has an "out of order" sign on it.
+What makes you think one of these elevators isn't working?
+I think one of these elevators isn't working because there is an "out of order" sign on it.
+Can you take the elevator if there is an "out of order" sign on it?
+No, I can't take the elevator if there is an "out of order" sign on it.
+Do you have to take the stairs instead?
+Yes, I have to take the stairs instead.
+Can you enter the elevator if there is an "out of order" sign on it?
+No, I can't enter the elevator if there is an "out of order" sign on it.
+Do you enjoy taking the stairs to the 10th floor?
+No, I don't enjoy taking the stairs to the 10th floor.
+Do you hate taking the stairs to the 10th floor?
+Yes, I hate taking the stairs to the 10th floor.
+Is it fun to be stuck in the elevator for 3 hours?
+No, it's not fun to be stuck in the elevator for 3 hours.
+Are the elevators in front of you?
+No, the elevators aren't in front of me.
+Are the elevators behind you?
+No, the elevators aren't behind me.
+Are the elevators to your right?
+No, the elevators aren't to my right.
+Where are the elevators?
+The elevators are to my left.
+Do you have any colleagues?
+Yes, I have some colleagues.
+Do you like all of your colleagues?
+No, I don't like all of my colleagues.
+Is it fun to work with colleagues you don't like?
+No, it's not fun to work with colleagues I don't like.
+Do you usually try to avoid talking to colleagues you don't like?
+Yes, I usually try to avoid talking to colleagues I don't like.
+Does your job offer you a lot of opportunities?
+No, my job doesn't offer me a lot of opportunities.
+Do you think you have a dead-end job?
+Yes, I think I have a dead-end job.
+What makes you think so?
+I think so because my job doesn't offer me a lot of opportunities.
+What makes you think you have a dead-end job?
+I think I have a dead-end job because it doesn't offer me a lot of opportunities.
+Is this floor dry?
+No, this floor isn't dry.
+Is this floor wet?
+Yes, this floor is wet.
+Can you fall if you walk on the wet floor?
+Yes, I can fall if I walk on the wet floor.
+Do you usually try to avoid walking on the wet floor?
+Yes, I usually try to avoid walking on the wet floor.
+Why?
+Because I don't want to fall.
+Why do you usually avoid walking on the wet floor?
+I usually avoid walking on the wet floor because I don't want to fall.
+Do you want to go on vacation?
+Yes I want to go on vacation.
+How many times a year do you usually go on vacation?
+I usually go on vacation 2 times a year.
+How many times a year do you usually go on vacation?
+Do you go on vacation when you want to get some rest?
+Yes, I go on vacation when I want to get some rest.
+When do you go on vacation?
+I go on vacation when I want to get some rest.
+When do you go on vacation?
+When do you go on vacation?
+I go on vacation when I want to get some rest.
+Do you usually have a lot of fun on vacation?
+Yes, I usually have a lot of fun on vacation.
+Can you live in this apartment for free?
+No, I can't live in this apartment for free.
+Do you have to pay your rent and your bills?
+Yes, I have to pay my rent and my bills.
+What do you have to pay if you want to live in this apartment?
+I have to pay my rent and my bills if I want to live in this apartment.
+What do you have to pay if you want to live in this apartment?
+If you stop paying your rent, can they kick you out of this apartment?
+Yes, if I stop paying my rent, they can kick me out of this apartment.
+What can they do if you stop paying your rent?
+If I stop paying my rent, they can kick me out of this apartment.
+Do you want them to kick you out of this apartment?
+No, I don't want them to kick me out of this apartment.
+What do you have to do if you don't want them to kick you out of this apartment?
+If I don't want them to kick me out of this apartment, I have to pay my rent and my bills.
+What do you have to do if you don't want them to kick you out of this apartment?
+If I don't want them to kick me out of this apartment, I have to pay my rent and my bills.
+Do you hope your rent goes up next month?
+No, I hope my rent doesn't go up next month.
+Do you think your rent can go down next month?
+No, I don't think my rent can go down next month.
+It doesn't work like that.
+Rent never goes down.
+It only goes up...
+All the way up.
+Are your neighbours pleasant people?
+Yes, my neighbours are pleasant people.
+Do your neighbours listen to loud music at night?
+No, my neighbours don't listen to loud music at night.
+Do your neighbours often throw loud parties?
+No, my neighbours don't often throw loud parties.
+Do you like to eat a sandwich at night?
+No, I don't like to eat a sandwich at night.
+Is it good for you to eat anything at night?
+No, it's not good for me to eat anything at night.
+Can you make a sandwich if you're out of bread?
+No, I can't make a sandwich if I'm out of bread.
+What do you need if you want to make a sandwich?
+If I want to make a sandwich, I need some bread.
+What do you need if you want to make a sandwich?
+Do you go shopping when you run out of bread?
+Yes, I go shopping when I run out of bread.
+Do you eat chewing gums when you run out of breads?
+No, I don't eat chewing gums when I run out of bread.
+What do you do when you run out of bread?
+I go shopping when I run out of bread.
+Are there any nice grocery stores in your neighbourhood?
+Yes, there are some nice grocery stores in my neighbourhood.
+Is this floor dry?
+No, this floor isn't dry.
+Is there any water on the floor?
+Yes, there is some water on the floor.
+Does it mean the floor is dry, or wet?
+It means the floor is wet.
+What does it mean if there is some water on the floor?
+If there is some water on the floor, it means the floor is wet?
+What does it mean if there is some water on the floor?
+What does it mean if there is some water on the floor?
+If there is some water on the floor, it means the floor is wet.
+Can you fall if you walk on the wet floor?
+Yes, I can fall if I walk on the wet floor.
+Is it pleasant to fall on the wet floor at a grocery store?
+No, it's not pleasant to fall on the wet floor at a grocery store.
+Does it hurt to fall on the wet floor?
+Yes, it hurts to fall on the wet floor.
+How does it feel to fall on the wet floor?
+It hurts to fall on the wet floor.
+How does it feel to fall on the wet floor?
+Do you often take a shower?
+Yes, I often take a shower.
+Do you prefer to take a shower, or a bath?
+I prefer to take a shower.
+Do you like to sing when you take a shower?
+Yes, I like to sing when I take a shower.
+Does it make you a singer?
+No, it doesn't make me a singer.
+To clean
+To clean up the house
+The entrance
+To look like
+She doesn't look like your sister
+What do I look like
+Age
+She is the same age as me
+Hi, Amy!
+Oh, that's just great!
+What is she doing here?
+That's a... nice surprise!
+What are you doing here?
+Michael?
+It's funny to see you here at the movies.
+It's 6:30 PM and you have to take your "very important exam".
+Don't you?
+Uh...
+I do
+I mean
+I have to take that exam tomorrow night
+On Thursday
+Not tonight
+Today is Thursday, isn't it?
+Yeah
+But today I have many other things to do.
+So, I'm taking the exam tomorrow.
+What kind of things?
+Uh...
+I have to take my sister to the movie theatre.
+She is only six.
+Someone has to keep an eye on her.
+Does Michael say he has a sister?
+Yes, Michael says he has a sister.
+And how old is his sister.
+His sister is 6.
+Does someone have to keep an eye on her?
+Yes, someone has to keep an eye on her.
+What does someone have to keep on her?
+Someone has to keep an eye on her
+Why?
+Because she is too small to stay home alone.
+Why does someone have to keep an eye on his sister?
+Someone has to keep an eye on his sister because she is too small to stay home alone.
+Do you think this whole story with his sister is the truth?
+No, I don't think this whole story with his sister is the truth.
+Do you think he is lying to Amy?
+Yes, I think he is lying to yummy.
+Why do you think he is lying to Amy?
+I think he is lying to Amy because he doesn't want to tell her the truth.
+Why do you think he is lying to Amy?
+I think he is lying to Amy because he doesn't want to tell her the truth.
+And what truth is that?
+The truth is that he doesn't like her.
+Does lying to Amy make him feel comfortable?
+No, lying to Amy doesn't make him feel comfortable.
+Does lying to Amy make him feel awkward?
+Yes, lying to Amy makes him feel awkward.
+How does lying to Amy make him feel?
+How does lying to Amy make him feel?
+Lying to Amy makes him feel awkward.
+How does lying to Amy make him feel?
+Lying to Amy makes him feel awkward.
+Lying to Amy makes him feel awkward?
+Is Amy feeling awkward too?
+No, Amy isn't feeling awkward too.
+Is she feeling amused?
+Yes, she is feeling amused.
+How is Amy feeling?
+Amy is feeling amused.
+Is she feeling amused because it's funny for her to see Michael telling lies?
+Yes, she is feeling amused because it's funny for her to see Michael telling lies.
+Why is Amy feeling amused?
+Amy is feeling amused because it's funny for her to see Michael telling lies.
+Since Amy caught him at a movie theatre.
+He had to come up with a good reason why he was there.
+And not at his college
+Taking his "very important exam"
+And he said he had a six-year-old sister.
+He had to take to the movie theatre.
+I have to take my sister to the movie theatre.
+She is only six.
+Because she can't stay home alone.
+Someone has to keep an eye on her.
+Someone has to keep an eye on her.
+But Amy remembered.
+What he said about his sister. yesterday.
+And your sister is "throwing a birthday party on Sunday", isn't she?
+Yeah
+I mean
+She is having a birthday party.
+My mother and I have to cook and clean up the house.
+Does he say his sister is really throwing a birthday party on Sunday?
+Yes, he says his sister is really throwing a birthday party on Sunday.
+What is his sister throwing on Sunday?
+His sister is throwing a birthday party on Sunday.
+Whose sister is throwing a birthday party on Sunday?
+Michael's sister is throwing a birthday party on Sunday.
+Can his sister cook everything alone?
+No, his sister can't cook everything alone.
+Why not?
+Because she is only 6.
+Why can't his sister cook everything alone?
+His sister can't cook everything alone because she is only 6.
+Can his sister clean up the house alone?
+No, his sister can't clean up the house alone.
+Why not?
+Because she is only 6.
+Why can't his sister clean up the house alone?
+His sister can't clean up the house alone because she is only 6.
+Do Michael and his mother have to cook and clean up the house?
+Yes, Michael and his mother have to cook and clean up the house.
+What do Michael and his mother have to do?
+Michael and his mother have to cook and clean up the house.
+Why do they have to do that?
+They have to do that because his sister is throwing a birthday party on Sunday and she can't do it all alone.
+Why do they have to do that?
+They have to do that because his sister is throwing a birthday party on Sunday and she can't do it all alone.
+Yeah
+I mean
+She is having a birthday party
+My mother and I have to cook and clean up the house.
+She is too small to cook and clean, you know.
+Is his sister too big to cook and clean?
+No, his sister isn't too big to cook and clean.
+Is his sister too small to cook and clean?
+Yes, his sister is too small to cook and clean.
+What is his sister too small for?
+His sister is too small to cook and clean.
+What is his sister too small for?
+His sister is too small to cook and clean.
+His sister is too small to cook and clean.
+Yeah, I mean
+She is having a birthday party.
+My mother and I have to cook and clean up the house.
+She is too small to cook and clean, you know.
+Speaking of his sister.
+Amy notices a pretty girl.
+Standing near the entrance to the theatre.
+Waiting for Michael.
+And that girl.
+Who is waiting for you near the entrance.
+Doesn't look like she is six.
+Is anyone waiting for Michael near the entrance to the movie theatre?
+Yes, someone is waiting for Michael near the entrance to the movie theatre.
+Is that a boy or a girl?
+That's a girl.
+Who is that girl waiting for?
+That girl is waiting for Michael.
+Who is that girl waiting for?
+Who is that girl waiting for?
+That girl is waiting for Michael.
+Does she look like she is 6?
+No, she doesn't look like she is 6.
+Does she look like she is 12?
+No, she doesn't look like she is 12.
+Does she look like she is about 20?
+Yes, she looks like she is about 20.
+How old does she look?
+She looks like she is about 20.
+How old does she look?
+How old does she look?
+She looks like she is about 20.
+Do you know exactly that she is 20?
+No, I don't know exactly that she is 20.
+What makes you think she is about 20?
+I think she is about 20 because she looks like she is 20.
+What makes you think she is about 20?
+What makes you think she is about 20?
+I think she is about 20 because she looks like she is 20.
+Who is this girl waiting for?
+This girl is waiting for Michael.
+Do you know that because she is looking at him?
+Yes, I know that because she is looking at him.
+How do you know that this girl is waiting for Michael?
+I know that this girl is waiting for Michael because she is looking at him.
+And Amy noticed that too.
+There's some nice girl.
+Standing near the entrance.
+Looking at Michael.
+And there is no sign of his.
+Six-year-old sister.
+Who he is supposed to take to the movies.
+And that girl.
+Who is waiting for you near the entrance.
+Doesn't look like she is 6.
+She is not your sister, is she?
+Does Amy think that this girl is his sister?
+No, Amy doesn't think that this girl is his sister.
+What makes her think so?
+She thinks so because that girl doesn't look like she is 6.
+What makes her think that this girl is not his sister?
+She thinks that this girl is not his sister because she doesn't look like she is 6.
+Is that girl a child?
+No, that girl isn't a child.
+Is that girl an adult?
+Yes, that girl is an adult.
+Is she about the same age as Michael?
+Yes, she is about the same age as Michael.
+Does that make Michael about 20 years old too?
+Yes, that makes Michael about 20 years old too.
+Does Amy think that this girl is probably his girlfriend?
+Yes, Amy thinks that this girl is probably his girlfriend.
+Does she know that exactly?
+No, she doesn't know that exactly.
+She doesn't know exactly.
+But she thinks that.
+Because that girl is about the same age as Michael.
+And more importantly.
+The same age as her.
+So she is probably Michael's girlfriend.
+But Amy doesn't look surprised at all.
+Does Amy look surprised to see his probable girlfriend?
+No, Amy doesn't look surprised to see his probable girlfriend.
+Does Amy look awkward to see his probable girlfriend?
+No, Amy doesn't look awkward to see his probable girlfriend.
+Does she look amused to see his probable girlfriend?
+Yes, she looks amused to see his probable girlfriend.
+How does Amy look?
+Amy looks amused.
+----‐------------------------------------------------------

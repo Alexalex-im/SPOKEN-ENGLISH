@@ -1,0 +1,619 @@
+Are you taking the elevator now?
+Yes, I'm taking the elevator now.
+Are you stuck in the elevator?
+No, I'm not stuck in the elevator.
+Do you like to be stuck in the elevator?
+No, I don't like to be stuck in the elevator.
+Do you like to be stuck in the elevator?
+Do you want to get stuck in the elevator for the whole day?
+No, I don't want to get stuck in the elevator for the whole day.
+Do you want to get stuck in the elevator for the whole day?
+Do we call this thing that takes us up and down an elevator?
+Yes, we call this thing that takes us up and down an elevator.
+What do we call this thing that takes us up and down?
+We call this thing that takes us up and down an elevator.
+What do we call this thing that takes us up and down?
+Do you live in a small house?
+No, I don't live in a small house.
+Do you need an elevator if you live in a small house?
+No, I don't need an elevator if I live in a small house.
+Are you a student, or a teacher?
+I am a student.
+Do you go to college everyday?
+No, I don't go to college every day.
+Do you go to college 3 times a week?
+No, I don't go to college 3 times a week.
+Do you go to college 5 times a week?
+Yes, I go to college 5 times a week.
+How many times a week do you go to college?
+I go to college 5 times a week.
+On which days do you go to college?
+I go to college Monday to Friday.
+On which days do you go to college?
+I go to college Monday to Friday.
+Does your teacher ask you questions in class?
+Yes, my teacher asks me questions in class.
+Do you always know the right answer to the questions your teacher asks?
+No, I don't always know the right answer to the questions my teacher asks.
+Usually.
+If the teacher asks the class a question.
+And you know the right answer.
+You have to raise your hand first.
+It's not good to start speaking.
+To start answering the question
+Without rising your hand.
+Remember.
+Don't start answering the teacher's question
+Without raising your hand.
+If you know the right answer to the teacher's question, do you have to raise your hand?
+Yes, if I know the right answer to the teacher's question, I have to raise my hand.
+What do you have to do if you know the answer to the teacher's question?
+I have to raise my hand if I know the answer to the teacher's question.
+If you know the right answer to your teacher's question, do you start speaking without raising your hand?
+No, if I know the right answer to my teacher's question, I don't start speaking without rising my hand.
+If you know the right answer to your teacher's question, do you start speaking without raising your hand?
+No, if I know the right answer to my teacher's question, I don't start speaking without rising my hand.
+Do you get tired when you have a lot of work to do?
+Yes, I get tired when I have a lot of work to do.
+Does your job pay you well?
+No, my job doesn't pay me well.
+If your job doesn't pay you well, can you buy a lot of things?
+No, if my job doesn't pay me well, I can't buy a lot of things.
+If your job doesn't pay you well, can you buy expensive food?
+No, if my job doesn't pay me well, I can't buy expensive food.
+Do you think Jim makes a lot of money?
+No, I think Jim doesn't make a lot of money.
+If Jim doesn't make a lot of money, can we call him rich?
+No, if Jim doesn't make a lot of money, we can't call him rich.
+If Jim makes a little money, can we call him poor?
+Yes, if Jim makes a little money, we can call him poor.
+What can we call Jim if he makes a little money?
+He is poor, unfortunately.
+Let's hope he finds a better job.
+If your job doesn't pay you well, is it a good idea to look for another job?
+Yes, if my job doesn't pay me well, it's a good idea to look for another job.
+Of course.
+If you job doesn't pay you well.
+You have to look for another job.
+What do you have to do if your job doesn't pay you well?
+If my job doesn't pay me well, I have to look for another job.
+What do you have to do if your job doesn't pay you well?
+Does money grow on trees?
+No, money doesn't grow on trees.
+Do you have to work for it?
+Yes, I have to work for it.
+Do you want money to grow on trees?
+Yes, I want money to grow on trees.
+Do you want money to grow on trees?
+Do you want money to grow on trees?
+Yes, I want money to grow on trees.
+Do you live in a house, or in an apartment building?
+I live in an apartment building.
+Do you live in a multistory building?
+Yes, I live in a multistory building.
+Do you live on the first floor?
+No, I don't live on the first floor.
+Do you live on the second floor?
+No, I don't live on the second floor.
+Do you live on the third floor?
+No, I don't live on the third floor.
+Which floor do you live on?
+I live on the 10th floor.
+Which floor do you live on?
+Which floor do you live on?
+I live on the 10th floor.
+Is it your apartment, or do you rent it
+I rent it?
+Do you want to have your apartment in this building?
+Yes, I want to have my apartment in this building.
+Do you pay your rent everyday?
+No, I don't pay my rent everyday.
+Do you pay your rent 3 times a month?
+No, I don't pay my rent 3 times a month.
+Do you pay your rent twice a month?
+No, I don't pay my rent twice a month.
+Do you pay your rent once a month?
+Yes, I pay my rent once a month.
+How often do you pay your rent?
+I pay my rent once a month.
+Can you live in this apartment if you stop paying your rent?
+No, I can't live in this apartment if I stop paying my rent.
+What do you have to do every month if you want to live in this apartment?
+I have to pay my rent every month if I want to live in this apartment.
+What do you have to do every month if you want to live in this apartment?
+Are the elevators in your apartment building always working?
+No, the elevators in my apartment building aren't always working.
+Are the elevators in your apartment building sometimes broken?
+Yes, the elevators in my apartment building are sometimes broken.
+Are the elevators in your apartment building always broken?
+Are the elevators in your apartment building always broken?
+No, the elevators in my apartment building aren't always broken.
+If the elevator is not working, does it mean it's broken?
+Yes, if the elevator is not working, it means it's broken.
+If the elevator is not working, does it mean it's broken?
+What does it mean if the elevator is not working?
+If the elevator isn't working it means it's broken.
+What does it mean if the elevator is not working?
+Can you take the elevator if it's broken?
+No, I can't take the elevator if it's broken.
+Do you have to take the stairs if the elevator is broken?
+Yes, I have to take the stairs if the elevator is broken.
+What do you have to do if the elevator is broken?
+I have to take the stairs if the elevator is broken.
+What do you have to do if the elevator is broken?
+How can you get to the 15th floor if the elevator is broken?
+If the elevator is broken, I can take the stairs to the 15th floor.
+How can you get to the 15th floor if the elevator is broken?
+How can you get to the 15th floor if the elevator is broken?
+If the elevator is broken, I can take the stairs to the 15th floor.
+Do you think those elevators are working now?
+Yes, I think those elevators are working now.
+Do you think those elevators are broken now?
+No, I think those elevators aren't broken now.
+If that elevator isn't broken, can you take it?
+Yes, if that elevator isn't broken, I can take it.
+Let's do it.
+Do you always sit in the elevator?
+No, I don't always sit in the elevator.
+Do you sit in the elevator only when you're very tired?
+Yes, I sit in the elevator only when I'm very tired.
+Are you standing?
+No, I'm not standing.
+Are you sitting?
+Yes, I'm sitting.
+Why?
+Because I'm very tired.
+Why are you sitting?
+I'm sitting because I'm very tired.
+When the elevator gets to your floor, does the door have to open?
+Yes, when the elevator gets to my floor, the door has to open.
+What does the door have to do when the elevator gets to your floor?
+When the elevator gets to my floor, the door has to open.
+What does the door have to do when the elevator gets to your floor?
+If the elevator stops, but the door doesn't open, does it mean the elevator's broken?
+Yes, if the elevator stops, but the door doesn't open, it means the elevator's broken.
+What does it mean if the elevator stops, but the door doesn't open?
+If the elevator stops, but the door doesn't open, it means the elevator is broken.
+If I'm in the broken elevator, whose door doesn't open, can I say I'm stuck in the elevator?
+Yes, if you're in the broken elevator, whose door doesn't open, you can say you're stuck in the elevator.
+When can I say that I'm stuck in the elevator?
+You can say that you're stuck in the elevator if it's broken and the door doesn't open.
+When can I say that I'm stuck in the elevator?
+Do we call a building which has 100 stories, a skyscraper?
+Yes, we call a building which has 100 stories a skyscraper.
+What do we call a building which has 100 stories?
+We call a building which has 100 stories a skyscraper.
+What do we call a building which has 100 stories?
+Are there any skyscrapers in this city?
+Yes, there are a lot of skyscrapers in this city.
+Do you want to live in a skyscraper with broken elevators?
+No, I don't want to live in a skyscraper with broken elevators.
+Do you want to live in a skyscraper with broken elevators?
+Do you know any nice restaurants in this city?
+Yes, I know some nice restaurants in this city.
+Do you know any nice restaurants in this city?
+Are we sitting in a nice, or in a terrible restaurant.
+We are sitting in a nice restaurant.
+Can I have some scrambled eggs in this restaurant?
+Yes, you can have some scrambled eggs in this restaurant.
+Do you think they are very expensive here?
+No, I don't think they are very expensive here.
+Do you think they are cheap enough here?
+Yes, I think they are cheap enough here.
+Are there any chairs in this restaurant?
+Yes, there are some chairs in this restaurant.
+Are you sitting on the floor?
+No, I'm not sitting on the floor.
+Why not?
+Because there are chairs here.
+Why aren't you sitting on the floor?
+I'm not sitting on the floor because there are chairs here.
+Why aren't you sitting on the floor?
+Are you eating junk food?
+No, I'm not eating junk food.
+Are you eating healthy food?
+Yes, I'm eating healthy food.
+What food are you eating?
+I'm eating healthy food.
+Do you prefer to eat slowly, or quickly?
+I prefer to eat slowly.
+Do you have to eat quickly if you don't have a lot of time?
+Yes, I have to eat quickly if I don't have a lot of time.
+How do you have to eat if you don't have a lot of time?
+I have to eat quickly if I don't have a lot of time.
+Is it good for your stomach when you eat your dinner very quickly?
+No, it's not good for my stomach when I eat my dinner very quickly.
+Is it very bad for your stomach when you eat your dinner very quickly?
+Yes, it's very bad for my stomach when I eat my dinner very quickly.
+Do you usually stand, or sit when you eat?
+I usually sit when I eat.
+Is soda your favourite drink when you're thirsty?
+No, soda isn't my favourite drink when I'm thirsty.
+Is black coffee your favourite drink when you're thirsty?
+No, black coffee isn't my favourite drink when I'm thirsty.
+Is water your favourite drink when you're thirsty?
+Yes, water is my favourite drink when I'm thirsty.
+What is your favourite drink when you're thirsty?
+Water is my favourite drink when I'm thirsty.
+What is your favourite drink when you're thirsty?
+Can you run fast after drinking a lot of green tea?
+No, I can't run fast after drinking a lot of green tea.
+Is it good for you to run fast after drinking a lot of green tea?
+No, it's not good for me to run fast after drinking a lot of green tea.
+Do students at college have to raise their feet when they know the right answer?
+No, students at college don't have to raise their feet when they know the right answer.
+Do students at college have to touch their toes when they know the right answer?
+No, students at college don't have to touch their toes when they know the right answer.
+Do students at college have to groom their hair when they know the right answer?
+No, students at college don't have to groom their hair when they know the right answer.
+Do students at college have to raise their hands when they know the right answer?
+Yes, students at college have to raise their hands when they know the right answer.
+Do you raise your both hands when you know the right answer?
+No, I don't raise my both hands when I know the right answer.
+What do students at the college have to do when they know the right answer?
+Students at college have to raise their hands when they know the right answer.
+What do students at college have to do when they know the right answer?
+Is it a good idea to raise your hand if you don't know the right answer?
+No, it's not a good idea to raise your hand if you don't know the right answer.
+Is it a good idea to raise your hand if you don't know the right answer?
+No, it's not a good idea to raise your hand if you don't know the right answer.
+Do you know what a fast food restaurant is?
+Yes, I know what a fast food restaurant is.
+Are we in the fast food restaurant now?
+Yes, we are in the fast food restaurant now.
+Do people eat slowly in a fast food restaurant?
+No, people don't eat slowly in a fast food restaurant.
+Do people usually eat quickly in a fast food restaurant?
+Yes, people usually eat quickly in a fast food restaurant.
+How do people usually eat in a fast food restaurant?
+People usually eat quickly in a fast food restaurant.
+How do people usually eat in a fast food restaurant?
+Do they sell healthy food in a fast food restaurant?
+No, they don't sell healthy food in a fast food restaurant.
+Of course not.
+You don't go to such places for healthy food.
+People come here to get their fix of junk food.
+Do they sell junk food in fast food restaurants?
+Yes, they sell junk food in fast food restaurants.
+Too many fast carbs.
+Do you sometimes eat in a fast food restaurant?
+Yes, I sometimes eat in a fast food restaurant.
+Do you think hamburgers are gross?
+No, I don't think hamburgers are gross.
+Do you think hamburgers are tasty?
+Yes, I think hamburgers are tasty.
+Do you eat hamburgers with your hands?
+Yes, I eat hamburgers with my hands.
+Do you eat hamburgers with a spoon and a knife?
+No, I don't eat hamburgers with a spoon and a knife.
+Do you eat hamburgers with chopsticks?
+No, I don't eat hamburgers with chopsticks.
+What do you eat hamburgers with?
+I eat hamburgers with my hands.
+What do you eat hamburgers with?
+Do you know exactly what they put in these hamburgers?
+No, I don't know exactly what they put in these hamburgers.
+Do you groom your hair every day?
+Yes, I groom my hair every day.
+Do you sometimes like to groom your hair with your fingers?
+Yes, I sometimes like to groom my hair with my fingers.
+Can you groom your hair with your toes?
+No, I can't groom my hair with my toes.
+Do you usually use a comb to groom your hair?
+Yes, I usually use a comb to groom my hair.
+Do you use a fork to groom your hair?
+No, I don't use a fork to groom my hair.
+What do you usually use to groom your hair?
+I usually use a comb to groom my hair.
+What do you usually use to groom your hair?
+Does Joe have any hair on his head?
+No, Joe doesn't have any hair on his head.
+Does Joe need to comb if he doesn't have any hair?
+No, Joe doesn't need a comb if he doesn't have any hair.
+Am I raising my hand?
+Yes, you are raising your hand.
+Am I rising my leg?
+No, you aren't raising your leg.
+What am I raising?
+You are raising your hand.
+Am I raising both hands?
+No, you aren't raising both hands.
+How many hands am I raising?
+You are raising one hand.
+Can you touch your toes with your fingers?
+Yes, I can touch my toes with my fingers.
+What are you doing?
+I'm touching my toes with my fingers.
+What are you touching your toes with?
+I'm touching my toes with my fingers.
+What are you touching your toes with?
+What are you touching your toes with?
+I'm touching my toes with my fingers.
+Can you see any people here?
+Yes, I can see some people here.
+How many people can you see here?
+I can see 5 people here.
+Can you see me?
+Yes, I can see you.
+Do you see with your eyes?
+Yes, I see with my eyes.
+Do you see with your hands?
+No, I don't see with my hands.
+Do you see with your legs?
+No, I don't see with my legs.
+What do you see with?
+I see with my eyes.
+What do you see with?
+Do you have hair on your head?
+Yes, I have hair on my head.
+Is your hair brown?
+No, my hair isn't Brown.
+Is your hair green?
+No, my hair isn't green.
+Is your hair white?
+No, my hair isn't white.
+What colour is your hair?
+My hair is black.
+What colour is your hair?
+Some - unspecified very general object or people or with unspecified quantity or number of objects or people
+Any - in question and in negative sentences.
+No - Only in negative sentences.
+Every - can also be use as prefixes
+Something - means unspecified thing In positive sentences and in questions.
+Anything - an unspecified thing in questions and negative sentences.
+Nothing - Only in negative sentences.
+I have something in my pocket
+Do you have anything in your fridge?
+I don't have anything in my fridge.
+I have nothing in my fridge
+Everything - means every single thing
+We'll take everything.
+Okay, everything is in the car.
+One
+body
+Someone = Somebody
+(Some person)
+Of course we use "someone" and somebody in positive sentences and in questions.
+Anyone = Anybody
+(Any person)
+No one = No body
+(No person)
+Is there anyone here?
+There is nobody here.
+Yes, there is somebody here.
+Everyone = Everybody
+(Every person)
+Listen up, everyone! you are all fired!
+Everybody was drunk after the party.
+Where
+Somewhere - Which means "some place" In questions and positive sentence.
+Anywhere - In questions and negative sentences.
+Nowhere - In negative sentences.
+Everywhere - Which means in every place.
+I know my key is somewhere in the house... but where is it?
+Sorry, boss, we couldn't find him anywhere.
+Did you search everywhere?
+Something
+Anything
+Nothing
+Everything
+(Mean you talk about things)
+Someone
+Anyone
+No one
+Everyone
+(You talk about a person)
+Somebody
+Anybody
+Nobody
+Everybody
+(You talk about a person)
+Somewhere
+Anywhere
+Nowhere
+Everywhere
+(You talk about a place)
+A chewing gum
+To get a Chewing gum out of your hair
+Easy
+Simple
+Difficult
+Hard
+A crowd
+To get on the train
+A voice
+Crowded
+A crowded place
+To hear
+To listen
+Music
+To listen to music
+An ear
+A nose
+To smell
+A smell
+Is there anyone in this restaurant?
+Yes, there is someone in this restaurant.
+Is there only one person in this restaurant?
+No, there isn't only one person in this restaurant.
+Are there three people in this restaurant?
+No,There aren't three people in this restaurant.
+Are there a lot of people in this restaurant?
+Yes, there are a lot of people in this restaurant.
+Can I say that this restaurant is crowded?
+Yes, you can say that this restaurant is crowded.
+What can I say about the restaurant if there are a lot of people in it?
+If there are a lot of people in a restaurant, you can say that it's crowded.
+What can I say about the restaurant if there are a lot of people in it?
+If there are a lot of people in a restaurant, you can say that it's crowded.
+Do you often go to the restaurant?
+No, I don't often go to the restaurant.
+Do you go to the restaurant three times a day?
+No, I don't go to the restaurant three times a day.
+How often do you go to the restaurant?
+I go to the restaurant twice a week.
+How often do you go to the restaurant?
+Do you eat anything when you go to the restaurant?
+Yes, I eat something when I go to the restaurant.
+Do you eat chewing gums in a restaurant?
+No, I don't eat chewing gums in a restaurant.
+Do you eat food in a restaurant?
+Yes, I eat food in a restaurant.
+What do you eat in a restaurant?
+I eat food in a restaurant.
+Is there a Subway in this city?
+Yes, there is a Subway in this city.
+Do you often take the Subway?
+Yes, I often take the Subway.
+Do you prefer to take the Subway or to drive a car?
+I prefer to drive a car.
+Is the Subway empty of people during rush hour?
+No, the Subway isn't empty of people during rush hour.
+Is the subway crowded during rush hour?
+Yes, the Subway is crowded during rush hour.
+Does it drive you crazy when you have to take a crowded train?
+Yes, it drives me crazy when I have to take a crowded train.
+Does it drive you crazy when you have to take a crowded bus?
+Yes, it drives me crazy when I have to take a crowded bus.
+Does it drive you crazy when you have to take a crowded bus?
+Is it easy to get on the crowded train?
+No, It's not easy to get on the crowded train.
+Is it difficult to get on the crowded train?
+Yes, It's difficult to get on the crowded train.
+If you don't like to get on a very crowded train, is it a good idea to walk to work?
+No, if I don't like to get on a very crowded train, it's not a good idea to walk to work.
+You have to make a choice.
+To squeeze into the crowded train or take a walk.
+Do you like to listen to music when you're going to work?
+Yes, I like to listen to music when I'm going to work.
+What do you like to do when you're going to work?
+I like to listen to music when I'm going to work.
+What do you like to do when you're going to work?
+What do you like to do when you're going to work?
+I like to listen to music when I'm going to work.
+Do you have your favourite music?
+Yes, I have my favourite music.
+What is your favourite music?
+My favourite music is rock music.
+Is a Subway train a good place to relax?
+No, a Subway train isn't a good place to relax.
+Is it easy to relax on the train during rush hour?
+No, it's not easy to relax on the train during rush hour.
+Is it hard to relax on the train during rush hour?
+Yes, it's hard to relax on the train during rush hour.
+Do you usually have a place to sit on a crowded train?
+No, I usually don't have a place to sit on a crowded train.
+Do you usually have to stand on a crowded train?
+Yes, I usually have to stand on a crowded train.
+Why?
+Because there is no place to sit on a crowded train.
+Why do you usually have to stand on a crowded train?
+I usually have to stand on a crowded train because there is no place to sit on a crowded train.
+Do you have ears?
+Yes, I have ears.
+How many ears do you have?
+I have 2 ears.
+Do you hear with your eyes?
+No, I don't hear with my eyes.
+Do you hear with your fingers?
+No, I don't hear with my fingers
+Do you hear with your thumbs?
+No, I don't hear with my thumbs.
+How many thumbs do you have?
+I have two thumbs.
+Do you hear with your ears?
+Yes, I hear with my ears.
+What do you hear with?
+I hear with my ears.
+What do you hear with?
+Can you hear any voices on a crowded train?
+Yes, I can hear some voices on a crowded train.
+If you can hear some voices in a room, does it mean there is somebody there?
+Yes, if I can hear some voices in a room, it means there is somebody there.
+If you can hear some voices in a room, does it mean there is nobody there?
+No, if I can hear some voices in a room, it doesn't mean there is nobody there.
+What does it mean if you can hear some voices in a room?
+If I can hear some voices in a room, it means there is somebody there.
+Do you have a nose?
+Yes, I have a nose.
+How many noses do you have?
+I have one nose.
+Do you put your food in your nose when you eat?
+No, I don't put my food in my nose when I eat.
+Do you put your food in your hair when you eat?
+No, I don't put my food in my hair when I eat.
+Do you put your food in your mouth when you eat?
+Yes, I put my food in my mouth when I eat.
+Where do you put your food when you eat?
+I put my food in my mouth when I eat.
+Where do you put your food when you eat?
+Do you smell your food with your nose?
+Yes, I smell my food with my nose.
+What do you smell your food with?
+I smell my food with my nose.
+What do we call the thing we use to smell food?
+We call the thing we use to smell food a nose.
+What do we call the thing we use to smell food?
+What do we call the thing we use to smell food?
+We call the thing we use to smell food a nose.
+Do you like to eat food that smells awesome?
+Yes, I like to eat food that smells awesome.
+Do you like to eat food that smells terrible?
+No, I don't like to eat food that smells terrible.
+If the food smells awesome, does it mean it tastes great, too?
+No, if the food smells awesome, it doesn't mean it tastes great, too.
+Do you like the smell of Chinese food?
+Yes, I like the smell of Chinese food.
+Does everybody like Chinese food?
+No, not everybody likes Chinese food.
+Does everybody like Chinese food?
+Does everybody like Chinese food?
+No, not everybody likes Chinese food.
+Do you know anyone who hates Chinese food?
+Yes, I know someone who hates Chinese food.
+Do you like to smell your food before eating it?
+Yes, I like to smell my food before eating it.
+Do you always smell your food before eating it?
+No, I don't always smell my food before eating it.
+Do you eat your food if it doesn't smell good?
+No, I don't eat my food if it doesn't smell good.
+Do you usually have lunch alone?
+No, I don't usually have lunch alone.
+Do you usually have lunch with someone?
+Yes, I usually have lunch with someone.
+Who do you usually have lunch with?
+I usually have lunch with my friend.
+Who do you usually have lunch with?
+Who do you usually have lunch with?
+I usually have lunch with my friend.
+Do you speak with your friend during your lunch?
+Yes, I speak with my friend during my lunch.
+Do you speak with your mouth, or with your nose?
+I speak with my mouse.
+What do you speak with?
+I speak with my mouth.
+Can you speak when your mouth is full of food?
+No, I can't speak when my mouth is full of food.
+Is it easy to speak when your mouth is full of food?
+No, It's not easy to speak when my mouth is full of food.
+Is it difficult to speak when your mouth is full of food?
+Yes, it's difficult to speak when my mouth is full of food.
+Does a chewing gum get stuck if You put it in your hair?
+Yes, a chewing gum gets stuck if I put it in my hair.
+Does a chewing gum get stuck if You put it in your hair?
+Do you have a chewing gum stuck in your hair?
+No, I don't have a chewing gum stuck In my hair.
+Do you want to have a chewing gum stuck In your hair?
+No, I don't want to have a chewing gum stuck in my hair.
+If you have a chewing gum stuck in your hair, do you have to get it out of your hair?
+Yes, if I have a chewing gum stuck in my hair, I have to get it out of my hair.
+What do you have to do if you have a chewing gum stuck in your hair?
+If I have a chewing gum stuck in my hair, I have to get it out of my hair.
+What do you have to do if you have a chewing gum stuck in your hair?
+What do you have to do if you have a chewing gum stuck in your hair?
+If I have a chewing gum stuck in my hair, I have to get it out of my hair.
+Is it easy to get a chewing gum out of your hair?
+No, it's not easy to get a chewing gum out of my hair.
+Is it hard to get a chewing gum out of your hair?
+Yes, it's hard to get a chewing gum out of my hair.
+----‐------------------------------------------------------

@@ -1,0 +1,101 @@
+Is this a man?
+Yes, this is a man.
+Where is the man?
+The man is on the chair.
+Is the man on the table?
+No, the man isn't on the table.
+Is the man under the table?
+No, the man isn't under the table.
+Is the man in the table?
+No, the man isn't in the table.
+Is the man on the cabinet?
+No, the man isn't on the cabinet.
+Is the man in the cabinet?
+No, the man isn't in the cabinet.
+Is the man on the chair?
+Yes, the man is on the chair.
+Where is the man?
+The man is on the chair.
+Where is the man?
+The man is on the chair.
+Is the woman on the chair?
+No, the woman isn't on the chair.
+Is the woman on the floor?
+No, the woman isn't on the floor.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman in the cabinet?
+No, the woman isn't in the cabinet.
+Is the woman on the cabinet?
+Yes, the woman is on the cabinet.
+Where is the woman?
+my.
+Your.
+His.
+Her.
+It's.
+Our.
+Their.
+Whose.
+Whose phone is this?
+Name
+Last name
+My name is Jack.
+Is my name Jack?
+What is my name?
+Mike's phone.
+Sam's laptop.
+my
+your
+his
+her
+it's
+our
+their
+Whose
+Whose phone is this?
+Name
+Last name
+My name is Jack.
+Is my name Jack?
+What is my name?
+Mike's phone.
+Sam's laptop.
+Is your name Sean?
+No, my name isn't Sean.
+Is your name Tim?
+No, my name isn't Tim.
+Is your name Mike?
+No, my name isn't Mike.
+Is your name John?
+No, my name isn't John.
+Is your name Ron?
+Yes, my name is Ron.
+What is your name?
+My name is Ron.
+Is this your phone?
+No, this is not my phone.
+Is this her phone?
+No, this is not her phone.
+Is this his phone?
+No, this is not his phone.
+Is this my phone?
+Yes, this is your phone.
+Whose phone is this?
+This is your phone.
+Whose phone is this?
+Is my name Jhon?
+No, your name isn't John.
+Is my name Lisa?
+No, your name isn't Lisa.
+Is my name Ron?
+No, your name isn't Ron.
+Is my name Sam?
+Yes, your name is Sam.
+What is my name?
+Your name is Sam.
+Whose name is Ron?
+My name is Ron.
+Whose name is Sam?
+Your name is Sam.
+----‐------------------------------------------------------

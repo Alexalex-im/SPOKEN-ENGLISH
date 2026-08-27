@@ -1,0 +1,486 @@
+Do you eat fresh bananas?
+Yes, I eat fresh bananas.
+Do you need to cook bananas before you can eat them?
+No, I don't need to cook bananas before I can eat them.
+Do they sell pineapples in the Subway?
+No, they don't sell pineapples in the Subway.
+Do they sell pineapples at a movie theatre?
+No, they don't sell pineapples at a movie theatre.
+Do you know a place where they sell pineapples?
+Yes, I know a place where they sell pineapples.
+Do you know a place where they sell pineapples?
+Where can I buy some pineapples?
+You can buy some pineapples at a grocery store.
+Do pineapples grow in Canada?
+No, pineapples don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't pineapples grow in Canada?
+Pineapples don't grow in Canada because it's too cold for them to grow there.
+Do pineapples grow in Thailand?
+Yes, pineapples grow in Thailand.
+Is it too cold for them to grow there?
+No, it's not too cold for them to grow there.
+Do you need to go to Thailand to eat pineapples?
+No, I don't need to go to Thailand to eat pineapples.
+Why not?
+Because I can buy them at a grocery store here.
+Why do you not need to go to Thailand to eat pineapples?
+I don't need to go to Thailand to eat pineapples because I can buy them at a grocery store here.
+Do you need to cook pineapples before you can eat them?
+No, I don't need to cook pineapples before I can eat them.
+Can you eat pineapples fresh?
+Yes, I can eat pineapples fresh.
+Can you eat pineapples fresh?
+Do bananas grow on trees?
+Yes, bananas grow on trees.
+Where do bananas grow?
+Bananas grow on trees.
+Where do bananas grow?
+What colour are bananas?
+Bananas are yellow.
+Do bananas grow in Canada?
+No, bananas don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't bananas grow in Canada?
+Bananas don't grow in Canada. because it's too cold for them to grow there.
+Bananas only grow in hot countries.
+Canada is not hot by any means.
+Can you eat fresh bananas?
+Yes, I can eat fresh bananas.
+What about meat, can you eat fresh meat?
+No, I can't eat fresh meat.
+Do you need to cook your meat before you can eat it?
+Yes, I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it?
+I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it?
+Is it a great idea to eat fresh meat?
+No, it's not a great idea to eat fresh meat.
+Is it good for you to eat fresh meat?
+No, it's not good for me to eat fresh meat.
+Is it really bad for you to eat fresh meat?
+Yes, it's really bad for me to eat fresh meat.
+Do you think you are rich?
+No, I don't think I'm rich.
+Why not?
+Because I don't have money for a car.
+So, why do you think you're not rich?
+I think I'm not rich because I don't have money for a car.
+Do you want to be rich?
+Yes, I want to be rich.
+Do you have a fridge in your kitchen?
+Yes, I have a fridge in my kitchen.
+How many fridges do you have in your kitchen?
+I have one fridge in my kitchen.
+How many fridges do you have in your kitchen?
+Do you put food in your fridge?
+Yes, I put food in my fridge.
+Do you put grass and leaves in your fridge?
+No, I don't put grass and leaves in my fridge.
+What do you put in your fridge?
+I put food in my fridge.
+Do you like it when your fridge is full of tasty food?
+Yes, I like it when my fridge is full of tasty food.
+Do you like it when your fridge is full of tasty food?
+Do you like it when your fridge is full of gross food?
+No, I don't like it when my fridge is full of gross food.
+Do you like it when your fridge is full of gross food?
+When your fridge is empty, do you go grocery shopping?
+Yes, when my fridge is empty, I go grocery shopping.
+What do you do when your fridge is empty?
+When my fridge is empty, I go grocery shopping.
+Can you go grocery shopping when you don't have any money?
+No, I can't go grocery shopping when I don't have any money.
+Can poor people go to the restaurant every day?
+No, poor people can't go to the restaurant every day.
+Can you drive a car?
+Yes, I can drive a car.
+Do you have a car to drive?
+No, I don't have a car to drive.
+If he had a car.
+Why would he be taking the Subway.
+Are you driving a car?
+No, I'm not driving a car.
+Are you in the Subway?
+Yes, I'm in the Subway.
+Where are you now?
+I'm in the Subway.
+Do you take the Subway to work every day?
+Yes, I take the Subway to work every day.
+How do you get to work?
+I take the Subway to work.
+How do you get to work?
+I take the Subway to work.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Are you usually tired when you go to work?
+No, I'm usually not tired when I go to the work.
+Do you usually get very tired at work?
+Yes, I usually get very tired at work.
+Do you like to get very tired?
+No, I don't like to get very tired.
+Are you usually tired when you go home from work?
+Yes, I'm usually tired when I go home from work.
+Do you like to relax when you're tired?
+Yes, I like to relax when I'm tired.
+Do you like to work when you're very tired?
+No, I don't like to work when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+Do you often order a pizza delivery?
+Yes, I often order a pizza delivery.
+Do you order a pizza delivery 3 times a day?
+No, I don't order a pizza delivery 3 times a day.
+Do you order a pizza delivery 5 times a week?
+No, I don't order a pizza delivery 5 times a week.
+Do you order a pizza delivery 3 times a week?
+Yes, I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+Do you get hungry if you don't eat for 5 days?
+Yes, I get hungry if I don't eat for 5 days.
+Do you get thirsty if you don't drink for 2 days?
+Yes, I get thirsty if I don't drink for 2 days.
+Do you like to stay at work at night?
+No, I don't like to stay at work at night.
+Do you sometimes stay at work at night when you have a lot of work to do?
+Yes, I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+Do you stay at work when you have free time?
+No, I don't stay at work when I have free time.
+Do you like your job?
+Yes, I like my job.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+Does it mean you come to work at 9 and leave work at 5?
+Yes, it means I come to work at 9 and leave work at 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work
+I leave work at 5 PM?
+Do you usually have time to eat during the work day?
+Yes, I usually have time to eat during the work day.
+Do you go to work 3 times a week?
+No, I don't go to work 3 times near week.
+Do you go to work 7 times a week?
+No, I don't go to work 7 times a week
+Do you go to work 5 times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work 5 times a week.
+How many times a week do you go to work?
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you like to work Monday to Friday?
+Yes, I like to work Monday to Friday.
+Do you usually have a lot of work to do on work days?
+Yes, I usually have a lot of work to do on work days.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+Do you know any sign language?
+No, I don't know any sign language.
+Do you use your fingers to speak a sign language?
+Yes, I use my fingers to speak a sign language.
+Do you use your mouth to speak a sign language?
+No, I don't use my mouth to speak a sign language.
+What do you use to speak a sign language?
+I use my fingers to speak a sign language.
+What do you use to speak a sign language?
+Are you Learning English, or are you learning a sign language now?
+I am Learning English now.
+What language are you learning now?
+I'm Learning English now.
+What language are you learning now?
+Do you want to learn some sign language?
+Yes, I want to learn some sign language.
+Do you speak English?
+Yes, I speak English.
+Do you speak Chinese?
+No, I don't speak Chinese.
+Do you speak Spanish?
+Yes, I speak Spanish.
+How many languages can you speak?
+I can speak 2 languages.
+How many languages can you speak?
+How many languages can you speak?
+I can speak 2 languages.
+Do you want to learn Chinese?
+Yes, I want to learn Chinese.
+Do you have a mouth?
+Yes, I have a mouth.
+How many mouths do you have?
+I have one mouth.
+Is there a tongue in your mouth?
+Yes, there is a tongue in my mouth.
+How many tongues are there in your mouth?
+There is one tongue in my mouth.
+How many tongues are there in your mouth?
+Do you use your tongue when you speak?
+Yes, I use my tongue when I speak.
+Can you speak without using your tongue?
+No, I can't speak without using my tongue.
+Do you know people who can't speak?
+Yes, I know people who can't speak.
+Do they use a sign language?
+Yes, they use a sign language.
+What language do people who can't speak use?
+People who can't speak use a sign language.
+Do you have 5 thumbs on each hand?
+No, I don't have 5 thumbs on each hand.
+Do you have 2 thumbs on each hand?
+No, I don't have 2 thumbs on each hand.
+Do you have 1 thumb on each hand?
+Yes, I have 1 thumb on each hand.
+How many thumbs do you have on each hand?
+I have 1 thumb on each hand.
+How many thumbs do you have on each hand?
+How many fingers do you have on each hand?
+I have 5 fingers on each hand.
+How many fingers do you have on both hands?
+I have 10 fingers on both hands.
+How many fingers do you have on both hands?
+Is this a leg?
+No, this isn't a leg.
+What is this?
+This is a foot.
+What are these?
+These are feet.
+Are there any fingers on these feet?
+No, there aren't any fingers on these feet.
+What are those?
+Those are toes.
+What are those?
+Those are toes.
+Do you have toes on your hands?
+No, I don't have toes on my hands.
+What do you have on your hands?
+I have fingers on my hands.
+What do you have on your feet?
+I have toes on my feet.
+How many toes do you have on each foot?
+I have 5 toes on each foot.
+How many toes do you have on each foot?
+How many toes do you have on both feet?
+I have 10 toes on both feet.
+Is this an arm?
+No, this isn't an arm.
+Is this a tongue?
+No, this isn't a tongue.
+Is this a leg?
+No, this isn't a leg.
+What is this?
+This is a hand.
+Are there any fingers on this hand?
+Yes, there are some fingers on this hand.
+How many fingers are there on this hand?
+There are five fingers on this hand.
+Do we call this finger a thumb?
+Yes, we call this finger a thumb.
+Do we call this finger a thumb?
+No, we don't call this finger a thumb.
+Which finger do we call a thumb?
+We call this a finger a thumb.
+What do we call this finger?
+We call this finger a thumb.
+What do we call this finger?
+To raise
+Raise your hand!
+Up
+Down
+To be stuck
+I am stuck
+You are stuck
+To get stuck
+An elevator
+An apartment
+A building
+An apartment building
+A house
+To look for
+To rent
+Rent
+Have to
+To pay
+If
+Another
+Other
+An answer
+A question
+To answer a question
+Do you live in an apartment, or do you live in a house?
+I live in an apartment.
+Is it your apartment?
+No, it's not my apartment.
+Do you rent it?
+Yes, I rent it.
+Do you like the apartment you live in?
+Yes, I like the apartment I live in.
+Do you like the apartment you live in?
+Do you like the apartment you live in?
+Yes, I like the apartment I live in.
+Do you have to pay your rent every month?
+Yes, I have to pay my rent every month.
+Can you pay your rent if you don't have a job?
+No, I can't pay my rent if I don't have a job.
+Can you pay your rent if you don't have a job?
+Do you need to have a job to pay your rent?
+Yes, I need to have a job to pay my rent.
+What do you need to have to pay your rent?
+I need to have a job to pay my rent.
+What do you need to have to pay your rent?
+Is there an elevator in your apartment building?
+Yes, there is an elevator in my apartment building.
+Do you need it?
+Yes, I need it.
+Do you often take the elevator?
+Yes, I often take the elevator.
+Are you taking the elevator now?
+No, I'm not taking the elevator now.
+Do elevators go up and down?
+Yes, elevators go up and down.
+Do elevators only go down?
+No, elevators don't only go down.
+Do elevators only go up?
+No, elevators don't only go up.
+Where do elevators go?
+The elevator go up and down.
+Where do elevators go?
+Are you taking the elevator now?
+Yes, I'm taking the elevator now.
+Are you stuck in the elevator?
+No, I'm not stuck in the elevator.
+Do you like to be stuck in the elevator?
+No, I don't like to be stuck in the elevator.
+Do you like to be stuck in the elevator?
+Do you want to get stuck in the elevator for the whole day?
+No, I don't want to get stuck in the elevator for the whole day.
+Do you want to get stuck in the elevator for the whole day?
+Do we call this thing that takes us up and down an elevator?
+Yes, we call this thing that takes us up and down an elevator.
+What do we call this thing that takes us up and down?
+We call this thing that takes us up and down an elevator.
+What do we call this thing that takes us up and down?
+Do you live in a small house?
+No, I don't live in a small house.
+Do you need an elevator if you live in a small house?
+No, I don't need an elevator if I live in a small house.
+Are you a student, or a teacher?
+I am a student.
+Do you go to college everyday?
+No, I don't go to college every day.
+Do you go to college 3 times a week?
+No, I don't go to college 3 times a week.
+Do you go to college 5 times a week?
+Yes, I go to college 5 times a week.
+How many times a week do you go to college?
+I go to college 5 times a week.
+On which days do you go to college?
+I go to college Monday to Friday.
+On which days do you go to college?
+I go to college Monday to Friday.
+Does your teacher ask you questions in class?
+Yes, my teacher asks me questions in class.
+Do you always know the right answer to the questions your teacher asks?
+No, I don't always know the right answer to the questions my teacher asks.
+Usually.
+If the teacher asks the class a question.
+And you know the right answer.
+You have to raise your hand first.
+It's not good to start speaking.
+To start answering the question
+Without rising your hand.
+Remember.
+Don't start answering the teacher's question
+Without raising your hand.
+If you know the right answer to the teacher's question, do you have to raise your hand?
+Yes, if I know the right answer to the teacher's question, I have to raise my hand.
+What do you have to do if you know the answer to the teacher's question?
+I have to raise my hand if I know the answer to the teacher's question.
+If you know the right answer to your teacher's question, do you start speaking without raising your hand?
+No, if I know the right answer to my teacher's question, I don't start speaking without rising my hand.
+If you know the right answer to your teacher's question, do you start speaking without raising your hand?
+No, if I know the right answer to my teacher's question, I don't start speaking without rising my hand.
+Can you rent a house if it's too expensive for you?
+No, I can't rent a house if it's too expensive for me.
+Can you rent a house if it's cheap enough for you?
+Yes, I can rent a house if it's cheap enough for me.
+When can you rent a house?
+I can rent a house when it's cheap enough for me.
+When can you rent a house?
+If you like an apartment, but it's too expensive, do you have to look for another apartment?
+Yes, if I like an apartment, but it's too expensive, I have to look for another apartment.
+If you like an apartment, but it's too expensive, is it a good idea to live in the street?
+No, if I like an apartment, but it's too expensive, it's not a good idea to live in the street.
+What do you have to do if you like an apartment, but it's too expensive?
+If I like an apartment, but it's too expensive, I have to look for another apartment.
+What do you have to do if you like an apartment, but it's too expensive?
+What do you have to do if you like an apartment, but it's too expensive?
+If I like an apartment, but it's too expensive, I have to look for another apartment.
+Does your apartment have a bathroom in it?
+Yes, my apartment has a bathroom in it.
+How many bathrooms does your apartment have in it?
+My apartment has only one bathroom in it.
+How many bathrooms does your apartment have in it?
+Does every apartment have to have a bathroom in it?
+Yes, every apartment has to have a bathroom in it.
+What does every apartment have to have in it?
+Every apartment has to have a bathroom in it.
+What does every apartment have to have in it?
+Do you want to live in an apartment without a bathroom?
+No, I don't want to live in an apartment without a bathroom.
+Do you have a job?
+Yes, I have a job.
+Do you work 9 to 5?
+Yes, I work 9 to 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work?
+I leave work at 5 PM.
+Do you get tired when you have a lot of work to do?
+Yes, I get tired when I have a lot of work to do.
+Does your job pay you well?
+No, my job doesn't pay me well.
+If your job doesn't pay you well, can you buy a lot of things?
+No, if my job doesn't pay me well, I can't buy a lot of things.
+If your job doesn't pay you well, can you buy expensive food?
+No, if my job doesn't pay me well, I can't buy expensive food.
+Do you think Jim makes a lot of money?
+No, I think Jim doesn't make a lot of money.
+If Jim doesn't make a lot of money, can we call him rich?
+No, if Jim doesn't make a lot of money, we can't call him rich.
+If Jim makes a little money, can we call him poor?
+Yes, if Jim makes a little money, we can call him poor.
+What can we call Jim if he makes a little money?
+He is poor, unfortunately.
+Let's hope he finds a better job.
+If your job doesn't pay you well, is it a good idea to look for another job?
+Yes, if my job doesn't pay me well, it's a good idea to look for another job.
+Of course.
+If you job doesn't pay you well.
+You have to look for another job.
+What do you have to do if your job doesn't pay you well?
+If my job doesn't pay me well, I have to look for another job.
+What do you have to do if your job doesn't pay you well?
+Does money grow on trees?
+No, money doesn't grow on trees.
+Do you have to work for it?
+Yes, I have to work for it.
+Do you want money to grow on trees?
+Yes, I want money to grow on trees.
+Do you want money to grow on trees?
+Do you want money to grow on trees?
+Yes, I want money to grow on trees.
+----‐------------------------------------------------------

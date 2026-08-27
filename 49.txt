@@ -1,0 +1,654 @@
+Do you work here?
+Yes, I work here.
+Do you hang out here?
+No, I don't hang out here.
+What do you do here?
+I work here.
+Do you have any clients here now?
+No, I don't have any clients here now.
+Do you have a lot of clients lately?
+No, I don't have a lot of clients lately.
+Does it mean the business is going fine?
+No, it doesn't mean the business is going fine.
+Does it mean the business is going badly?
+Yes, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+If I don't have a lot of clients, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+Do you have a lot of time to rest when you don't have many clients?
+Yes, I have a lot of time to rest when I don't have many clients.
+Do people come to your bar when they run out of bread?
+No, people don't come to my bar when they run out of bread.
+Do people come to your bar when they want to have a beer?
+Yes, people come to my bar when they want to have a beer.
+When do people come to your bar?
+People come to my bar when they want to have a beer.
+Having very few clients is bad for you.
+You can't stay in business for long if you don't have enough clients.
+Is having a few clients good for your business?
+No, having a few clients isn't good for my business.
+Is having a few clients bad for your business?
+Yes, having a few clients is bad for my business.
+How is it to have a few clients?
+It's bad for my business to have a few clients.
+Can you stay in business for long if you don't have any clients?
+No, I can't stay in business for long if I don't have any clients.
+You want to stay in business.
+You need some clients to bring some cash.
+Otherwise.
+You go out of business.
+Do you have to go out of business if you don't have enough clients?
+Yes, I have to go out of business if I don't have enough clients.
+What do you have to do if you don't have enough clients?
+I have to go out of business if I don't have enough clients.
+Does your car have a trunk?
+Yes, my car has a trunk.
+Do you need a trunk in a car?
+Yes, I need a trunk in a car.
+How many trunks does your car have?
+My car has one trunk.
+How many trunks does your car have?
+Do you keep anything in your trunk?
+Yes, I keep something in my trunk.
+Do you sleep in the trunk?
+No, I don't sleep in the trunk.
+Is there room for a spare tire in your trunk?
+No, there isn't room for a spare tire in my trunk.
+Does it mean your trunk is too small, or big enough for a spare tire?
+It means my trunk is too small for a spare tire.
+What does it mean if there is no room for a spare tire in your trunk?
+If there is no room for a spare tire in my trunk, it means my trunk is too small.
+Do you sometimes get a flat tire?
+Yes, I sometimes get a flat tire.
+Is it pleasant to get a flat tire?
+No, it's not pleasant to get a flat tire.
+Is it unpleasant to get a flat tire?
+Yes, it's unpleasant to get a flat tire.
+How is it to get a flat tire?
+It's unpleasant to get a flat tire.
+Do you know how to change a flat tire?
+Yes, I know how to change a flat tire.
+Do you have to call for a tow truck if you get a flat tire and don't know how to change it?
+Yes, I have to call for a tow truck if I get a flat tire and don't know how to change it.
+Who do you have to call for if you get a flat tire and don't know how to change it?
+I have to call for a tow truck if I get a flat tire and don't know how to change it.
+Who do you have to call for if you get a flat tire and don't know how to change it?
+Do you often go grocery shopping?
+Yes, I often go grocery shopping.
+Do you enjoy grocery shopping during rush hour?
+No I don't enjoy grocery shopping during rush hour.
+Why not?
+Because there are too many people at the store during rush hour.
+Why don't you enjoy grocery shopping during rush hour?
+I don't enjoy grocery shopping during rush hour because there are too many people at the store during rush hour.
+Do you always have enough money to pay for the groceries you take?
+Yes, I always have enough money to pay for the groceries I take.
+Can you pay for the groceries if you run out of money?
+No, I can't pay for the groceries if I run out of money.
+Then don't take so many groceries.
+Or choose cheaper ones.
+Those you can afford.
+Do you have bills to pay?
+Yes, I have bills to pay.
+Do you sometimes run out of money and don't have enough to pay your bills?
+Yes, I sometimes run out of money and don't have enough to pay my bills.
+Do people often run out of money if they earn peanuts?
+Yes, people often run out of money if they earn peanuts.
+What do people often run out of if they earn peanuts?
+People often run out of money if they earn peanuts.
+What do people often run out of if they earn peanuts?
+Are you nervous?
+Yes, I'm nervous.
+Are you getting late for work?
+Yes, I'm getting late for work.
+Why are you nervous?
+I'm nervous because I'm getting late for work.
+Do you always get nervous when you're late for work?
+Yes, I always get nervous when I'm late for work.
+Why?
+Because my boss doesn't like it when I'm late for work.
+Why do you always get nervous when you're late for work?
+I always get nervous when I'm late for work because my boss doesn't like it when I'm late for work.
+Do you usually take your time when you're late for work?
+No, I don't usually take my time when I'm late for work.
+Do you usually take your time when you're late for work?
+Do you usually hurry when you're late for work?
+Yes, I usually hurry when I'm late for work.
+What do you usually do when you're late for work?
+I usually hurry when I'm late for work.
+He isn't taking his time.
+He is waiting for the train.
+But probably the train is taking its time.
+Are you waiting for your friend?
+No, I'm not waiting for my friend.
+Are you waiting for a bus?
+No, I'm not waiting for a bus.
+Are you waiting for a train?
+Yes, I'm waiting for a train.
+What are you waiting for?
+I'm waiting for a train.
+What are you waiting for?
+Is it interesting to wait for the train for 30 minutes?
+No, it's not interesting to wait for the train for 30 minutes.
+Is it boring to wait for the train for 30 minutes?
+Yes, it's boring to wait for the train for 30 minutes.
+How is it to wait for the train for 30 minutes?
+It's boring to wait for the train for 30 minutes.
+How is it to wait for the train for 30 minutes?
+Do most people go to work or home during rush hour?
+Yes, most people go to work or home during rush hour.
+Where do most people go during rush hour?
+Most people go to work or home during rush hour.
+Where do most people go during rush hour?
+Do trains get crowded during rush hour?
+Yes trains get crowded during rush hour.
+Why?
+Because most people go to work or home during rush hour.
+Why do trains get crowded during rush hour?
+Trains get crowded during rush hour because most people go to work or home.
+Do you enjoy taking a crowded train?
+No, I don't enjoy taking a crowded train.
+Do you hate taking a crowded train?
+Yes, I hate taking a crowded train.
+How do you feel about taking a crowded train?
+I hate taking a crowded train.
+How do you feel about taking a crowded train?
+I hate taking a crowded train.
+Is taking a crowded train better than driving your car?
+No, taking a crowded train isn't better than driving my car.
+Is driving your car better than taking a crowded train?
+Yes, driving my car is better than taking a crowded train.
+Which is better, driving a car, or taking a crowded train?
+Driving a car is better than taking a crowded train.
+Is this your car?
+Yes, this is my car.
+Is it a new car, or a used car?
+It's a used car.
+Is it out of gas?
+No, it's not out of gas.
+Is it broken?
+Yes, it's broken.
+What's wrong with your car?
+My car is broken.
+What's wrong with your car?
+What's wrong with your car?
+My car is broken.
+Can you drive a car if it's broken?
+No, I can't drive my car if it's broken.
+If you want to drive it, do you have to fix it first?
+Yes, if I want to drive it, I have to fix it first.
+Or buy a normal car.
+What do you have to do if you want to drive a broken car?
+If I want to drive a broken car, I have to fix it first.
+What do you have to do if you want to drive a broken car?
+Do you prefer to drive a new car, or a used car?
+I prefer to drive a new car.
+I need to fill up on gas.
+Is there a gas station nearby?
+No, there isn't a gas station nearby.
+Do you know why I need a gas station?
+Yes, I know why you need a gas station.
+Do I need a gas station because my car is low on gas?
+Yes, you need a gas station because your car is low on gas.
+Why do I need a gas station?
+You need a gas station because your car is low on gas.
+When you need to fill up your car, do you always look for cheap gas?
+Yes, when I need to fill up my car, I always look for cheap gas.
+Why?
+Because I don't have money for expensive gas.
+Why do you always look for cheap gas when you need to fill up your car?
+When I need to fill up my car, I always look for cheap gas because I don't have money for expensive gas.
+Bill is unlucky.
+He ran out of gas.
+In the middle of nowhere.
+He is out of gas.
+Are you driving?
+No, I'm not driving.
+Why not?
+Because I'm out of gas.
+Why aren't you driving?
+I'm not driving because I'm out of gas.
+Is there any snow here?
+Yes, there is a lot of snow here.
+Does your car run on snow?
+No, my car doesn't run on snow.
+What does your car run on?
+My car runs on gas.
+Do you need to go to the charging station to charge your car?
+No, I don't need to go to the charging station to charge my car.
+Why not?
+Because it's not an electric car.
+Do electric cars need gas to run?
+No, electric cars don't need gas to run.
+What do electric cars need to run?
+Electric cars need gas to run.
+What do electric cars need to run?
+What about your car, what does your car need to run?
+My car needs gas to run.
+Do you need to go to the gas station to fill up your car with gas?
+Yes, I need to go to the gas station to fill up my car with gas.
+Where do you need to go and why?
+I need to go to the gas station to fill up my car with gas.
+Is there a gas station nearby?
+No, there is no gas station nearby.
+Can you fill up your car at a gas station if you're out of money?
+No, I can't fill up my car at a gas station if I'm out of money.
+What do you need to have if you want to fill up your car at a gas station?
+If I want to fill up my car at a gas station, I need to have money.
+If you don't have money for gas, is it a good idea to fill up your car with snow?
+No, if I don't have money for gas, it's not a good idea to fill up my car with snow.
+If you don't have money for gas, is it a terrible idea to fill up your car with snow?
+Yes, if I don't have money for gas, it's a terrible idea to fill up my car with snow.
+It's the stupidest thing you cloud do.
+Paying for a tow truck would be the cheapest.
+And probably the only viable solution here.
+Do you make enough money to go on vacation several times a year?
+Yes, I make enough money to go on vacation several times a year.
+Do you go on vacation several times a year?
+Yes, I go on vacation several times a year.
+How often do you go on vacation?
+I go on vacation several times a year.
+How often do you go on vacation?
+Do people go on vacation when they want to have some rest?
+Yes, people go on vacation when they want to have some rest.
+Do people go on vacation when they want to work hard?
+No, people don't go on vacation when they want to work hard.
+When do people go on vacation?
+People go on vacation when they want to have some rest.
+When do people go on vacation?
+Is it good for you to sit in your office all year long?
+No, it's not good for me to sit in my office all year long.
+Is it really bad for you to sit in your office all year long?
+Yes, it's really bad for me to sit in my office all year long.
+Is it better for you to sit in your office all year long, or to go on vacation several times a year?
+It's better for me to go on vacation several times a year.
+Can you go on vacation to an expensive place if you are low on money?
+No, I can't go on vacation to an expensive place if I'm low on money.
+Do you have to go on vacation to some cheap place if you're low on money?
+Yes, I have to go on vacation to some cheap place if I'm low on money.
+Or better yet.
+You can stay home.
+And save a couple of bucks.
+Is cheap gas the same quality as expensive gas?
+No, cheap gas isn't the same quality as expensive gas.
+Is cheap gas different quality from expensive gas?
+Yes, cheap gas is different quality from expensive gas.
+Is cheap gas usually high quality?
+No, cheap gas isn't usually high quality.
+Is cheap gas usually low quality?
+Yes, cheap gas is usually low quality.
+What quality is cheap gas?
+Cheap gas is usually low quality.
+If gas is expensive, does it always mean it's high quality?
+No, if gas is expensive, it doesn't always mean it's high quality.
+It usually means good marketing
+Does your car often break down?
+Yes, my car often breaks down.
+Does your car break down once a month?
+No, my car doesn't break down once a month.
+Does your car break down once every 3 months?
+Yes, my car breaks down once every 3 months.
+How often does your car break down?
+My car breaks down once every 3 months.
+Can you predict when your car can break down next time?
+No, I can't predict when my car can break down next time.
+Do you know how to fix your car when it breaks down?
+No, I don't know how to fix my car when it breaks down.
+When your car breaks down, do you call for a tow truck?
+Yes, when my car breaks down, I call for a tow truck.
+Who do you call for when your car breaks down?
+I call for a tow truck when my car breaks down.
+Who do you call for when your car breaks down?
+Does a tow truck take your car to the garage to fix it?
+Yes, a tow truck takes my car to the garage to fix it.
+Where does a tow truck take your car when it breaks down?
+A tow truck takes my car to the garage when it breaks down.
+Where does a tow truck take your car when it breaks down?
+Is that a tow trick?
+Yes, that's a tow truck.
+Where is it taking your car?
+It's taking my car to the garage.
+Why is the tow truck taking your broken car to the garage?
+The tow truck is taking my broken car to the garage to fix it.
+Why is the tow truck taking your broken car to the garage?
+The tow truck is taking my broken car to the garage to fix it.
+Does a tow truck take a car to the garage for free?
+No, a tow truck doesn't take a car to the garage for free.
+Does it cost a little to tow your car to the garage?
+No, it doesn't cost a little to tow my car to the garage.
+Does it cost a lot to tow your car to the garage?
+Yes, it costs a lot to tow my car to the garage.
+Unless you have an insurance policy for cases like that.
+If your car often breaks down, does it mean the car is high quality, or low quality?
+If my car often breaks down, it means the car is low quality.
+What does it mean if your car often breaks down?
+If my car often breaks down, it means the car is low quality.
+What does it mean if your car often breaks down?
+USA stands for United States of America.
+UK stands for United Kingdom.
+Do you know what USA stands for?
+Yes, I know what USA stands for.
+Do you know what USA stands for?
+Do you know what USA stands for?
+Yes, I know what USA stands for.
+What does USA stand for?
+USA stands for United States of America.
+What does USA stand for?
+What does USA stand for?
+USA stands for United States of America.
+Do you know what UK stands for?
+Yes, I know what UK stands for.
+Do you know what UK stands for?
+What does UK stand for?
+UK stands for United Kingdom.
+What does UK stand for?
+Are you drinking beer at a restaurant now?
+No, I'm not drinking beer at a restaurant now.
+Are you taking an exam now?
+Yes, I'm taking an exam now.
+What are you taking now?
+I'm taking an exam now.
+Are you nervous?
+Yes, I'm nervous.
+Why?
+Because I'm taking an exam.
+Are you usually nervous before You enter the exam room?
+Yes, I'm usually nervous before I enter the exam room.
+How do you usually feel before you enter the exam room?
+I'm usually nervous before I enter the exam room.
+How do you usually feel before you enter the exam room?
+Do you usually enter the exam room unprepared?
+No, I don't usually enter the exam room unprepared.
+Do you usually enter the exam room prepared?
+Yes, I usually enter the exam room prepared.
+Does it mean you usually prepare well for the exam?
+Yes, it means I usually prepare well for the exam.
+Is it important to prepare well for the exam if you want to pass it?
+Yes, it's important to prepare well for the exam if I want to pass it.
+Is it important to hang out with your friends before the exam if you want to pass it?
+No it's not important to hang out with my friends before the exam if I want to pass it.
+What is it important to do before the exam if you want to pass it?
+It's important to prepare well before the exam if I want to pass it.
+What is it important to do before the exam if you want to pass it?
+If you come to the exam unprepared, do you probably fail it?
+Yes, if I come to the exam unprepared I probably fail it.
+When do students usually fail exams?
+Students usually fail exams when they come unprepared.
+When do students usually fail exams?
+When do students usually fail exams?
+Students usually fail exams when they come unprepared.
+Do students usually get a good grade if they take an exam unprepared?
+No, students usually don't get a good grade if they take an exam unprepared.
+Do students usually get a bad grade if they take an exam unprepared?
+Yes, students usually get a bad grade if they take an exam unprepared.
+What grade do students usually get if they take an exam unprepared?
+Students usually get a bad grade if they take an exam unprepared.
+What grade do students usually get if they take an exam unprepared?
+Can you prepare for a very difficult exam in 5 minutes?
+No, I can't prepare for a very difficult exam in 5 minutes.
+Does it take a lot of time to prepare for a very difficult exam?
+Yes, it takes a lot of time to prepare for a very difficult exam.
+How long does it usually take to prepare for a very difficult exam?
+It usually takes a lot of time to prepare for a very difficult exam.
+How long does it usually take to prepare for a very difficult exam?
+Do you have an MBA?
+No, I don't have an MBA.
+Do you want to get an MBA?
+Yes, I want to get an MBA.
+Is an MBA a business degree?
+Yes, an MBA is a business degree.
+What kind of degree is an MBA?
+An MBA is a business degree.
+What kind of degree is an MBA
+Can you get an MBA in college?
+No, I can't get an MBA in college.
+Do you know what MBA stands for?
+Yes, I know what MBA stands for.
+Does MBA stand for Money Buys All?
+No, MBA doesn't stand for Money Buys All.
+Does MBA stand for Master of Business Administration?
+Yes, MBA stands for Master of Business Administration.
+What does MBA stand for?
+MBA stands for Master of Business Administration .
+What does MBA stand for?
+What does MBA stand for?
+MBA stands for Master of Business Administration.
+Web design
+To miss
+I don't want to miss my class
+All right
+Everything is all right
+Just
+I just want to tell you something
+A concert
+Soon
+A singer
+To sing
+A song
+What a heck
+To agree
+To disagree
+Hey, Michael, do you have a minute?
+Not really.
+I'm getting late for my web design class.
+I really don't want to miss it.
+Is everything all right?
+Yes.
+I'm just...
+Going to sting concert soon.
+I have a spare ticket...
+Do you want to go with me?
+Go to the concert with you?
+Hmm... why not?
+What a heck are you doing, Michael?
+When are we going?
+Tomorrow at 6 PM.
+Oh no!
+Tomorrow is Thursday!
+No... I can't go with you tomorrow.
+I'm working on a very important project.
+and tomorrow at 6 PM I'm taking an exam.
+That's right. Good thinking.
+That's too bad.
+Well, do you want to go to the movies on Sunday together?
+I'm sure you don't have to take any exams on Sunday.
+No, I don't...
+But my sister is... throwing a birthday party.
+And I have to help her cook.
+All right, how about next week?
+We can go somewhere nice.
+And have a good time together.
+Next week is fine...
+I guess.
+We can go to...
+The art gallery.
+Come on, Michael!
+Those galleries are so boring!
+Can we go somewhere else?
+You know, some "cool" place to hang out?
+I hope you know what "cool" means
+Ok, how about a baseball game?
+Next Tuesday the Yankees are playing the Dodgers.
+I hate baseball!
+This is just not my game...
+I have an idea:
+Why don't we go to the opera?
+Opera...
+I have another idea!
+Just go to your opera alone.
+I'm going to the baseball game.
+Here we have Amy.
+And Michael.
+Amy comes to Michael and says.
+Hey, Michael, do you have a minute?
+Michael apparently doesn't want to talk to Amy.
+So he answers.
+Not really.
+I'm getting late for my web design class.
+Does Amy want to talk to Sam?
+No, Amy doesn't want to talk to Sam.
+Does Amy want to talk to Lisa?
+No, Amy doesn't want to talk to Lisa.
+Who does Amy want to talk to?
+Amy wants to talk to Michael.
+Who does Amy want to talk to?
+What is she asking him?
+She is asking him "Do you have a minute"?
+Yeah.
+She is asking him.
+Hey, Michael, do you have a minute?
+And he answers.
+Not really.
+No, he doesn't have a minute to talk to her.
+Does Michael have a minute to talk to her?
+No, Michael doesn't have a minute to talk to her.
+What doesn't he have time to do?
+He doesn't have time to talk to Amy.
+He doesn't have time for it.
+He says.
+Not really.
+I'm getting late for my web design class.
+He has a design class.
+He has to go to his design class.
+If he stays here and talks to Amy.
+He can be late.
+He is already getting late for his design class.
+So, he can't stay here any longer.
+Is he getting late for work?
+No, he isn't getting late for work.
+Is he getting late for a doctor's appointment?
+No, he isn't getting late for a doctor's appointment.
+Is he getting late for his web design class?
+Yes, is he getting late for his web design class.
+What is he getting late for?
+He is getting late for his web design class.
+What is he getting late for?
+Can he be late for his web design class if he stays and talks to Amy?
+Yes, he can be late for his Web design class if he stays and talks to Amy.
+Why can't he stay and talk to Amy for a minute?
+He can't stay and talk to Amy for a minute because he can be late for his web design class.
+Why can't he stay and talk to Amy for a minute?
+Why can't he stay and talk to Amy for a minute?
+He can't stay and talk to Amy for a minute because he can be late for his web design class.
+He can be late for his web design class.
+He doesn't want that to happen.
+Not really. I'm getting late for my web design class.
+I really don't want to miss it.
+Does he want to miss his class?
+No, he doesn't want to miss his class.
+What doesn't he want to miss?
+He doesn't want to miss his web design class.
+Is his Web design class very important to him?
+Yes, his web design class is very important to him.
+Why doesn't he want to miss his web design class?
+He doesn't want to miss his web design class because it's very important to him.
+Why doesn't he want to miss his web design class?
+He doesn't want to miss his web design class because it's very important to him.
+It is really important.
+He is already getting late.
+And he doesn't want to miss it.
+But he also wonders what Amy wants from him.
+I'm getting late for my web design class.
+I really don't want to miss it.
+Is everything alright?
+He wants to know if she is "alright".
+And Amy says that.
+Yes, she is alright.
+But she is going somewhere.
+And...
+Yeah,
+I'm just...
+Going to sting concert soon
+You get it?
+She is going to sting concert soon.
+Is she going to college soon?
+No, she isn't going to college soon
+Is she going to Britney Spears concert soon?
+No, she isn't going to Britney Spears concert soon.
+Is she going to sting concert soon?
+Yes, she is going to sting concert soon.
+Where is she going soon?
+She is going to sting concert soon
+Who is Sting?
+Sting is a singer.
+Who is Sting?
+Sting is a singer.
+Does Sting sing songs at his concerts?
+Yes, Sting sings songs at his concerts.
+Why?
+Because he is a singer.
+Do people pay money to hear him sing songs at the concert?
+Yes, people pay money to hear him sing songs at the concert.
+He is a famous singer.
+There's going to be a concert soon
+And Amy is going.
+I'm just... going to Sting concert soon.
+I have a spare ticket...
+Do you want to go with me?
+She has a spare ticket to Sting concert.
+One more ticket.
+She has one for her.
+And one for...
+Someone else.
+And she wants Michael.
+To go with her.
+Does she only have one ticket to the concert?
+No, she doesn't only have one ticket to the concert.
+Does she have three tickets to the concert?
+No, she doesn't have three tickets to the concert.
+Not 3.
+She has one ticket for her.
+And one spare ticket.
+Does she have a spare ticket?
+Yes, she has a spare ticket.
+How many spare tickets does she have?
+She has one spare ticket.
+How many spare tickets does she have?
+Does she want Michael to go to the concert with her?
+Yes, she wants Michael to go to the concert with her.
+Yes, she wants Michael to go to the concert with her.
+Because she has a spare ticket.
+I have a spare ticket...
+Do you want to go with me?
+Who does she want to go with her?
+She wants Michael to go with her.
+Where does she want Michael to go with her?
+She wants Michael to go to Sting concert with her.
+Where does she want Michael to go with her?
+She wants Michael to go to Sting concert with her?
+Because she has a spare ticket.
+I'm just... going to Sting concert soon.
+I have a spare ticket...
+Do you want to go with me?
+It caught him a bit off his guard.
+He doesn't really want to go with her?
+He doesn't like the idea of going to the concert with her.
+But he says.
+Go to the concert with you?
+Why not?
+He agrees to go with her.
+And then he immediately regrets it.
+What a heck are you doing, Michael?
+What a heck are you doing?
+Is a strong form of what are you doing?
+What a heck are you doing, Michael?
+You don't want to go with her.
+What a heck are you doing, Michael?
+Does he agree to go to the concert with her?
+Yes, he agrees to go to the concert with her.
+What does he agree to do with her?
+He agrees to go to the concert with her.
+Does he know why he agrees to go with her?
+No, he doesn't know why he agrees to go with her.
+What is he thinking?
+He is thinking "What a heck are you doing, Michael"?
+What is he thinking?
+He is thinking "What a heck are you doing, Michael"?
+Why is he thinking that?
+He is thinking that because he doesn't know why he agrees to go with her.
+Why is he thinking that?
+He is thinking that because he doesn't know why he agrees to go with her.
+He doesn't know why he agreed.
+He doesn't know why he said yes.
+Now he has to find a way out of this.
+----‐------------------------------------------------------

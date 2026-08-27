@@ -1,0 +1,567 @@
+Do you like to hang out at the bar after work?
+Yes, I sometimes like to hang out at the bar after work.
+Do you usually drink green tea at the bar?
+No, I don't usually drink green tea at the bar.
+Do you usually drink coffee at the bar?
+No, I don't usually drink coffee at the bar.
+Do you usually drink beer at the bar?
+Yes, I usually drink beer at the bar.
+What do you usually drink at the bar?
+I usually drink beer at the bar.
+What do you usually drink at the bar?
+Does beer grow on trees?
+No, beer doesn't grow on trees.
+Do people make beer?
+Yes, People make beer.
+Do you know how they make beer?
+No, I don't know how they make beer.
+Do you want to learn to make beer?
+Yes, I want to learn to make beer.
+Do you want to start selling beer for money?
+No, I don't want to start selling beer for money.
+Do you think you can make a lot money by selling beer?
+No, I don't think I can make a lot of money by selling beer.
+Do you live in this office?
+No, I don't live in this office.
+Do you think this office is a nice place to live?
+No, I think this office isn't a nice place to live.
+Do you always have something to do in the office?
+No, I don't always have something to do in the office.
+If you have nothing to do in the office, do you like to drink coffee?
+Yes, I have nothing to do in the office, I like to drink coffee.
+If you have nothing to do in the office, do you like to listen to music?
+Yes, if I have nothing to do in the office, I like to listen to music.
+What do you like to do when you have nothing to do in the office?
+I like to drink coffee and listen to music when I have nothing to do in the office.
+What do you like to do when you have nothing to do in the office?
+What do you like to do when you have nothing to do in the office?
+I like to drink coffee and listen to music when I have nothing to do in the office.
+Do you get minimum wage working in this office?
+No, I don't get minimum wage working in this office.
+Is your salary enough to pay your rent?
+Yes, my salary is enough to pay my rent.
+Can you make a lot of money by sleeping at the table all day?
+No, I can't make a Lot of money by sleeping at the table all day.
+Can you make a lot of money by sleeping at the table all day?
+Can you make a lot of money by hanging out with your friends all day?
+No, I can't make a lot of money by hanging out with my friends all day.
+Can you make a lot of money by drinking beer all day?
+No, I can't make a lot of money by drinking beer all day.
+Is beer a soft drink?
+No, beer isn't a soft drink.
+Is beer an alcoholic drink?
+Yes, beer is an alcoholic drink.
+Do you like to drink cold beer in summer, when it's very hot?
+Yes, I like to drink cold beer in summer when it's very hot.
+What do you like to drink in summer when it's very hot?
+I like to drink cold beer in summer when it's very hot.
+What do you like to drink in summer when it's very hot?
+Do you go to work every day?
+No, I don't go to work everyday.
+How many days a week do you go to work?
+I go to work 5 days a week.
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you have a lot of work to do everyday?
+Yes, I have a lot of work to do every day.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+How do you feel when you work a lot
+I get tired when I work a lot?
+How do you feel when you work a lot?
+Do you have any toes?
+Yes, I have some toes.
+How many toes do you have?
+I have 10 toes.
+Do you sometimes hit the table with your toe?
+Yes, I sometimes hit the table with my toe.
+Do you like it when you hit the table with your toe?
+No, I don't like it when I hit the table with my toe.
+Does it hurt when you hit the table with your toe?
+Yes, it hurts when I hit the table with my toe.
+How does it feel when you hit the table with your toe?
+It hurts when I hit the table with my toe.
+How does it feel when you hit the table with your toe?
+How does it feel when you hit the table with your toe?
+It hurts when I hit the table with my toe.
+Are you going anywhere now?
+Yes, I'm going somewhere now.
+Are you going to a grocery store?
+No, I'm not going to a grocery store.
+Are you going to a movie theater?
+No, I'm not going to a movie theatre.
+Are you going to work?
+No, I'm not going to work.
+Where are you going?
+I'm going to college.
+Are you on the bus?
+No, I'm not on the bus.
+Are you on the Subway?
+Yes, I'm on the Subway.
+Are there any people on the Subway now?
+Yes, there are some people on the Subway now.
+Is the Subway crowded now?
+Yes, the Subway is crowded now.
+Why?
+Because it's rush hour.
+Why is the Subway crowded now?
+The Subway is crowded now because it's rush hour.
+Why is the Subway crowded now?
+Do people often push you on a crowded train?
+Yes, people often push me on a crowded train.
+Do you like it when people push you on a crowded train?
+No, I don't like it when people push me on a crowded train.
+Does it drive you crazy when people push you on a crowded train?
+Yes, it drives me crazy when people push me on a crowded train.
+How does it make you feel when people push you on a crowded train?
+It drives me crazy when people push me on a crowded train.
+How does it make you feel when people push you on a crowded train?
+How does it make you feel when people push you on a crowded train?
+It drives me crazy when people push me on a crowded train.
+If people push you, does it make you feel better if you push them too?
+No, if people push me, it doesn't make me feel better if I push them too.
+Is that your family?
+Yes, that's my family.
+Do you have both parents?
+Yes, I have both parents.
+What's your mother's name?
+My mother's name is Lisa.
+What's your father's name?
+My father's name is Joe.
+Do you live with your parents?
+Yes, I live with my parents.
+Who do you live with?
+I live with my parents.
+Who do you live with?
+Do you want to rent an apartment and live without your parents?
+Yes, I want to rent an apartment and live without my parents.
+Can you rent an apartment?
+No, I can't rent an apartment.
+Why not?
+Because I don't earn money.
+Why can't you rent an apartment?
+I can't rent an apartment because I don't earn money.
+Are your parents going to college with you?
+No, my parents aren't going to college with me.
+Are your parents going to work?
+Yes, my parents are going to work.
+Where are your parents going?
+My parents are going to work.
+Where are your parents going?
+Are those your friends?
+No, those aren't my friends.
+Are they your siblings?
+Yes, they are my siblings.
+Who are they?
+They are my siblings.
+How many siblings do you have?
+I have 2 siblings.
+Is this your sister?
+Yes, this is my sister.
+Does she have a name?
+Yes, she has a name.
+What's your sister's name?
+My sister's name is Susan.
+Do your parents make a lot of money?
+No, my parents don't make a lot of money.
+Can your parents buy you an expensive car?
+No, my parents can't buy me an expensive car.
+Can your parents buy you a cheap car?
+No, my parents can't buy me a cheap car.
+Can your parents buy you any car?
+No, my parents can't buy me any car.
+Why do you think your parents don't make a lot of money?
+I think my parents don't make a lot of money because they can't buy me a car.
+Do you eat snakes ?
+No, I don't eat snakes.
+Can you cook snakes?
+No, I can't cook snakes.
+Do you think there are some snakes in this park?
+Yes, I think there are some snakes in this park.
+If you see a sleeping snake, is it a good idea to hit it with something heavy?
+No, if I see a sleeping snake, it's not a good idea to hit it with something heavy.
+Can a snake bite you if you try to hit it with something heavy?
+Yes, a snake can bite me if I try to hit it with something heavy.
+What can a snake do if you try to hit it with something heavy?
+A snake can bite me if I try to hit it with something heavy.
+If a snake bites you, is it a good idea to try to bite it back?
+No, if a snake bites me, it's not a good idea to try to bite it back.
+If a snake bites you, do you have to take a shower immediately?
+No, if a snake bites me, I don't have to take a shower immediately.
+If a snake bites you, do you have to go to the hospital immediately?
+Yes, if a snake bites me, I have to go to the hospital immediately.
+What do you immediately have to do if a snake bites you?
+I immediately have to go to the hospital if a snake bites me.
+Do you have a pet snake at your place?
+No, I don't have a pet snake at my place.
+Do you want to have a pet snake at your place?
+No, I don't want to have a pet snake at my place.
+If you're stuck in the elevator, is it a good idea to push the door really hard?
+No, if I'm stuck in the elevator, it's not a good idea to push the door really hard.
+If you're stuck in the elevator, is it a good idea to hit the door with your head really hard?
+No, if I'm stuck in the elevator, it's not a good idea to hit the door with my head really hard.
+Are you an animal, or a person?
+I'm a person.
+Is a cat an animal, or a person?
+A cat is an animal.
+Is a dog a person?
+No, a dog isn't a person.
+What is it?
+It's an animal.
+Do you have any pets at your place?
+Yes I have a pet at my place.
+What pet do you have at your place?
+I have a dog at my place.
+Is it a he, or a she?
+It's a she.
+Does your dog sometimes bite you?
+Yes, my dog sometimes bites me.
+Do you like it when your dog bites you?
+No, I don't like it when my dog bites me.
+When your dog bites you, do you bite her back?
+No, when my dog bites me, I don't bite her back.
+Does it make you feel good if you bite your dog after she bites you?
+No, it doesn't make me feel good if I bite my dog after she bites me.
+Are you stuck in the elevator now?
+No, I'm not stuck in the elevator now.
+Do you want to get stuck in the elevator when you leave school?
+No, I don't want to get stuck in the elevator when I leave school.
+Are you in the class now?
+No, I'm not in the class now.
+Are you sitting in the school library now?
+Yes, I'm sitting in the school library now.
+Are you here because you're writing a paper?
+Yes, I'm here because I'm writing a paper.
+What are you sitting in the library?
+I'm sitting in the library because I'm writing a paper.
+Why are you sitting in the library?
+Do you teachers make you write long papers everyday?
+No, my teachers don't make me write long papers every day.
+Do you teachers make you write long papers every week?
+Yes, my teachers make me write long papers every week.
+What do you teachers make you do every week?
+My teachers make me write long papers every week.
+When your teacher tells you to write a paper, do you immediately run to the library?
+No, when my teacher tells me to write a paper, I don't immediately run to the library.
+When your teacher tells you to write a paper, is it a good idea to start writing immediately?
+Yes, when my teacher tell me to write a paper, it's a good idea to start writing immediately.
+Do you love to sit in the library and write long papers?
+No, I don't love to sit in the library and write long papers.
+But why do you do that?
+Because my teachers make me.
+Why do you do that?
+Because my teachers make me.
+If you don't write your paper, does the teacher give you a good grade?
+No, if I don't write my paper, the teacher doesn't give me a good grade.
+If you don't write your paper, Does the teacher give you a bad grade?
+Yes, if I don't write my paper, the teacher gives me a bad grade.
+Is it your prediction, or do you know that exactly?
+I know that exactly.
+What grade does the teacher give you if you don't write your paper?
+The teacher gives me a bad grade if I don't write my paper.
+What grade does the teacher give you if you don't write your paper?
+What grade does the teacher give you if you don't write your paper?
+The teacher gives me a bad grade if I don't write my paper.
+Can you bring your dog to school?
+No, I can't bring my dog to school
+Does your dog have long hair?
+No, my dog doesn't have long hair.
+Does your dog have short hair?
+Yes, my dog has short hair.
+What hair does your dog have?
+My dog has short hair.
+Can your dog's hair get stuck in your eye?
+Yes, my dog's hair can get stuck my eye.
+Do you like it when something gets stuck in your eye?
+No, I don't like it when something gets stuck in my eye.
+Does it hurt a little if something gets stuck in your eye?
+No, it doesn't hurt a little if something gets stuck in my eye.
+Does it hurt badly if something gets stuck in your eye?
+Yes, it hurts badly if something gets stuck in my eye.
+How does it feel if something gets stuck in your eye?
+It hurts badly if something gets stuck in my eye.
+How does it feel if something gets stuck in your eye?
+If something gets stuck in your eye, do you immediately try to get it out?
+Yes, if something gets stuck in my eye, I immediately try to get it out.
+Why?
+Because it hurts when something is stuck in my eye.
+If you can't get it out, do you run to the hospital?
+Yes, if I can't get it out, I run to the hospital.
+What do you do if something gets stuck in your eye and you can't get it out?
+If something gets stuck in my eye and I can't get it out, I run to the hospital.
+Is your dog homeless?
+No, my dog is not homeless.
+Does she have a place to live?
+Yes, she has a place to live.
+If a dog doesn't have a place to live, do we call this dog homeless?
+Yes, if a dog doesn't have a place to live, we call this dog homeless.
+What do we call a dog that doesn't have a place to live?
+We call a dog that doesn't have a place to live homeless.
+What do we call a dog that doesn't have a place to live?
+What do we call a dog that doesn't have a place to live?
+We call a dog that doesn't have a place to live homeless.
+About
+A pocket
+Free
+For free
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+A month
+A year
+A bill
+I have bills to pay
+It takes
+It takes me 1 hour to get to work
+How long does it take you to get to work?
+A well paid job
+A badly paid job
+Peanuts
+To earn Peanuts
+Do you have any money in your pocket?
+Yes, I have some money in my pocket.
+Do you have a lot of money in your pocket?
+Yes, I have a lot of money in my pocket.
+Do you know exactly how much money you have in your pocket?
+No, I don't know exactly how much money I have in my pocket.
+How much money do you have in your pocket?
+I have about 300 dollars in my pocket.
+Do you earn 300 dollars a month?
+No, I don't earn 300 dollars a month.
+Is 300 dollars enough to pay your rent?
+No, 300 dollars isn't enough to pay my rent.
+Do you get a salary at work?
+Yes, I get a salary at work.
+Do you have a well paid job?
+No, I don't have a well paid job.
+Do you earn peanuts?
+Yes, I earn peanuts.
+Does it mean you have a well paid, or a badly paid job?
+It means I have a badly paid job.
+What does it mean if you say you earn peanuts?
+If I say I earn peanuts, it means I have a badly paid job.
+What does it mean if you say you earn peanuts?
+What does it mean if you say you earn peanuts?
+If I say I earn peanuts, it means I have a badly paid job.
+Are you happy about your salary?
+No, I'm not happy about my salary.
+If you aren't happy about your salary, is it a good idea to stay home all day and drink beer?
+No, if I'm not happy about my salary, it's not a good idea to stay home all day and drink beer.
+You will never earn anything more than peanuts.
+If all you do is drink beer.
+Can you earn a lot of money by drinking beer all day?
+No, I can't earn a lot of money by drinking beer all day.
+If you aren't happy about your salary, is it a good idea to watch movies and eat peanuts all day?
+No, if I'm not happy about my salary, it's not a good idea to watch movies and eat peanuts all day.
+Can you earn a lot of money by watching movies and eating peanuts all day?
+No, I can't earn a lot of money by watching movies and eating peanuts all day.
+If you aren't happy about your salary, is it better to look for another job?
+Yes, if I'm not happy about my job, it's better to look for another job.
+What is it better to do if you aren't happy about your salary?
+If I'm not happy about my salary, it's better to look for another job.
+What is it better to do if you aren't happy about your salary?
+What is it better to do if you aren't happy about your salary?
+If I'm not happy about my salary, it's better to look for another job.
+There is no guarantee though that another job will pay you well.
+Are you going to the movie theatre now?
+No, I'm not going to the movie theatre now.
+Where are you going?
+I'm going to work.
+Is it rush hour now?
+Yes, it's rush hour now.
+Is the Subway often crowded during rush hour?
+Yes, the Subway is often crowded during rush hour.
+Why?
+Because many people go to work or home during rush hour.
+Why is the Subway often crowded during rush hour?
+The Subway is often crowded during rush hour because many people go to work or home during rush hour.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+What time does your work day start?
+My work day starts at 9 AM.
+What time do you get up in the morning?
+I get up at 6:30 AM.
+Is it easy for you to get up at 6:30 every day?
+No, it's not easy for me to get up at 6:30 every day.
+Is it difficult for you to get up at 6:30 everyday?
+Yes, It's difficult for me to get up at 6:30 everyday.
+Is it difficult for you to get up at 6:30 everyday?
+What time do you leave home in the morning?
+I leave home at 8 o'clock in the morning.
+What time do you have to be at work?
+I have to be at work at 9 AM.
+If you have to be at work at 9, but you come at 9:30, does it mean you're 30 minutes late for work?
+Yes, If I have to be at work at 9, but I come at 9:30, it means I'm 30 minutes late for work.
+What does it mean if you have to be at work at 9, but you come at 9:45?
+If I have to be at work at 9, but I come at 9:45, it means I'm 45 minutes late for work.
+What does it mean if you have to be at work at 9, but you come at 9:45?
+If I have to be at work at 9, but I come at 9:45, it means I'm 45 minutes late for work.
+Does it take you only 5 minutes to get to work in the morning?
+No, it doesn't take me only 5 minutes to get to work in the morning.
+Does it take you only 15 minutes to get to work in the morning?
+No, it doesn't take me only 15 minutes to get to work in the morning.
+Does it take you 3 hours to get to work in the morning?
+No, it doesn't take me 3 hours to get to work in the morning.
+How long does it take you to get to work in the morning?
+It takes me 1 hour to get to work in the morning.
+How long does it take you to get to work in the morning?
+How long does it take you to get to work in the morning?
+It takes me 1 hour to get to work in the morning.
+If your work day starts at 9, what time do you have to leave home?
+If my work day starts at 9, I have to leave home at 8.
+Why?
+Because it takes me 1 hour to get to work.
+Why do you have to leave home at 8 if your work day starts at 9?
+If my work day starts at 9, I have to leave home at 8 because it takes me 1 hour to get to work.
+Why do you have to leave home at 8 if your work day starts at 9?
+If my work day starts at 9, I have to leave home at 8 because it takes me 1 hour to get to work.
+Can you see any homeless people in the Subway?
+Yes, I can see some homeless people in the Subway.
+Do those homeless people have a lot of money in their pockets?
+No, those homeless people don't have a lot of money in their pockets.
+Do those homeless people have a little money in their pockets?
+Yes, those homeless people have a little money in their pockets.
+How much money do those homeless people have in their pockets?
+Those homeless people have a little money in their pockets.
+How much money do those homeless people have in their pockets?
+Are those homeless people rich or poor?
+Those homeless people are poor.
+Do homeless people sometimes ask you for money?
+Yes, homeless people sometimes ask me for money.
+Do homeless people sometimes ask you for money?
+Do you give homeless people some money when they ask you?
+Yes, I sometimes give homeless people some money when they ask me.
+Do you give homeless people all your money when they ask you?
+No, I don't give homeless people all my money when they ask me.
+How much money do you usually give homeless people when they ask you?
+I usually give homeless people about 2 dollars when they ask me.
+How much money do you usually give homeless people when they ask you?
+How much money do you usually give homeless people when they ask you?
+I usually give homeless people about 2 dollars when they ask me.
+Does it drive you crazy when homeless people ask you for money?
+Yes, sometimes it drives me crazy when homeless people ask me for money.
+Do you often get stuck in traffic when you go to work?
+No, I don't often get stuck in traffic when I go to work.
+Is that because you don't drive a car?
+Yes, that's because I don't drive a car.
+Why don't you get stuck in traffic when you go to work?
+I don't get stuck in traffic when I go to work because I don't drive a car.
+No cars, no traffic jams.
+Do you earn enough money to buy a car?
+No, I don't earn enough money to buy a car.
+Why don't you drive a car?
+I don't drive a car because I don't earn enough money to buy a car.
+Why don't you drive a car?
+Are there 20 months in a year?
+No, there aren't 20 months in a year
+Are there 3 months in a year.
+No, there aren't 3 months in a year.
+How many months are there in a year?
+There are 12 months in a year.
+How many months are there in a year?
+Do you know the names of all 12 months?
+Yes, I know the names of all 12
+months.
+What are the names of all 12 months?
+The names of all twelve months are January, February, March, April, May, June, July, August, September, October, November, December.
+Do you have your favourite month?
+Yes, I have my favourite month.
+Which is your favourite month?
+My favourite month is June.
+Is it usually cold in June?
+No, it's not usually cold in June.
+Is it usually hot in June?
+Yes, It's usually hot in June.
+How's the weather in June?
+It's usually hot in June.
+How's the weather in June?
+Do you work for free?
+No, I don't work for free.
+Do you want to work for free?
+No, I don't want to work for free.
+If you work for free, does it mean you make a lot of money?
+No, If I work for free, it doesn't mean I make a lot of money.
+If you work for free, does it mean you don't get a salary?
+Yes, if I work for free, it means I don't get a salary.
+What does it mean if you work for free?
+If I work for free, it means I don't get a salary.
+What does it mean if you work for free?
+Do you get a salary once a month?
+No, I don't get a salary once a month.
+Do you get a salary twice a month?
+Yes, I get a salary twice a month.
+How often do you get a salary?
+I get a salary twice a month.
+How often do you get a salary?
+Do you immediately run to the bar to have a beer after you get a salary?
+No, I don't immediately run to the bar to have a beer after I get a salary.
+Do you think I work for free?
+No, I don't think you work for free.
+Can you get a free drink at this bar?
+No, I can't get a free drink at this bar.
+Can you get a free beer at this bar if you ask me for it?
+Can you get a free beer at this bar if you ask me for it?
+No, I can't get a free beer at this bar if I ask you for it.
+If you get something for free, does it mean you pay a lot of money for it?
+No, if I get something for free, it doesn't mean I pay a lot of money for it.
+If you get something for free, does it mean you pay nothing for it?
+Yes, if I get something for free, it means I pay nothing for it.
+What does it mean if you get something for free?
+If I get something for free, it means I pay nothing for it.
+What does it mean if you get something for free?
+What does it mean if you get something for free?
+If I get something for free, it means I pay nothing for it.
+Nothing comes free.
+Even if you don't pay with your money.
+Do you have bills to pay?
+Yes, I have bills to pay.
+Can you live in your apartment if you don't pay your bills?
+No, I can't live in my apartment if I don't pay my bills.
+Rent and utility bills.
+What do you have to pay if you want to live in your apartment?
+If I want to live in my apartment, I have to pay my rent and my bills.
+What do you have to pay if you want to live in your apartment?
+If I want to live in my apartment, I have to pay my rent and my bills.
+Does it make you feel good when your bills go up?
+No, it doesn't make me feel good when my bills go up.
+Does it drive you crazy when your bills go up?
+Yes, it drives me crazy when my bills go up.
+How does it make you feel when your bills go up?
+It drives me crazy when my bills go up.
+They never go down.
+They keep going up.
+They only way you can deal with it
+is to earn more money.
+Do you often go to the restaurant?
+Yes, I often go to the restaurant.
+Can you eat in a restaurant for free?
+No, I can't eat in a restaurant for free.
+Do you have to pay for your food in the restaurant?
+Yes, I have to pay for my food in the restaurant.
+What do you have to have if you want to eat in a restaurant?
+I have to have some money if I want to eat in a restaurant.
+What do you have to have if you want to eat in a restaurant?
+I have to have some money if I want to eat in a restaurant.
+Can you eat in an expensive restaurant everyday if you earn peanuts?
+No, I can't eat in an expensive restaurant everyday if I earn peanuts.
+Do you have to have a well paid job if you want to eat in an expensive restaurant everyday?
+Yes, I have to have a well paid job if I want to eat in an expensive restaurant everyday.
+When you go to the restaurant, do you order peanuts with soda?
+No, when I go to the restaurant, I don't order peanuts with soda.
+It's not the place to eat peanuts.
+Do you like to eat peanuts when you watch a movie?
+Yes, I like to eat peanuts when I watch a movie.
+When do you like to eat peanuts?
+I like to eat peanuts when I watch a movie.
+----‐------------------------------------------------------

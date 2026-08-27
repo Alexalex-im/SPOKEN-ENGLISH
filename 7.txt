@@ -1,0 +1,314 @@
+Is this a man?
+Yes, this is a man.
+Where is the man?
+The man is on the chair.
+Is the man on the table?
+No, the man isn't on the table.
+Is the man under the table?
+No, the man isn't under the table.
+Is the man in the table?
+No, the man isn't in the table.
+Is the man on the cabinet?
+No, the man isn't on the cabinet.
+Is the man in the cabinet?
+No, the man isn't in the cabinet.
+Is the man on the chair?
+Yes, the man on the chair.
+Where is the man?
+The man is on the chair.
+Where is the man?
+The man is on the chair.
+Is the woman on the chair?
+No, the woman isn't on the chair.
+Is the woman on the floor?
+No, the woman isn't on the floor.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman in the cabinet?
+No, the woman isn't in the cabinet.
+Is the woman on the cabinet?
+Yes, the woman on the cabinet.
+Where is the woman?
+The woman is on the cabinet.
+Is this a chair?
+No, this isn't a chair.
+Is this a train?
+No, this isn't a train.
+Is this a cabinet?
+No, this isn't a cabinet?
+Is this a car?
+Yes, this is a car?
+What is this?
+This is a car.
+Is this man on the bus?
+No, this man isn' t on the bus.
+Is this man on the train?
+No, this man isn't on the train.
+Is this man under the car?
+No, this man isn't under the car.
+Is this man in the car?
+Yes, this man in the car.
+Where is this man?
+This man is in the car.
+Is this a man?
+No, this is not a man.
+Is this a woman.
+Yes, this is a woman.
+Who is this?
+This is a woman.
+Who is this?
+This is a woman.
+Is the woman on the train?
+No, the woman isn't on the train.
+Is the woman on the car?
+No, the woman isn't on the car.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman on the bus?
+Yes, the woman is on the bus.
+Where is the woman?
+The woman is on the bus.
+Is this man on the bus?
+No, this man isn't on the bus.
+Is this man in the car?
+No, this man isn't in the car.
+Is this man on the train?
+Yes, this man is on the train.
+Where is this man?
+This man is on the train.
+Is the man on the chair?
+Yes,the man on the chair.
+Is the table on the floor?
+Yes, the table is on the floor.
+Is the woman on the cabinet?
+Yes, the woman is on the cabinet.
+Is the laptop on the table?
+Yes, the laptop is on the table.
+Where is the man?
+The man is on the chair.
+Where is the woman?
+The woman is on the cabinet.
+Where is the laptop?
+The laptop is on the table.
+Where is the laptop?
+Where is the cabinet?
+The cabinet on the floor.
+Where is the table?
+The table is on the floor.
+Who is on the chair?
+The man is on the chair.
+Who is on the chair?
+Who is on the cabinet?
+The woman is on the cabinet.
+What is on the table?
+The laptop is on the table.
+What is this?
+This is a table.
+Where is the table.
+The table is on the floor.
+What is this?
+This is a cabinet.
+Where is the cabinet?
+The cabinet is on the floor.
+What is this?
+This is a laptop.
+Where is the laptop?
+The laptop is on the table.
+What is this?
+This is a chair.
+Where is the chair?
+The chair is on the floor.
+Is your name Sean?
+Yes, my name is Sean.
+What is your name?
+My name is Ron.
+Whose phone is this?
+Whose name is Sam?
+Your name is Sam.
+Are they teachers?
+No, they are teachers.
+They are students?
+Yes, they are students.
+Who are they?
+They are students.
+Are these students on the floor?
+No, these students aren't on the floor.
+Are these students on the ceiling?
+No, these students aren't on the ceiling.
+Where are these students?
+These students are on the chairs.
+Are these students people?
+Yes, these students are people.
+Are these students thing?
+Is he on the chair?
+No, he isn't on the chair.
+Is he in the class?
+Time.
+What time is it?
+1 one
+2 two
+3 Three
+4 Four
+5 Five
+6 Six
+7 Seven
+8 Eight
+9 Nine
+10 Ten
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1000
+1000000 - (1 million )
+Am
+Pm
+O'clock
+It's 5 o'clock
+Is it 5 o'clock
+Noon
+At noon
+Midnight
+At midnight
+Morning
+In the morning
+Afternoon
+In the afternoon
+Evening
+in the evening
+night
+At night
+Time
+What time is it?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1000
+1000000
+Am
+Pm
+O'clock
+It's 5 o'clock
+Is it 5 o'clock
+Noon.
+At noon.
+Midnight
+At midnight
+Morning
+In the morning
+Afternoon
+In the afternoon
+Evening
+In the evening
+Night
+At night
+Is it morning?
+No, it isn't morning.
+Is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No, it isn't evening.
+Is it night?
+Yes, it is night.
+Is it 11 Pm?
+No it isn't 11pm.
+Is it 12 o'clock midnight?
+No, it isn't 12 o'clock midnight.
+Is it 12:30 Am?
+No, it isn't 12:30 Am.
+Is it 3 Am?
+No, it isn't 3 Am.
+Is it 10 Pm?
+No, it isn't 10Pm.
+What time is it?
+It is 11:30 Am.
+Is it afternoon?
+No, it isn't afternoon.
+It is evening?
+No, it isn't evening.
+Is it night?
+No, it isn't night.
+Is it morning?
+Yes, it is morning.
+It is 12 o'clock Noon?
+No,it isn't 12 o'clock Noon.
+Is it 1 Pm?
+No, it isn't 1 Pm.
+Is it 5 am.
+No, it isn't 5 am.
+What time is it?
+It is 10 am.
+What time is it?
+It is 10 am.
+What time is it?
+It is 11:25 Am.
+What time is it?
+It is 7 pm.
+What time is it?
+It is 7:30 pm.
+What time is it?
+It is 6:10 pm.
+What time is it?
+It is 1:40 am.
+What time is it?
+It is 8:55 am.
+What time is it?
+It is 2:33 pm.
+What time is it?
+It is 2:30 pm.
+What time is it?
+It is 3:11 pm.
+What time is it?
+It is 10 am.
+What time is it?
+It is 12:00 noon.
+What time is it?
+It is 9:29 pm.
+What time is it?
+It is 12:00 midnight.
+What time is it?
+It is 4:26 am.
+What time is it?
+It is 8:11 Am.
+What time is it?
+It is 5:41 pm.
+----‐------------------------------------------------------

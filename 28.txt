@@ -1,0 +1,519 @@
+Do you go to work six times a week?
+No, I don't go to work 6 times a week.
+Do you go to work twice a week?
+No, I don't go to work twice a week.
+Do you go to work five times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work five times a week.
+How many times a week do you go to work ?
+Do you go to work on weekends, too?
+No, I don't go to work on weekends.
+Do you want to go to work on weekends?
+No, I don't want to go to work on weekends.
+How many weekends are there?
+There are two weekends
+How many weekends are there?
+What are they?
+They are Saturday and Sunday.
+How many days are there in a week?
+There are 7 days in a week.
+How many days are there in a week?
+What are the 7 days of the week.
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+What are the 7 days of the week?
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+Do you eat 6 times a day?
+No, I don't eat 6 times a day.
+Do you eat only 3 times a week?
+No, I don't eat only 3 times a week.
+Do you eat 3 times a day?
+Yes, I eat 3 times a day.
+How many times a day do you eat?
+I eat 3 times a day.
+How many times a day do you eat?
+Do you like your job?
+Yes, I like my job.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+Does it mean you come to work at 9 and leave work at 5?
+Yes, it means I come to work at 9 and leave work at 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work
+I leave work at 5 PM?
+Do you usually have time to eat during the work day?
+Yes, I usually have time to eat during the work day.
+Do you go to work 3 times a week?
+No, I don't go to work 3 times near week.
+Do you go to work 7 times a week?
+No, I don't go to work 7 times a week
+Do you go to work 5 times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work 5 times a week.
+How many times a week do you go to work?
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you like to work Monday to Friday?
+Yes, I like to work Monday to Friday.
+Do you usually have a lot of work to do on work days?
+Yes, I usually have a lot of work to do on work days.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+Do you have any time to relax when you have a lot of work to do?
+No, I don't have any time to relax when I have a lot of work to do.
+Do you have any time to hang out with your friends when you have a lot of work to do?
+No, I don't have any time to hang out with my friends when I have a lot of work to do.
+Is it a great idea to go to the movies during the workday?
+No, it's not a great idea to go to the movies during the work day.
+Of course not.
+You have work to do.
+do it.
+And when you're done.
+enjoy your free time.
+What's left of it.
+Is it a terrible idea to go to the movies during the work day?
+Yes, it's a terrible idea to go to the movies during the work day.
+Is it a terrible idea to go to the movies during the work day?
+Do you like to hang out at the movies only when you have free time?
+Yes, I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free.
+Do you have a place to live?
+Yes, I have a place to live.
+Do you live on the street?
+No, I don't live on the street.
+Is this the place where you live?
+Yes, this is the place where I live.
+Do you think your house is terrible?
+No, I don't think my house is terrible.
+Do you think your house is nice?
+Yes, I think my house is nice.
+Do you usually stay home on weekends?
+Yes, I usually stay home on weekends.
+Where do you usually stay on weekends?
+I usually stay home on weekends.
+Where do you usually stay on weekends?
+Do you like to eat at the restaurant?
+Yes, I like to eat at the restaurant.
+Do you have your favourite restaurant in this city?
+Yes, I have my favourite restaurant in this city.
+Does it work at night?
+No, it doesnot work at night.
+Does it only work during the day?
+Yes, it only works during the day.
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+When does your favourite restaurant work?
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+Do you have a lot of time to eat at the restaurant when you have a lot of work to do?
+No, I don't have a lot of time to eat at the restaurant when I have a lot of work to do.
+Do you have any time to eat at the restaurant when you have a lot of work to do?
+No, I don't have any time to eat at the restaurant when I have a lot of work to do.
+Do you order a pizza delivery when you don't have time to go to the restaurant?
+Yes, I order a pizza delivery when I don't have time to go to the restaurant.
+Do you stay hungry when you don't have time to go to the restaurant.
+No, I don't stay hungry when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+Is pizza your favorite food when you're hungry?
+Yes, pizza is my favourite food when I'm hungry.
+Is grass your favourite food when you're hungry?
+No, grass isn't my favourite food when I'm hungry.
+What is your favourite food when you're hungry?
+My favourite food is pizza when I'm hungry.
+What is your favourite food when you're hungry?
+Do you often order a pizza delivery?
+Yes, I often order a pizza delivery.
+Do you order a pizza delivery 3 times a day?
+No, I don't order a pizza delivery 3 times a day.
+Do you order a pizza delivery 5 times a week?
+No, I don't order a pizza delivery 5 times a week.
+Do you order a pizza delivery 3 times a week?
+Yes, I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+Do you get hungry if you don't eat for 5 days?
+Yes, I get hungry if I don't eat for 5 days.
+Do you get thirsty if you don't drink for 2 days?
+Yes, I get thirsty if I don't drink for 2 days.
+Do you like to stay at work at night?
+No, I don't like to stay at work at night.
+Do you sometimes stay at work at night when you have a lot of work to do?
+Yes, I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+Do you stay at work when you have free time?
+No, I don't stay at work when I have free time.
+Can you drive a car?
+Yes, I can drive a car.
+Do you have a car to drive?
+No, I don't have a car to drive.
+If he had a car.
+Why would he be taking the Subway.
+Are you driving a car?
+No, I'm not driving a car.
+Are you in the Subway?
+Yes, I'm in the Subway.
+Where are you now?
+I'm in the Subway.
+Do you take the Subway to work every day?
+Yes, I take the Subway to work every day.
+How do you get to work?
+I take the Subway to work.
+How do you get to work?
+I take the Subway to work.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Are you usually tired when you go to work?
+No, I'm usually not tired when I go to the work.
+Do you usually get very tired at work?
+Yes, I usually get very tired at work.
+Do you like to get very tired?
+No, I don't like to get very tired.
+Are you usually tired when you go home from work?
+Yes, I'm usually tired when I go home from work.
+Do you like to relax when you're tired?
+Yes, I like to relax when I'm tired.
+Do you like to work when you're very tired?
+No, I don't like to work when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+Do you have your favourite place to relax when you're tired?
+Yes, I have my favourite place to relax when I'm tired.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+Are you homeless?
+No, I am not homeless.
+Do you have a place to live?
+Yes, I have a place to live
+Do you have a place to live?
+Do you know any people who don't have a place to live?
+No, I don't know any people who don't have a place to live.
+Do you live in the Subway?
+No, I don't live in the Subway.
+Why not?
+Because I have a home.
+So, why don't you live in the Subway?
+I don't live in the Subway because I have a home.
+Do you know any people who live in the Subway?
+No, I don't know any people who live in the subway.
+Are there any trees growing in the subway?
+No, there aren't any trees growing in the subway.
+Are there any trees growing in the park?
+Yes, there are lot of trees growing in the park.
+Are there any leaves on those trees?
+Yes, there are some leaves on those trees.
+What's on those trees?
+There are leaves on those trees.
+Are leaves blue in summer?
+No, leaves aren't blue in summer.
+Are leaves brown in summer?
+No, leaves aren't brown in summer.
+What color are leaves in summer?
+Leaves are green in summer.
+What color are leaves in summer?
+Do leaves grow on the trees in Winter?
+No, leaves don't grow on the trees in Winter.
+Why not?
+Because it's too cold for them to grow.
+Why don't leaves grow on the trees in Winter?
+Leaves don't grow on the trees in winter because it's too cold for them to grow.
+Why don't leaves grow on the trees in Winter?
+Leaves don't grow on the trees in winter because it's too cold for them to grow.
+Do you like to eat Scrambled eggs for breakfast?
+Yes, I like to eat scrambled eggs for breakfast.
+How many eggs can you eat for breakfast?
+I can eat three eggs for breakfast.
+How many eggs can you eat for breakfast?
+Is it healthy to eat 10 eggs a day?
+No, it's not healthy to eat 10 eggs a day.
+Although eggs are healthy.
+too many of them isn't good for you.
+Do you think this man has a place to live?
+No, I think this man doesn't have a place to live.
+Does it mean he is homeless?
+Yes, it means he is homeless.
+Do you think he is rich?
+No, I don't think he is rich.
+Do you think he is poor?
+Yes, I think he is poor.
+How do you know?
+Because he lives in the subway.
+How do you know that this man is poor?
+I know that this man is poor because he lives in the subway.
+Do you think you are rich?
+No, I don't think I'm rich.
+Why not?
+Because I don't have money for a car.
+So, why do you think you're not rich?
+I think I'm not rich because I don't have money for a car.
+Do you want to be rich?
+Yes, I want to be rich.
+Do you have a fridge in your kitchen?
+Yes, I have a fridge in my kitchen.
+How many fridges do you have in your kitchen?
+I have one fridge in my kitchen.
+How many fridges do you have in your kitchen?
+Do you put food in your fridge?
+Yes, I put food in my fridge.
+Do you put grass and leaves in your fridge?
+No, I don't put grass and leaves in my fridge.
+What do you put in your fridge?
+I put food in my fridge.
+Do you like it when your fridge is full of tasty food?
+Yes, I like it when my fridge is full of tasty food.
+Do you like it when your fridge is full of tasty food?
+Do you like it when your fridge is full of gross food?
+No, I don't like it when my fridge is full of gross food.
+Do you like it when your fridge is full of gross food?
+When your fridge is empty, do you go grocery shopping?
+Yes, when my fridge is empty, I go grocery shopping.
+What do you do when your fridge is empty?
+When my fridge is empty, I go grocery shopping.
+Can you go grocery shopping when you don't have any money?
+No, I can't go grocery shopping when I don't have any money.
+Can poor people go to the restaurant every day?
+No, poor people can't go to the restaurant every day.
+Can you cook?
+Yes, I can cook.
+Do you think you cook badly?
+No, I don't think I cook badly.
+Do you think you cook well?
+Yes, I think I cook well.
+Is your job to cook food?
+Yes, my job is to cook food.
+What is your job?
+My job is to cook food.
+Can you cook scrambled eggs Well?
+Yes, I can cook scrambled eggs well.
+Do you like bananas?
+Yes, I like bananas.
+How many bananas can you eat for lunch?
+I can eat 2 bananas for lunch.
+How many bananas can you eat for lunch?
+Do you know a place where I can buy some bananas?
+Yes, I know a place where you can buy some bananas.
+Can I buy some bananas at a movie theatre?
+No, you can't buy any bananas at a movie theatre.
+Can I buy some bananas at a grocery store?
+Yes, you can buy some bananas at a grocery store.
+Where can I buy some bananas?
+You can buy some bananas at a grocery store.
+Do you need to have some money to buy bananas at a grocery store?
+Yes, I need to have some money to buy bananas at a grocery.
+Do you need to have some money to buy bananas at a grocery store?
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+Do bananas grow on trees?
+Yes, bananas grow on trees.
+Where do bananas grow?
+Bananas grow on trees.
+Where do bananas grow?
+What colour are bananas?
+Bananas are yellow.
+Do bananas grow in Canada?
+No, bananas don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't bananas grow in Canada?
+Bananas don't grow in Canada. because it's too cold for them to grow there.
+Bananas only grow in hot countries.
+Canada is not hot by any means.
+Can you eat fresh bananas?
+Yes, I can eat fresh bananas.
+What about meat, can you eat fresh meat?
+No, I can't eat fresh meat.
+Do you need to cook your meat before you can eat it?
+Yes, I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it?
+I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it.
+Is it a great idea to eat fresh meat?
+No, it's not a great idea to eat fresh meat.
+Is it good for you to eat fresh meat?
+No, it's not good for me to eat fresh meat.
+Is it really bad for you to eat fresh meat?
+Yes, it's really bad for me to eat fresh meat.
+Do you eat fresh bananas?
+Yes, I eat fresh bananas.
+Do you need to cook bananas before you can eat them?
+No, I don't need to cook bananas before I can eat them.
+Do they sell pineapples in the Subway?
+No, they don't sell pineapples in the Subway.
+Do they sell pineapples at a movie theatre?
+No, they don't sell pineapples at a movie theatre.
+Do you know a place where they sell pineapples?
+Yes, I know a place where they sell pineapples.
+Do you know a place where they sell pineapples?
+Where can I buy some pineapples?
+You can buy some pineapples at a grocery store.
+Do pineapples grow in Canada?
+No, pineapples don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't pineapples grow in Canada?
+Pineapples don't grow in Canada because it's too cold for them to grow there.
+Do pineapples grow in Thailand?
+Yes, pineapples grow in Thailand.
+Is it too cold for them to grow there?
+No, it's not too cold for them to grow there.
+Do you need to go to Thailand to eat pineapples?
+No, I don't need to go to Thailand to eat pineapples.
+Why not?
+Because I can buy them at a grocery store here.
+Why do you not need to go to Thailand to eat pineapples?
+I don't need to go to Thailand to eat pineapples because I can buy them at a grocery store here.
+Do you need to cook pineapples before you can eat them?
+No, I don't need to cook pineapples before I can eat them.
+Can you eat pineapples fresh?
+Yes, I can eat pineapples fresh.
+Can you eat pineapples fresh?
+A finger.
+A thumb.
+A toe.
+An arm.
+A tongue.
+A mouth.
+To speak.
+To learn.
+A sign.
+A language.
+A sign language.
+A leg.
+A foot.
+Feet.
+Both.
+Each.
+To call.
+What do we call this?
+I call my mother everyday.
+Is this an arm?
+No, this isn't an arm.
+Is this a tongue?
+No, this isn't a tongue.
+Is this a leg?
+No, this isn't a leg.
+What is this?
+This is a hand.
+Are there any fingers on this hand?
+Yes, there are some fingers on this hand.
+How many fingers are there on this hand?
+There are five fingers on this hand.
+Do we call this finger a thumb?
+Yes, we call this finger a thumb.
+Do we call this finger a thumb?
+No, we don't call this finger a thumb.
+Which finger do we call a thumb?
+We call this a finger a thumb.
+What do we call this finger?
+We call this finger a thumb.
+What do we call this finger?
+Do you have 5 thumbs on each hand?
+No, I don't have 5 thumbs on each hand.
+Do you have 2 thumbs on each hand?
+No, I don't have 2 thumbs on each hand.
+Do you have 1 thumb on each hand?
+Yes, I have 1 thumb on each hand.
+How many thumbs do you have on each hand?
+I have 1 thumb on each hand.
+How many thumbs do you have on each hand?
+How many fingers do you have on each hand?
+I have 5 fingers on each hand.
+How many fingers do you have on both hands?
+I have 10 fingers on both hands.
+How many fingers do you have on both hands?
+Is this a leg?
+No, this isn't a leg.
+What is this?
+This is a foot.
+What are these?
+These are feet.
+Are there any fingers on these feet?
+No, there aren't any fingers on these feet.
+What are those?
+Those are toes.
+What are those?
+Those are toes.
+Do you have toes on your hands?
+No, I don't have toes on my hands.
+What do you have on your hands?
+I have fingers on my hands.
+What do you have on your feet?
+I have toes on my feet.
+How many toes do you have on each foot?
+I have 5 toes on each foot.
+How many toes do you have on each foot?
+How many toes do you have on both feet?
+I have 10 toes on both feet.
+Do you speak English?
+Yes, I speak English.
+Do you speak Chinese?
+No, I don't speak Chinese.
+Do you speak Spanish?
+Yes, I speak Spanish.
+How many languages can you speak?
+I can speak 2 languages.
+How many languages can you speak?
+How many languages can you speak?
+I can speak 2 languages.
+Do you want to learn Chinese?
+Yes, I want to learn Chinese.
+Do you have a mouth?
+Yes, I have a mouth.
+How many mouths do you have?
+I have one mouth.
+Is there a tongue in your mouth?
+Yes, there is a tongue in my mouth.
+How many tongues are there in your mouth?
+There is one tongue in my mouth.
+How many tongues are there in your mouth?
+Do you use your tongue when you speak?
+Yes, I use my tongue when I speak.
+Can you speak without using your tongue?
+No, I can't speak without using my tongue.
+Do you know people who can't speak?
+Yes, I know people who can't speak.
+Do they use a sign language?
+Yes, they use a sign language.
+What language do people who can't speak use?
+People who can't speak use a sign language.
+Do you know any sign language?
+No, I don't know any sign language.
+Do you use your fingers to speak a sign language?
+Yes, I use my fingers to speak a sign language.
+Do you use your mouth to speak a sign language?
+No, I don't use my mouth to speak a sign language.
+What do you use to speak a sign language?
+I use my fingers to speak a sign language.
+What do you use to speak a sign language?
+Are you Learning English, or are you learning a sign language now?
+I am Learning English now.
+What language are you learning now?
+I'm Learning English now.
+What language are you learning now?
+Do you want to learn some sign language?
+Yes, I want to learn some sign language.
+----‐------------------------------------------------------

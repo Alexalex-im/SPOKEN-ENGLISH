@@ -1,0 +1,576 @@
+Is it expensive to drive a car?
+Yes, It's expensive to drive a car.
+You have to fill it up.
+You have to change oil etc.
+Do you have to fill up your car?
+Yes, I have to fill up my car.
+Do you think gas is cheap?
+No, I don't think gas is cheap.
+Do you think it's expensive?
+Yes, I think it's expensive.
+Can you fill up your car for free?
+No, I can't fill up my car for free.
+Do you have to pay for gas?
+Yes, I have to pay for gas.
+If you think the price for gas is too high, can you leave without paying for it?
+No, if I think the price for gas is too high, I can't leave without paying for it.
+If you think the price for gas is too high, is it better to take the Subway?
+Yes, if I think the price for gas is too high, it's better to take the Subway.
+What is it better to do if you think the price for gas is too high?
+If I think the price for gas is too high, it's better to take the Subway.
+What is it better to do if you think the price for gas is too high?
+Does gas cost a little money?
+No, gas doesn't cost a little money.
+Does gas cost a lot of money?
+Yes, gas costs a lot of money.
+Does gas cost the same as water?
+No, gas doesn't cost the same as water.
+Does your car run on water?
+No, my car doesn't run on water.
+Does your car run on electricity?
+No, my car doesn't run on electricity.
+Does your car run on gas?
+Yes, my car runs on gas.
+What does your car run on?
+My car runs on gas.
+Can your car drive if you fill it up with water?
+No, my car can't drive if I fill it up with water.
+Why not?
+Because it doesn't run on water.
+Are you often stuck in traffic?
+Yes, I'm often stuck in traffic.
+Is it interesting to be stuck in traffic for a few hours a day?
+No, it's not interesting to be stuck in traffic for a few hours a day.
+Is it boring to be stuck in traffic for a few hours a day?
+Yes, it's boring to be stuck in traffic for a few hours a day.
+How is it to be stuck in traffic for a few hours a day?
+It's boring to be stuck in traffic for a few hours a day.
+How is it to be stuck in traffic for a few hours a day?
+Do you have any money on you?
+Yes, I have some money on me.
+Do you keep your money in your pocket?
+No, I don't keep my money in my pocket.
+Do you keep your money in your fridge?
+No, I don't keep my money in my fridge.
+Do you keep your money in your wallet?
+Yes, I keep my money in my wallet.
+Where do you keep your money?
+I keep my money in my wallet.
+What about food, do you keep your food in your wallet, too?
+No, I don't keep my food in my wallet.
+There's a fridge for these purposes.
+Do you keep your food in the fridge?
+Yes, I keep my food in the fridge.
+Where do you keep your food?
+I keep my food in the fridge.
+Is cheap gas the same quality as expensive gas?
+No, cheap gas isn't the same quality as expensive gas.
+Is cheap gas different quality from expensive gas?
+Yes, cheap gas is different quality from expensive gas.
+Is cheap gas usually high quality?
+No, cheap gas isn't usually high quality.
+Is cheap gas usually low quality?
+Yes, cheap gas is usually low quality.
+What quality is cheap gas?
+Cheap gas is usually low quality.
+If gas is expensive, does it always mean it's high quality?
+No, if gas is expensive, it doesn't always mean it's high quality.
+It usually means good marketing
+Does your car often break down?
+Yes, my car often breaks down.
+Does your car break down once a month?
+No, my car doesn't break down once a month.
+Does your car break down once every 3 months?
+Yes, my car breaks down once every 3 months.
+How often does your car break down?
+My car breaks down once every 3 months.
+Can you predict when your car can break down next time?
+No, I can't predict when my car can break down next time.
+Do you know how to fix your car when it breaks down?
+No, I don't know how to fix my car when it breaks down.
+When your car breaks down, do you call for a tow truck?
+Yes, when my car breaks down, I call for a tow truck.
+Who do you call for when your car breaks down?
+I call for a tow truck when my car breaks down.
+Who do you call for when your car breaks down?
+Does a tow truck take your car to the garage to fix it?
+Yes, a tow truck takes my car to the garage to fix it.
+Where does a tow truck take your car when it breaks down?
+A tow truck takes my car to the garage when it breaks down.
+Where does a tow truck take your car when it breaks down?
+Is that a tow trick?
+Yes, that's a tow truck.
+Where is it taking your car?
+It's taking my car to the garage.
+Why is the tow truck taking your broken car to the garage?
+The tow truck is taking my broken car to the garage to fix it.
+Why is the tow truck taking your broken car to the garage?
+The tow truck is taking my broken car to the garage to fix it.
+Does a tow truck take a car to the garage for free?
+No, a tow truck doesn't take a car to the garage for free.
+Does it cost a little to tow your car to the garage?
+No, it doesn't cost a little to tow my car to the garage.
+Does it cost a lot to tow your car to the garage?
+Yes, it costs a lot to tow my car to the garage.
+Unless you have an insurance policy for cases like that.
+If your car often breaks down, does it mean the car is high quality, or low quality?
+If my car often breaks down, it means the car is low quality.
+What does it mean if your car often breaks down?
+If my car often breaks down, it means the car is low quality.
+What does it mean if your car often breaks down?
+Do you work here?
+Yes, I work here.
+Do you hang out here?
+No, I don't hang out here.
+What do you do here?
+I work here.
+Do you have any clients here now?
+No, I don't have any clients here now.
+Do you have a lot of clients lately?
+No, I don't have a lot of clients lately.
+Does it mean the business is going fine?
+No, it doesn't mean the business is going fine.
+Does it mean the business is going badly?
+Yes, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+If I don't have a lot of clients, it means the business is going badly.
+What does it mean if you don't have a lot of clients?
+Do you have a lot of time to rest when you don't have many clients?
+Yes, I have a lot of time to rest when I don't have many clients.
+Do people come to your bar when they run out of bread?
+No, people don't come to my bar when they run out of bread.
+Do people come to your bar when they want to have a beer?
+Yes, people come to my bar when they want to have a beer.
+When do people come to your bar?
+People come to my bar when they want to have a beer.
+Having very few clients is bad for you.
+You can't stay in business for long if you don't have enough clients.
+Is having a few clients good for your business?
+No, having a few clients isn't good for my business.
+Is having a few clients bad for your business?
+Yes, having a few clients is bad for my business.
+How is it to have a few clients?
+It's bad for my business to have a few clients.
+Can you stay in business for long if you don't have any clients?
+No, I can't stay in business for long if I don't have any clients.
+You want to stay in business.
+You need some clients to bring some cash.
+Otherwise.
+You go out of business.
+Do you have to go out of business if you don't have enough clients?
+Yes, I have to go out of business if I don't have enough clients.
+What do you have to do if you don't have enough clients?
+I have to go out of business if I don't have enough clients.
+Do you usually avoid eating junk food?
+No, I don't usually avoid eating junk food.
+Do you usually avoid eating junk food?
+Do you understand how bad junk food is for you?
+Yes, I understand how bad junk food is for me.
+Do you regularly eat junk food for lunch?
+Yes, I regularly eat junk food for lunch.
+What kind of food do you regularly eat for lunch?
+I regularly eat junk food for lunch.
+Can you become fit by eating junk food?
+No, I can't become fit by eating junk food.
+What time do you usually get up in the morning?
+I usually get up at 6 o'clock in the morning.
+Do you work out before you go to work?
+No, I don't work out before I go to work.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+How do you like your cereal?
+I like my cereal with milk.
+How do you like your cereal?
+I like my cereal with milk.
+What time do you usually leave home?
+I usually leave home at 7 AM.
+Do you drive your car to work?
+Yes, I drive my car to work.
+How do you get to work?
+I drive my car to work.
+How do you get to work?
+I drive my car to work.
+Do you drive to work during rush hour?
+Yes, I drive to work during rush hour.
+Are you often stuck in traffic during rush hour?
+Yes, I'm often stuck in traffic during rush hour.
+Is it cool to be stuck in traffic during rush hour?
+No, it's not cool to be stuck in traffic during rush hour.
+Is it boring to be stuck in traffic during rush hour?
+Yes, it's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+It's boring to be stuck in traffic during rush hour.
+How is it to be stuck in traffic during rush hour?
+Do you usually have a lot of work to do during the day?
+Yes, I usually have a lot of work to do during the day.
+Do you regularly miss work?
+No, I don't regularly miss work.
+Can you miss your work when you just want to stay home?
+No, I can't miss my work when I just want to stay home.
+Can you miss your work when you just want to stay home?
+If you miss a few workdays because you just want to stay home, can you get fired?
+Yes, if I miss a few work days because I just want to stay home, I can get fired.
+Do you want to get fired?
+No, I don't want to get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Why is it better for you not to miss your work?
+It's better for me not to miss my work because I can get fired.
+Do you often go to the doctor?
+No, I don't often go to the doctor.
+Does it cost a little to see a doctor everyday?
+No, it doesn't cost a little to see a doctor every day.
+Does it cost a lot of money to see a doctor every day?
+Yes, it costs a lot of money to see a doctor every day.
+How much does it cost to see a doctor everyday?
+It costs a lot of money to see a doctor everyday.
+How much does it cost to see a doctor everyday?
+Why don't you see a doctor every day?
+I don't see a doctor every day because it costs a lot of money.
+Why don't you see a doctor every day?
+I don't see a doctor every day because it costs a lot of money.
+Do you always fasten your seat belt before you start driving your car?
+Yes, I always fasten my seat belt before I start driving my car.
+What do you always do before you start driving your car?
+I always fasten my seat belt before I start driving my car.
+What do you always do before you start driving your car?
+Are you wearing a seat belt now?
+No, I'm not wearing a seat belt now.
+Why not?
+Because I'm not driving a car.
+Why aren't you wearing a seat belt now?
+I'm not wearing a seat belt now because I'm not driving.
+Why aren't you wearing a seat belt now?
+Do you understand how important it is to wear a seat belt when you drive?
+Yes, I understand how important it is to wear a seat belt when I drive.
+Do you understand how important it is to wear a seat belt when you drive?
+Do you know people who don't wear a seat belt when they drive?
+Yes, I know people who don't wear a seat belt when they drive.
+Do you think they understand how important it is it to wear a seat belt when they drive?
+No, I think they don't understand how important it is to wear a seat belt when they drive.
+Can you read?
+Yes, I can read.
+How many words a minute can you read?
+I can read about 300 words a minute.
+How many words a minute can you read?
+How many words a minute can you read?
+I can read about 300 words a minute.
+Do you think you read slowly?
+No, I don't think I read slowly.
+Do you think you read fast?
+Yes, I think I read fast.
+If Jack can read just 20 words a minute, does it mean he reads slowly or fast?
+If Jack can read just 20 words a minute, it means he reads slowly.
+What does it mean if Jack can read just 20 words a minute?
+If Jack can read just 20 words a minute, it means he reads slowly.
+What does it mean if Jack can read just 20 words a minute?
+Can you write?
+Yes, I can write.
+Do you often have to write long papers at this library?
+Yes, I often have to write long papers at this library.
+How often do you have to write long papers at this library?
+I have to write long papers at this library several times a week.
+How often do you have to write long papers at this library?
+How often do you have to write long papers at this library?
+I have to write long papers at this library several times a week.
+Do you write those papers because you want to, or because you have to?
+I write those papers because I have to.
+Do your teachers make you write long papers several times a week?
+Yes, my teachers make me write long papers several times a week.
+Who makes you write long papers several times a week?
+My teachers make me write long papers several times a week.
+How many words a minute can you write?
+I can write about 40 words a minute.
+How many words a minute can you write?
+How many words a minute can you write?
+I can write about 40 words a minute.
+Do you think you write slowly, or quickly?
+I think I write quickly.
+If Jack can write only 5 words a minute, does it mean he writes slowly, or quickly?
+If Jack can write only 5 words a minute, it means he writes slowly.
+What does it mean if Jack can write only 5 words a minute?
+If Jack can write only 5 words a minute, it means he writes slowly.
+What does it mean if Jack can write only 5 words a minute?
+Is Jack standing in front of you?
+No, Jack isn't standing in front of me.
+Is Jack sitting behind you?
+Yes, Jack is sitting behind me.
+Where is Jack sitting?
+Jack, is sitting behind me.
+Am I sitting behind you, too?
+No, you're not sitting behind me, too.
+Am I standing to you right?
+No, you aren't standing to my right.
+Am I standing to your left?
+No, you aren't standing to my left.
+Am I sitting in front of you?
+Yes, you are sitting in front of me.
+Where am I sitting?
+You are sitting in front of me.
+Are you here at the library to hang out with your friend Jack?
+No, I'm not here at the library to hang out with my friend Jack.
+Are you here at the library to workout?
+No, I'm not here at the library to workout.
+Are you here at the library to write a paper?
+Yes, I'm here at the library to write a paper.
+Why are you here at the library?
+I'm here at the library to write a paper.
+Who makes you write papers?
+My teachers make me write papers.
+Who makes you write papers?
+My teachers make me write papers.
+Is there anything on the elevator doors?
+Yes, there is something on the elevator doors.
+Is there some sign on the elevator doors?
+Yes, there is some sign on the elevator doors.
+What's on the elevator doors?
+There's some sign on the elevator doors.
+What does it say?
+It says "out of order".
+What does this sign say?
+This sign says "out of order".
+What does this sign say?
+Do you think both of these elevators are working?
+No, I don't think both of these elevators are working.
+Do you think one of these elevators isn't working?
+Yes, I think one of these elevators Isn't working.
+What makes you think so?
+I think so because one of them has an "out of order" sign on it.
+What makes you think one of these elevators isn't working?
+I think one of these elevators isn't working because there is an "out of order" sign on it.
+Can you take the elevator if there is an "out of order" sign on it?
+No, I can't take the elevator if there is an "out of order" sign on it.
+Do you have to take the stairs instead?
+Yes, I have to take the stairs instead.
+Can you enter the elevator if there is an "out of order" sign on it?
+No, I can't enter the elevator if there is an "out of order" sign on it.
+Do you enjoy taking the stairs to the 10th floor?
+No, I don't enjoy taking the stairs to the 10th floor.
+Do you hate taking the stairs to the 10th floor?
+Yes, I hate taking the stairs to the 10th floor.
+Is it fun to be stuck in the elevator for 3 hours?
+No, it's not fun to be stuck in the elevator for 3 hours.
+Are the elevators in front of you?
+No, the elevators aren't in front of me.
+Are the elevators behind you?
+No, the elevators aren't behind me.
+Are the elevators to your right?
+No, the elevators aren't to my right.
+Where are the elevators?
+The elevators are to my left.
+Do you have any colleagues?
+Yes, I have some colleagues.
+Do you like all of your colleagues?
+No, I don't like all of my colleagues.
+Is it fun to work with colleagues you don't like?
+No, it's not fun to work with colleagues I don't like.
+Do you usually try to avoid talking to colleagues you don't like?
+Yes, I usually try to avoid talking to colleagues I don't like.
+Does your job offer you a lot of opportunities?
+No, my job doesn't offer me a lot of opportunities.
+Do you think you have a dead-end job?
+Yes, I think I have a dead-end job.
+What makes you think so?
+I think so because my job doesn't offer me a lot of opportunities.
+What makes you think you have a dead-end job?
+I think I have a dead-end job because it doesn't offer me a lot of opportunities.
+Is this floor dry?
+No, this floor isn't dry.
+Is this floor wet?
+Yes, this floor is wet.
+Can you fall if you walk on the wet floor?
+Yes, I can fall if I walk on the wet floor.
+Do you usually try to avoid walking on the wet floor?
+Yes, I usually try to avoid walking on the wet floor.
+Why?
+Because I don't want to fall.
+Why do you usually avoid walking on the wet floor?
+I usually avoid walking on the wet floor because I don't want to fall.
+Do you want to go on vacation?
+Yes I want to go on vacation.
+How many times a year do you usually go on vacation?
+I usually go on vacation 2 times a year.
+How many times a year do you usually go on vacation?
+Do you go on vacation when you want to get some rest?
+Yes, I go on vacation when I want to get some rest.
+When do you go on vacation?
+I go on vacation when I want to get some rest.
+When do you go on vacation?
+When do you go on vacation?
+I go on vacation when I want to get some rest.
+Do you usually have a lot of fun on vacation?
+Yes, I usually have a lot of fun on vacation.
+Do you live in this neighbourhood?
+Yes, I live in this neighbourhood.
+Do you like to live in this neighbourhood?
+No, I don't like to live in this neighbourhood.
+Is there a little traffic in this neighbourhood?
+No, there isn't a little traffic in this neighbourhood.
+Is there a lot of traffic in this neighbourhood?
+Yes, there is a lot of traffic in this neighbourhood.
+Is that why you don't like to live here?
+Yes, that's why I don't like to live here.
+Why don't you like to live in this neighbourhood?
+I don't like to live in this neighbourhood because there is a lot of traffic.
+Why don't you like to live in this neighbourhood?
+Why don't you like to live in this neighbourhood?
+I don't like to live in this neighbourhood because there is a lot of traffic.
+Is it pleasant to live in a neighbourhood with a lot of traffic?
+No, it's not pleasant to live in a neighbourhood with a lot of traffic.
+Are you thinking of moving to another neighbourhood?
+Yes, I'm thinking of moving to another neighbourhood.
+What are you thinking of?
+I'm thinking of moving to another neighbourhood.
+Why?
+Because I don't like to live in the neighbourhood with a lot of traffic.
+Why are you thinking of moving to another neighbourhood?
+I'm thinking of moving to another neighbourhood because I don't like to live in a neighbourhood with a lot of traffic.
+Do you live in a house, or in a multi-story building?
+I live in a multi-story building.
+Which floor do you live on?
+I live on the 5th floor.
+Which floor do you live on?
+Do you live in an apartment, or in the street?
+I live in an apartment.
+Do we call people who don't have a place to live homeless?
+Yes, we call people who don't have a place to live homeless.
+What do we call people who don't have a place to live?
+We call people who don't have a place to live homeless.
+What do we call people who don't have a place to live?
+What do we call people who don't have a place to live?
+We call people who don't have a place to live homeless.
+Is it your apartment, or do you rent it?
+I rent it.
+Do you have any neighbours?
+Yes, I have some neighbours.
+Do you like your neighbours?
+No, I don't like my neighbours.
+Do you like to hang out with your neighbours at the bar on weekends?
+No, I don't like to hang out with my neighbours at the bar on weekends.
+Do your next-door neighbours often listen to loud music?
+Yes, my next-door neighbours often listen to loud music.
+Do you like it when your next-door neighbours listen to loud music?
+No, I don't like it when my next-door neighbours listen to loud music.
+Does it drive you crazy when your next-door neighbours listen to loud music?
+Yes, it drives me crazy when my next- door neighbours listen to loud music.
+How do you feel about it when your next-door neighbours listen to loud music?
+It drives me crazy when my next- door neighbours listen to loud music.
+When your next-door neighbours listen to loud music, do you just close your ears?
+No, when my next-door neighbours listen to loud music, I don't just close my ears.
+When your next-door neighbours listen to loud music, do you ask them to turn it down?
+Yes, when my next-door neighbours listen to loud music, I ask them to turn it down.
+What do you ask your neighbours to do when they listen to very loud music?
+When my neighbours listen to very loud music, I ask them to turn it down.
+What do you ask your neighbours to do when they listen to very loud music?
+What do you ask your neighbours to do when they listen to very loud music?
+When my neighbours listen to very loud music, I ask them to turn it down.
+Can you live in this apartment for free?
+No, I can't live in this apartment for free.
+Do you have to pay your rent and your bills?
+Yes, I have to pay my rent and my bills.
+What do you have to pay if you want to live in this apartment?
+I have to pay my rent and my bills if I want to live in this apartment.
+What do you have to pay if you want to live in this apartment?
+If you stop paying your rent, can they kick you out of this apartment?
+Yes, if I stop paying my rent, they can kick me out of this apartment.
+What can they do if you stop paying your rent?
+If I stop paying my rent, they can kick me out of this apartment.
+Do you want them to kick you out of this apartment?
+No, I don't want them to kick me out of this apartment.
+What do you have to do if you don't want them to kick you out of this apartment?
+If I don't want them to kick me out of this apartment, I have to pay my rent and my bills.
+What do you have to do if you don't want them to kick you out of this apartment?
+If I don't want them to kick me out of this apartment, I have to pay my rent and my bills.
+Do you hope your rent goes up next month?
+No, I hope my rent doesn't go up next month.
+Do you think your rent can go down next month?
+No, I don't think my rent can go down next month.
+It doesn't work like that.
+Rent never goes down.
+It only goes up...
+All the way up.
+Are your neighbours pleasant people?
+Yes, my neighbours are pleasant people.
+Do your neighbours listen to loud music at night?
+No, my neighbours don't listen to loud music at night.
+Do your neighbours often throw loud parties?
+No, my neighbours don't often throw loud parties.
+She drinks 3 cups of coffee in the morning
+Question: How...?
+How many cups of coffee does she drink in the morning?
+I go to the gym five times a week.
+Question: How often...?
+How often do you go to the gym?
+I regularly go to the gym to workout
+Question: Why...?
+Why do you regularly go to the gym?
+I have to eat healthy food if I want to stay fit
+Question: What food...?
+What food do you have to eat if you want to stay fit?
+It's boring to be stuck in traffic during rush hour
+Question: How...?
+How is it to be stuck in traffic during rush hour?
+It's better for me not to miss my work because I can get fired
+Question: Why...?
+Why is it better for you not to miss your work?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it
+Question: Why...?
+Why don't you have a spare tire in your trunk?
+It costs a lot of money to see a doctor every day
+Question: How much...?
+How much does it cost to see a doctor everyday?
+I'm not wearing a seat belt now because I'm not driving
+Question: Why...?
+Why aren't you wearing a seat belt now?
+My teachers make me write long papers several times a week
+Question: Who...?
+Who makes you write long papers several times a week?
+I have 32 teeth
+Question: How...?
+How many teeth do you have?
+We call a doctor who fixes my teeth a dentist.
+Question: What...?
+What do we call a doctor who fixes your teeth?
+This sign says "out of order".
+Question: What...?
+What does this sign say?
+I think one of these elevators isn't working because there is an "out of order" sign on it.
+Question: What makes...?
+What makes you think one of these elevators isn't working?
+I think I have a dead-end job because it doesn't offer me a lot of opportunities.
+Question: What makes...?
+What makes you think you have a dead-end job?
+I usually go on vacation 2 times a year
+Question: How many...?
+How many times a year do you usually go on vacation?
+When I miss my classes, teachers give me bad grades.
+Question: What grades...?
+What grades do teachers give you when you miss your classes?
+The phrase "out of order" means "broken".
+Question: What...?
+What does the phrase "out of order" mean?
+I don't like to live in this neighbourhood because there is a lot of traffic
+Question: Why...?
+Why don't you like to live in this neighbourhood?
+I'm thinking of moving to another neighbourhood because I don't like to live in a neighbourhood with a lot of traffic
+Question: Why...?
+Why are you thinking of moving to another neighbourhood?
+I live on the 5th floor
+Question: Which...?
+Which floor do you live on?
+We call people who don't have a place to live homeless.
+Question: What...?
+What do we call people who don't have a place to live?
+I have to pay my rent and my bills if I want to live in this apartment.
+Question: What...?
+What do you have to pay if you want to live in this apartment?
+If I want to make a sandwich, I need some bread.
+Question: What...?
+What do you need if you want to make a sandwich?
+If there is some water on the floor, it means the floor is wet.
+Question: What...?
+What does it mean if there is some water on the floor?
+It hurts to fall on the wet floor
+Question: How... feel...?
+How does it feel to fall on the wet floor?
+----‐------------------------------------------------------

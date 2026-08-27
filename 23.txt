@@ -1,0 +1,480 @@
+Are we walking?
+No, we aren't walking.
+Are we driving a car?
+No, we aren't driving a car
+Are we taking a train?
+No, we aren't taking a train.
+Are we eating your dinner?
+No, we aren't eating my dinner.
+Are we running?
+Yes, we are running.
+What are we doing?
+We are running.
+Where are we running?
+We are running in the park.
+Where are we learning?
+Where are we running?
+We are running in the park?
+Is it Spring?
+No, it isn't Spring.
+Is it Winter?
+No, it isn't Winter.
+Is it fall?
+No, it isn't fall.
+Is it summer?
+Yes, it is summer.
+What color is Winter?
+Winter is white.
+What colour is fall?
+Fall is yellow.
+What colour is summer?
+Summer is green.
+How many seasons are there?
+There are four seasons.
+What are they?
+They are Spring,summer,fall,Winter.
+Is there a little grass here?
+No, there isn't a little grass here.
+Is there a lot of grass here?
+Yes there is a lot of grass here.
+Do you eat grass when you are very hungry?
+No, I don't eat grass when I'm very hungry.
+Do you think grass is tasty or gross
+I think grass is gross?
+Do you think grass tastes good with some sugar?
+No, I don't think grass tastes good with some sugar.
+Is grass with sugar your favourite food?
+No, grass with sugar isn't my favourite food.
+Does it rain in Spring?
+Yes, it rains in Spring.
+Does it rain in summer?
+Yes, it rains in summer.
+Does it rain in fall?
+Yes, it rains in fall.
+Does it sometimes rain in Winter?
+Yes, sometimes it rains in Winter.
+When does it rain?
+It rains in Spring,summer,fall and sometimes in Winter.
+Does it snow in summer?
+No, it doesn't snow in summer.
+Does it snow in Winter?
+Yes, it snows in Winter.
+When does it snow?
+It snows in Winter?
+When does it snow?
+When does it snow?
+It snows in Winter.
+Is it snowing now?
+No, it isn't snowing now.
+Is it raining now?
+No, it isn't raining now.
+Do you like to go for a run when it is snowing?
+No, I don't like to go for a run when it is snowing?
+Do you like to go for a run when it is snowing?
+Do you like to go for a run when it is snowing?
+No, I don't like to go for a run when it is snowing.
+Do you like to go for a run when it is raining?
+No, I don't like to go for a run when it is raining.
+Do you like to go for a run when it is raining?
+Do you like to watch movies at home when it's raining?
+Yes, I like to watch movies at home when it's raining.
+What do you like to do when it's raining?
+I like to watch movies at home when it's raining.
+What do you like to do when it's raining?
+Do you like sandwiches?
+Yes, I like sandwiches.
+Do you put cheese in your sandwiches?
+Yes, I put cheese in my sandwiches.
+Do you put grass in your sandwiches?
+No, I don't put grass in my sandwiches.
+Which do you prefer: a cheese sandwich or a grass sandwich?
+I prefer a cheese sandwich.
+Do you put a lot of cheese in your sandwich?
+Yes, I put a lot of cheese in my sandwich?
+Why?
+Because I like cheese.
+Why do you put a lot of cheese in your sandwich?
+I put a lot of cheese in my sandwich because I like cheese.
+Why do you put a lot of cheese in your sandwich?
+What is your favorite sandwich?
+My favourite sandwich is a cheese sandwich.
+Are you hungry now?
+No, I am not hungry now.
+Are you eating a cheese sandwich?
+No, I am not eating a cheese sandwich.
+Why not?
+Because I am not hungry.
+Why aren't you eating a cheese sandwich?
+I'm not eating a cheese sandwich because I'm not hungry.
+Why aren't you eating a cheese sandwich?
+Do you like white bread?
+Yes, I like white bread.
+Do you like Brown bread?
+Yes, I like Brown bread.
+Which bread do you prefer white or Brown?
+I prefer Brown Bread.
+Do you go to work six times a week?
+No, I don't go to work 6 times a week.
+Do you go to work twice a week?
+No, I don't go to work twice a week.
+Do you go to work five times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work five times a week.
+How many times a week do you go to work ?
+Do you go to work on weekends, too?
+No, I don't go to work on weekends.
+Do you want to go to work on weekends?
+No, I don't want to go to work on weekends.
+How many weekends are there?
+There are two weekends
+How many weekends are there?
+What are they?
+They are Saturday and Sunday.
+How many days are there in a week?
+There are 7 days in a week.
+How many days are there in a week?
+What are the 7 days of the week.
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+What are the 7 days of the week?
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+Do you eat 6 times a day?
+No, I don't eat 6 times a day.
+Do you eat only 3 times a week?
+No, I don't eat only 3 times a week.
+Do you eat 3 times a day?
+Yes, I eat 3 times a day.
+How many times a day do you eat?
+I eat 3 times a day.
+How many times a day do you eat?
+Do you prefer to eat healthy food or junk food for breakfast?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+Do you go grocery shopping when your fridge is empty?
+Yes, I go grocery shopping when my fridge is empty.
+Is your fridge full of food now?
+No, my fridge isn't full of food now.
+Is your fridge empty?
+Yes, my fridge is empty.
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty?
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty.
+Do you go to the movies when your fridge is empty?
+No, I don't go to the movies when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+Do you have your favourite grocery store?
+Yes, I have my favorite grocery store.
+Is it a big store or a small store ?
+It's a big store.
+Is your favourite grocery store closed on Saturdays and Sundays?
+No, my favorite grocery store isn't close on Saturdays under Sundays.
+Is your favourite grocery store open on Saturdays and Sundays?
+Yes, My favourite grocery store is open on Saturdays and Sundays.
+Do you usually go grocery shopping on weekends or on work days?
+I usually go grocery shopping on weekends, and sometimes on work days.
+Do you usually go grocery shopping on weekends or on workdays?
+I usually go grocery shopping on weekends, and sometimes on work days.
+How many times a week do you usually go grocery shopping?
+I usually go grocery shopping 4 times a week.
+How many times a week do you usually go grocery shopping?
+Do you often order a pizza delivery?
+Yes, I often order a pizza delivery.
+Do you order a pizza delivery 3 times a day?
+No, I don't order a pizza delivery 3 times a day.
+Do you order a pizza delivery 5 times a week?
+No, I don't order a pizza delivery 5 times a week.
+Do you order a pizza delivery 3 times a week?
+Yes, I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+Do you get hungry if you don't eat for 5 days?
+Yes, I get hungry if I don't eat for 5 days.
+Do you get thirsty if you don't drink for 2 days?
+Yes, I get thirsty if I don't drink for 2 days.
+Do you like to stay at work at night?
+No, I don't like to stay at work at night.
+Do you sometimes stay at work at night when you have a lot of work to do?
+Yes, I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+Do you stay at work when you have free time?
+No, I don't stay at work when I have free time.
+Do you like to eat at the restaurant?
+Yes, I like to eat at the restaurant.
+Do you have your favourite restaurant in this city?
+Yes, I have my favourite restaurant in this city.
+Does it work at night?
+No, it doesnot work at night.
+Does it only work during the day?
+Yes, it only works during the day.
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+When does your favourite restaurant work?
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+Do you have a lot of time to eat at the restaurant when you have a lot of work to do?
+No, I don't have a lot of time to eat at the restaurant when I have a lot of work to do.
+Do you have any time to eat at the restaurant when you have a lot of work to do?
+No, I don't have any time to eat at the restaurant when I have a lot of work to do.
+Do you order a pizza delivery when you don't have time to go to the restaurant?
+Yes, I order a pizza delivery when I don't have time to go to the restaurant.
+Do you stay hungry when you don't have time to go to the restaurant.
+No, I don't stay hungry when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+Is pizza your favorite food when you're hungry?
+Yes, pizza is my favourite food when I'm hungry.
+Is grass your favourite food when you're hungry?
+No, grass isn't my favourite food when I'm hungry.
+What is your favourite food when you're hungry?
+My favourite food is pizza when I'm hungry.
+What is your favourite food when you're hungry?
+Do you have any time to relax when you have a lot of work to do?
+No, I don't have any time to relax when I have a lot of work to do.
+Do you have any time to hang out with your friends when you have a lot of work to do?
+No, I don't have any time to hang out with my friends when I have a lot of work to do.
+Is it a great idea to go to the movies during the workday?
+No, it's not a great idea to go to the movies during the work day.
+Of course not.
+You have work to do.
+do it.
+And when you're done.
+enjoy your free time.
+What's left of it.
+Is it a terrible idea to go to the movies during the work day?
+Yes, it's a terrible idea to go to the movies during the work day.
+Is it a terrible idea to go to the movies during the work day?
+Do you like to hang out at the movies only when you have free time?
+Yes, I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free.
+Do you have a place to live?
+Yes, I have a place to live.
+Do you live on the street?
+No, I don't live on the street.
+Is this the place where you live?
+Yes, this is the place where I live.
+Do you think your house is terrible?
+No, I don't think my house is terrible.
+Do you think your house is nice?
+Yes, I think my house is nice.
+Do you usually stay home on weekends?
+Yes, I usually stay home on weekends.
+Where do you usually stay on weekends?
+I usually stay home on weekends.
+Where do you usually stay on weekends?
+Do you like your job?
+Yes, I like my job.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+Does it mean you come to work at 9 and leave work at 5?
+Yes, it means I come to work at 9 and leave work at 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work
+I leave work at 5 PM?
+Do you usually have time to eat during the work day?
+Yes, I usually have time to eat during the work day.
+Do you go to work 3 times a week?
+No, I don't go to work 3 times near week.
+Do you go to work 7 times a week?
+No, I don't go to work 7 times a week
+Do you go to work 5 times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work 5 times a week.
+How many times a week do you go to work?
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you like to work Monday to Friday?
+Yes, I like to work Monday to Friday.
+Do you usually have a lot of work to do on work days?
+Yes, I usually have a lot of work to do on work days.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+" Special "
+Can ( be able to )
+I can speak English.
+We can drink three bottles of whiskey in a few hours.
+He can stay under water for 4 minutes.
+She can cook a chocolate cake for the party.
+Statrment: He can stay under water for 4 minutes.
+Question: Can he stay under water for 4 minutes?
+How long can he stay under water?
+Where can he stay for 4 minutes?
+Statement: She can cook a chocolate cake for the party.
+Question: Can she cook a chocolate cake for party?
+How many chocolate cakes can she cook for the party?
+When can she cook a chocolate cake?
+" Negative statements "
+Cannot ( can't )
+I can't stay under water for 10 minutes.
+She can't cook 10 cakes in one hour.
+A leaf
+Leaves
+To grow
+Subway
+To get to work
+To get home
+Homeless
+An egg
+Scrambled eggs
+Rich
+Poor
+Money
+Can
+Can you drive a car?
+Yes, I can drive a car.
+Do you have a car to drive?
+No, I don't have a car to drive.
+If he had a car.
+Why would he be taking the Subway.
+Are you driving a car?
+No, I'm not driving a car.
+Are you in the Subway?
+Yes, I'm in the Subway.
+Where are you now?
+I'm in the Subway.
+Do you take the Subway to work every day?
+Yes, I take the Subway to work every day.
+How do you get to work?
+I take the Subway to work.
+How do you get to work?
+I take the Subway to work.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Are you usually tired when you go to work?
+No, I'm usually not tired when I go to the work.
+Do you usually get very tired at work?
+Yes, I usually get very tired at work.
+Do you like to get very tired?
+No, I don't like to get very tired.
+Are you usually tired when you go home from work?
+Yes, I'm usually tired when I go home from work.
+Do you like to relax when you're tired?
+Yes, I like to relax when I'm tired.
+Do you like to work when you're very tired?
+No, I don't like to work when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+Do you have your favourite place to relax when you're tired?
+Yes, I have my favourite place to relax when I'm tired.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+Are you homeless?
+No, I am not homeless.
+Do you have a place to live?
+Yes, I have a place to live
+Do you have a place to live?
+Do you know any people who don't have a place to live?
+No, I don't know any people who don't have a place to live.
+Do you live in the Subway?
+No, I don't live in the Subway.
+Why not?
+Because I have a home.
+So, why don't you live in the Subway?
+I don't live in the Subway because I have a home.
+Do you know any people who live in the Subway?
+No, I don't know any people who live in the subway.
+Are there any trees growing in the subway?
+No, there aren't any trees growing in the subway.
+Are there any trees growing in the park?
+Yes, there are lot of trees growing in the park.
+Are there any leaves on those trees?
+Yes, there are some leaves on those trees.
+What's on those trees?
+There are leaves on those trees.
+Are leaves blue in summer?
+No, leaves aren't blue in summer.
+Are leaves brown in summer?
+No, leaves aren't brown in summer.
+What color are leaves in summer?
+Leaves are green in summer.
+What color are leaves in summer?
+Do leaves grow on the trees in Winter?
+No, leaves don't grow on the trees in Winter.
+Why not?
+Because it's too cold for them to grow.
+Why don't leaves grow on the trees in Winter?
+Leaves don't grow on the trees in winter because it's too cold for them to grow.
+Why don't leaves grow on the trees in Winter?
+Leaves don't grow on the trees in winter because it's too cold for them to grow.
+Do you like to eat Scrambled eggs for breakfast?
+Yes, I like to eat scrambled eggs for breakfast.
+How many eggs can you eat for breakfast?
+I can eat three eggs for breakfast.
+How many eggs can you eat for breakfast?
+Is it healthy to eat 10 eggs a day?
+No, it's not healthy to eat 10 eggs a day.
+Although eggs are healthy.
+too many of them isn't good for you.
+Do you think this man has a place to live?
+No, I think this man doesn't have a place to live.
+Does it mean he is homeless?
+Yes, it means he is homeless.
+Do you think he is rich?
+No, I don't think he is rich.
+Do you think he is poor?
+Yes, I think he is poor.
+How do you know?
+Because he lives in the subway.
+How do you know that this man is poor?
+I know that this man is poor because he lives in the subway.
+Do you think you are rich?
+No, I don't think I'm rich.
+Why not?
+Because I don't have money for a car.
+So, why do you think you're not rich?
+I think I'm not rich because I don't have money for a car.
+Do you want to be rich?
+Yes, I want to be rich.
+Do you have a fridge in your kitchen?
+Yes, I have a fridge in my kitchen.
+How many fridges do you have in your kitchen?
+I have one fridge in my kitchen.
+How many fridges do you have in your kitchen?
+Do you put food in your fridge?
+Yes, I put food in my fridge.
+Do you put grass and leaves in your fridge?
+No, I don't put grass and leaves in my fridge.
+What do you put in your fridge?
+I put food in my fridge.
+Do you like it when your fridge is full of tasty food?
+Yes, I like it when my fridge is full of tasty food.
+Do you like it when your fridge is full of tasty food?
+Do you like it when your fridge is full of gross food?
+No, I don't like it when my fridge is full of gross food.
+Do you like it when your fridge is full of gross food?
+When your fridge is empty, do you go grocery shopping?
+Yes, when my fridge is empty, I go grocery shopping.
+What do you do when your fridge is empty?
+When my fridge is empty, I go grocery shopping.
+Can you go grocery shopping when you don't have any money?
+No, I can't go grocery shopping when I don't have any money.
+Can poor people go to the restaurant every day?
+No, poor people can't go to the restaurant every day.
+----‐------------------------------------------------------

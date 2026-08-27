@@ -1,0 +1,505 @@
+Are you going home now?
+No, I'm not going home now.
+Are you going to the restaurant?
+No, I'm not going to the restaurant
+Are you going to the grocery store?
+No, I'm not going to the grocery store.
+Are you going to work?
+Yes, I'm going to work.
+Where are you going?
+I'm going to work.
+What time is it?
+It's 7:30 in the morning.
+What time do you usually leave home in the morning?
+I usually leave home at 7:10 AM.
+What time do you usually leave home in the morning?
+Are you taking a bus?
+No, I'm not taking a bus.
+Are you taking a train?
+Yes, I'm taking a train.
+How are you going to work?
+I'm taking a train to work.
+How are you going to work?
+How are you going to work?
+I'm taking a train to work.
+Am I taking a train with you?
+Yes, you are taking a train with me.
+Am I holding a cup of coffee in my hand?
+No, you aren't holding a cup of coffee in your hand.
+Am I holding a piece of cake in my hand?
+No, you aren't holding a piece of cake in your hand.
+What are you holding in your hand?
+I'm holding a cup of coffee in my hand.
+What are you holding in your hand?
+What are you holding in your hand?
+I'm holding a cup of coffee in my hand?
+Are you thirsty?
+Yes I'm thirsty?
+Are you drinking water?
+No, I'm not drinking water.
+Are you drinking green tea?
+No, I'm not drinking green tea.
+Are you drinking black tea?
+No, I'm not drinking black tea.
+Are you drinking coffee with milk and sugar?
+No, I'm not drinking coffee with milk and sugar.
+Are you drinking black coffee
+Yes, I'm drinking black coffee
+What colour is your coffee?
+My coffee is black.
+How do you like your coffee: black or with milk?
+I like my coffee black.
+How do you like your coffee: black or with milk?
+I like my coffee black.
+Do you usually drink coffee when you're hungry?
+No, I don't usually drink coffee when I'm hungry.
+Do you usually drink coffee when you're thirsty?
+No, I don't usually drink coffee when I'm thirsty.
+Do you usually drink coffee when you want to sleep?
+Yes, I usually drink coffee when I want to sleep.
+When do you usually drink coffee?
+I usually drink coffee when I want to sleep.
+When do you usually drink coffee?
+Is that a sandwich in your hand?
+Yes, that's a sandwich in my hand.
+Are you holding a sandwich in your hand?
+Yes, I'm holding a sandwich in my hand.
+What are you holding in your hand?
+I'm holding a sandwich in my hand.
+Why?
+Because I want to eat it.
+Why are you holding that sandwich in your hand?
+I'm holding this sandwich in my hand because I want to eat it.
+Is there any cheese in that sandwich?
+Yes, there is some cheese in this sandwich.
+How many slices of cheese are there in that sandwich?
+There are two slices of cheese in this sandwich.
+Do you think this sandwich is gross?
+No, I don't think this sandwich is gross.
+Do you think this sandwich is tasty?
+Yes, I think this sandwich is tasty.
+Do you like to eat a sandwich with no cheese in it?
+No, I don't like to eat a sandwich with no cheese in it.
+Do you like to eat a sandwich with five slices of cheese in it?
+Yes, I like to eat a sandwich with five slices of cheese in it.
+How do you like your sandwich, with a lot of cheese in it, or with a little cheese in it?
+I like my sandwich with a lot of cheese in it.
+Is your sandwich black?
+No, my sandwich isn't black.
+Is your sandwich green?
+No, my sandwich isn't green.
+Is your sandwich blue?
+No, My sandwich isn't blue.
+Is your sandwich yellow?
+Yes, my sandwich is yellow.
+What colour is your sandwich?
+My sandwich is yellow.
+Is there some butter and some cheese in your sandwich?
+Yes, there is some butter and some cheese in my sandwich.
+Is there any meat in your sandwich?
+No, there isn't any meat in my sandwich.
+What's in your sandwich?
+There is some butter and some cheese in my sandwich.
+What's in your sandwich?
+There is some butter and some cheese in my sandwich.
+Do you sleep in the kitchen?
+No, I don't sleep in the kitchen.
+Are there any beds in your kitchen?
+No, there aren't any beds in my kitchen?
+Do you sleep in the living room?
+No, I don't sleep in the living room.
+Do you have a living room?
+Yes I have a living room.
+Do you have a bathroom?
+Yes, I have a bathroom.
+How many bathrooms do you have?
+I have one bathroom.
+How many bathrooms do you have?
+Do you sleep in the bathroom?
+No, I don't sleep in the bathroom.
+Do you want to sleep in the bathroom?
+No, I don't want to sleep in the bathroom.
+Are there any beds in your bathroom?
+No, there aren't any beds in my bathroom.
+Do you sleep in your bedroom?
+Yes, I sleep in my bedroom.
+Do you sleep on the floor or in your bed?
+I sleep in my bed.
+How many beds are there in your bedroom?
+There is one bed in my bedroom.
+How many beds are there in your bedroom?
+Do you usually leave for work at 4 AM?
+No, I don't usually leave for work at 4 AM.
+What time do you usually leave for work?
+I usually leave for work at 8 AM.
+Are streets empty of people at 4 AM?
+Yes, streets are empty of people at 4 AM.
+Why?
+Because people usually sleep at 4 AM.
+Why are streets usually empty of people at 4 AM?
+Streets are usually empty of people at 4 AM because people usually sleep at 4 AM.
+Why are streets usually empty of people at 4 AM?
+Is there a lot of traffic at 4 AM?
+No, there isn't a lot of traffic at 4 AM.
+Why not?
+Because people usually sleep at the 4 am.
+Is it too late for you to leave for work at 10 AM?
+Yes, It's too late for me to leave for work at 10 AM.
+If your work starts at 9.
+You have to leave at 8.
+Otherwise, you'll be late for work.
+Do you have a Fridge?
+Yes, I have a fridge.
+How many fridges do you have?
+I have one fridge.
+How many fridges do you have?
+Do you like your fridge?
+Yes, I like my fridge.
+Is your fridge light?
+No, my fridge isn't light.
+Is your fridge heavy?
+Yes, my fridge is heavy.
+Is there any food in your fridge?
+Yes, there is some food in my fridge.
+Is there a little food in your fridge now?
+No, there isn't a little food in my fridge now.
+Is there a lot of food in your fridge now?
+Yes, there is a lot of food in my fridge now.
+How much food is there in your fridge now?
+There is a lot of food in my fridge now.
+How much food is there in your fridge now?
+Is the food in your fridge cold or hot?
+The food in my fridge is cold.
+Do you like to eat cold food from the fridge?
+No, I don't like to eat cold food from the fridge.
+Do you always have some food in your fridge?
+No, I don't always have some food in my fridge.
+Do you usually drink a cup of coffee after you come to work?
+Yes, I usually drink a cup of coffee after I come to work.
+What do you usually drink after you come to work?
+I usually drink a cup of coffee after I come to work.
+How many cups of coffee do you drink after you come to work in the morning?
+I drink one cup of coffee after I come to work in the morning.
+How many cups of coffee do you drink after you come to work in the morning?
+Do you like your coffee with milk, or without milk?
+I like my coffee with milk.
+Do you put any sugar in your coffee?
+Yes, I put some sugar in my coffee.
+How do you like your coffee?
+I like my coffee with milk and sugar.
+How do you like your coffee?
+Do you think coffee without milk and sugar is tasty?
+No, I think coffee without milk and sugar isn't tasty.
+Do you think coffee without milk and sugar is gross?
+Yes, I think coffee without milk and sugar is gross.
+Does coffee taste good to you with or without milk.
+Coffee tastes good to me with milk.
+How does coffee taste without milk?
+Coffee tests bad without milk.
+Are you thirsty now?
+Yes, I'm thirsty now.
+When you are thirsty, does it mean you want to drink some water?
+Yes, when I'm thirsty, it means I want to drink some water.
+When you are thirsty, does it mean you want to eat some food.
+No ,when I'm thirsty, it doesn't mean I want to eat some food.
+When you are thirsty, does it mean you want to watch a movie?
+No, when I'm thirsty, it doesn't mean I want to watch a movie.
+What does it mean when you are thirsty?
+When I'm thirsty, it means I want to drink some water.
+What does it mean when you are thirsty?
+Do you like French fries?
+Yes, I like French fries.
+Is there usually a lot of salt in French fries?
+Yes, there is usually a lot of salt in French fries.
+Do French fries taste good without salt?
+No, French fries don't taste good without salt.
+How do French fries taste without salt?
+French fries taste bad without salt.
+How do French fries taste without salt?
+French fries taste bad without salt.
+Unfortunately.
+with so much salt.
+It's really bad junk food.
+Are French fries junk food, or healthy food?
+French fries are junk food.
+Do you often eat junk food at the movie theatre?
+Yes, I often eat junk food at the movie theatre.
+Do you drink soda with it?
+Yes, I drink soda with it.
+What do you usually drink with your junk food at the movie theatre?
+I usually drink soda with my junk food at the movie theatre.
+Does junk food usually taste good, or bad?
+Junk food usually tastes good.
+How does junk food usually tastes?
+Junk food usually tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+It's a very bad habit.
+And a very difficult one to quit.
+Does it snow in summer?
+No, it doesn't snow in summer.
+Does it snow in Winter?
+Yes, it snows in Winter.
+When does it snow?
+It snows in Winter?
+When does it snow?
+When does it snow?
+It snows in Winter.
+Is it snowing now?
+No, it isn't snowing now.
+Is it raining now?
+No, it isn't raining now.
+Do you like to go for a run when it is snowing?
+No, I don't like to go for a run when it is snowing?
+Do you like to go for a run when it is snowing?
+Do you like to go for a run when it is snowing?
+No, I don't like to go for a run when it is snowing.
+Do you like to go for a run when it is raining?
+No, I don't like to go for a run when it is raining.
+Do you like to go for a run when it is raining?
+Do you like to watch movies at home when it's raining?
+Yes, I like to watch movies at home when it's raining.
+What do you like to do when it's raining?
+I like to watch movies at home when it's raining.
+What do you like to do when it's raining?
+Is there a little grass here?
+No, there isn't a little grass here.
+Is there a lot of grass here?
+Yes there is a lot of grass here.
+Do you eat grass when you are very hungry?
+No, I don't eat grass when I'm very hungry.
+Do you think grass is tasty or gross
+I think grass is gross?
+Do you think grass tastes good with some sugar?
+No, I don't think grass tastes good with some sugar.
+Is grass with sugar your favourite food?
+No, grass with sugar isn't my favourite food.
+Does it rain in Spring?
+Yes, it rains in Spring.
+Does it rain in summer?
+Yes, it rains in summer.
+Does it rain in fall?
+Yes, it rains in fall.
+Does it sometimes rain in Winter?
+Yes, sometimes it rains in Winter.
+When does it rain?
+It rains in Spring,summer,fall and sometimes in Winter.
+Do you have your favourite season?
+Yes, I have my favourite season.
+What is your favourite season?
+My favourite season is summer.
+What is your favorite season?
+Are there any trees in this park?
+Yes, There are some trees in this park.
+Are there a few trees in this park?
+No, there aren't a few trees in this park.
+Are there a lot of trees in this park.
+Yes, there are a lot of trees in this park.
+How many trees are there in this park?
+There are a lot of trees in this park.
+How many trees are there in this park?
+Do you go for a run every morning?
+No, I don't go for a run every morning.
+Is it bad for you to go for a run every morning?
+No, it's not bad for me to go for a run every morning.
+Why don't you go for a run every morning?
+I don't go for a run every morning because I don't always want to.
+Why don't you go for a run every morning?
+I don't go for a run every morning because I don't always want to.
+Do you live in the park?
+No, I don't live in the park.
+Do you know people who live in the park?
+No, I don't know people who live in the park.
+Is it cold to live in the park in Winter.
+Yes, it's cold to live in the park in Winter.
+Are we walking?
+No, we aren't walking.
+Are we driving a car?
+No, we aren't driving a car
+Are we taking a train?
+No, we aren't taking a train.
+Are we eating your dinner?
+No, we aren't eating my dinner.
+Are we running?
+Yes, we are running.
+What are we doing?
+We are running.
+Where are we running?
+We are running in the park.
+Where are we learning?
+Where are we running?
+We are running in the park?
+Is it Spring?
+No, it isn't Spring.
+Is it Winter?
+No, it isn't Winter.
+Is it fall?
+No, it isn't fall.
+Is it summer?
+Yes, it is summer.
+What color is Winter?
+Winter is white.
+What colour is fall?
+Fall is yellow.
+What colour is summer?
+Summer is green.
+How many seasons are there?
+There are four seasons.
+What are they?
+They are Spring,summer,fall,Winter.
+Which
+To hang out
+Open
+Closed
+To prefer
+Once
+Twice
+Two times
+Three times
+Ten times
+Once a day
+Twice a month
+Three times a night
+How many times?
+How many times a day?
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Monday to Friday
+A week
+A work day
+A weekend
+Do you like sandwiches?
+Yes, I like sandwiches.
+Do you put cheese in your sandwiches?
+Yes, I put cheese in my sandwiches.
+Do you put grass in your sandwiches?
+No, I don't put grass in my sandwiches.
+Which do you prefer: a cheese sandwich or a grass sandwich?
+I prefer a cheese sandwich.
+Do you put a lot of cheese in your sandwich?
+Yes, I put a lot of cheese in my sandwich?
+Why?
+Because I like cheese.
+Why do you put a lot of cheese in your sandwich?
+I put a lot of cheese in my sandwich because I like cheese.
+Why do you put a lot of cheese in your sandwich?
+What is your favorite sandwich?
+My favourite sandwich is a cheese sandwich.
+Are you hungry now?
+No, I am not hungry now.
+Are you eating a cheese sandwich?
+No, I am not eating a cheese sandwich.
+Why not?
+Because I am not hungry.
+Why aren't you eating a cheese sandwich?
+I'm not eating a cheese sandwich because I'm not hungry.
+Why aren't you eating a cheese sandwich?
+Do you like white bread?
+Yes, I like white bread.
+Do you like Brown bread?
+Yes, I like Brown bread.
+Which bread do you prefer white or Brown?
+I prefer Brown Bread.
+Are you at home watching a movie now?
+No, I'm not at home watching a movie now.
+Are you at work now?
+Yes, I am at work now.
+Is it Monday?
+Yes, it's Monday.
+What day is it?
+It is monday.
+What day is it?
+Is Monday a work day?
+Yes, Monday is a work day.
+Do you go to work on work days?
+Yes, I go to work on work days.
+Do you hang out in the park on work days?
+No, I don't hang out in the park on workdays.
+Do you hang out at a movie theatre on workdays?
+No, I don't hang out at a movie theater on work days.
+Where do you go on workdays?
+I go to work on work days.
+Where do you go on workdays?
+How many work days are there?
+There are five work days.
+How many workdays are there?
+What are the work days?
+The work days are Monday,Tuesday, Wednesday,Thursday and Friday.
+Do you go to work six times a week?
+No, I don't go to work 6 times a week.
+Do you go to work twice a week?
+No, I don't go to work twice a week.
+Do you go to work five times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work five times a week.
+How many times a week do you go to work ?
+Do you go to work on weekends, too?
+No, I don't go to work on weekends.
+Do you want to go to work on weekends?
+No, I don't want to go to work on weekends.
+How many weekends are there?
+There are two weekends
+How many weekends are there?
+What are they?
+They are Saturday and Sunday.
+How many days are there in a week?
+There are 7 days in a week.
+How many days are there in a week?
+What are the 7 days of the week.
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+What are the 7 days of the week?
+The 7 days of the week are Monday, Tuesday,Wednesday,Thursday, Friday,Saturday and Sunday.
+Do you eat 6 times a day?
+No, I don't eat 6 times a day.
+Do you eat only 3 times a week?
+No, I don't eat only 3 times a week.
+Do you eat 3 times a day?
+Yes, I eat 3 times a day.
+How many times a day do you eat?
+I eat 3 times a day.
+How many times a day do you eat?
+Do you prefer to eat healthy food or junk food for breakfast?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+Do you go grocery shopping when your fridge is empty?
+Yes, I go grocery shopping when my fridge is empty.
+Is your fridge full of food now?
+No, my fridge isn't full of food now.
+Is your fridge empty?
+Yes, my fridge is empty.
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty?
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty.
+Do you go to the movies when your fridge is empty?
+No, I don't go to the movies when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+Do you have your favourite grocery store?
+Yes, I have my favorite grocery store.
+Is it a big store or a small store ?
+It's a big store.
+Is your favourite grocery store closed on Saturdays and Sundays?
+No, my favorite grocery store isn't close on Saturdays under Sundays.
+Is your favourite grocery store open on Saturdays and Sundays?
+Yes, My favourite grocery store is open on Saturdays and Sundays.
+Do you usually go grocery shopping on weekends or on work days?
+I usually go grocery shopping on weekends, and sometimes on work days.
+Do you usually go grocery shopping on weekends or on workdays?
+I usually go grocery shopping on weekends, and sometimes on work days.
+How many times a week do you usually go grocery shopping?
+I usually go grocery shopping 4 times a week.
+How many times a week do you usually go grocery shopping?
+----‐------------------------------------------------------

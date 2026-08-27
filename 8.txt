@@ -1,0 +1,471 @@
+Is your name Sean?
+No, my name isn't Sean.
+Is your name Tim?
+No, my name isn't Tim.
+Is your name Mike?
+No, my name isn't Mike.
+Is your name John?
+No, my name isn't John.
+Is your name Ron?
+Yes, my name is Ron.
+What is your name?
+My name is Ron.
+What is your name?
+Is this your phone?
+No, this is not my phone.
+Is this her phone?
+No, thus is not her phone.
+Is this his phone?
+No, this is not his phone.
+Is this my phone?
+Yes, this is your phone.
+Whose phone is this?
+This is your phone.
+Is my name John?
+No, your name isn't John.
+Is my name Lisa?
+No, your name isn't Lisa.
+No, my name isn't Lisa.
+Losa is over there.
+Her name is Lisa.
+My name is Sam.
+Is my name Ron?
+No, your name isn't Ron.
+Is my name Sam?
+Yes, your name is Sam.
+What is my name?
+Your name is Sam.
+What is my name?
+Whose name is Ron.
+My name is Ron.
+Whose name is Sam?
+Your name is Sam.
+Is this a man?
+Yes, this is a man.
+Where is the man?
+The man is on the chair?
+Is the man on the table.
+No, the man isn't on the table.
+Is the man under the table?
+No, the man isn't under the table?
+Is the man in the table?
+No, the man isn't in the table.
+Is the man on the cabinet?
+No, the man isn't on the cabinet.
+Is the man in the cabinet?
+No, the man isn't in the cabinet.
+Is the man on the chair?
+Yes, the man is on the chair.
+Where is the man?
+The man is on the chair?
+Where is the man?
+Is the woman on the chair?
+No, the woman isn't on the chair.
+Is the woman on the floor?
+No, the woman isn't on the floor.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman in the cabinet?
+No, the woman isn't in the cabinet.
+Is the woman on the cabinet?
+Yes, the woman is on the cabinet.
+Where is the woman?
+The woman is on the cabinet.
+Is this a chair?
+No, this isn't a chair.
+Is this a train?
+No, thus isn't a train.
+Is this a cabinet?
+No, this is not a cabinet.
+Is this a car?
+Yes, this is a car.
+What is this?
+This is a car.
+Is this man on the bus?
+No, this man isn't on the bus.
+Is this man on the train?
+No, this man isn't on the train.
+Is this man under the car?
+No, this man isn't under the car.
+Is this man in the car?
+Yes, this man is in the car.
+Where is this man?
+This man is in the car.
+Where is this man?
+Is this a man?
+No, this is not a man.
+Is this a woman?
+Yes, this is a woman.
+Who is this?
+This is a woman.
+Who is this?
+This is a woman.
+Is the woman on the train?
+No, the woman isn't on the train.
+Is the woman in the car?
+No, the woman isn't in the car.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman on the bus?
+Yes, the woman is on the bus.
+Where is the woman?
+The woman is on the bus.
+Where is the woman?
+Is the man on the bus?
+No, this man isn't on the bus.
+Is this man in the car?
+No, this man isn't in the car.
+Yes, this man is on the train.
+Where is this man?
+This man is on the train.
+Where is this man.
+Are they students?
+Yes they are students.
+Who are they?
+They are students.
+Who are they?
+Are these students on the floor?
+No, these students aren't on the floor.
+Are these student on the floor?
+No, this students aren't on the floor.
+Are these students on the ceiling?
+No, these students aren't on the ceiling.
+Are these students on the chairs?
+Yes, these students are on the chairs.
+Where are these students?
+These students are on the chairs.
+Who are on the chair?
+These students are on the chairs.
+Are these students people?
+Yes, these students are people.
+Are these students things?
+No, these students aren't things.
+Yeah,
+The table is a thing.
+The car is a thing
+The cabinet is a thing.
+The students are not things.
+Is the teacher is a thing?
+No, the teacher isn't a thing.
+Is the teacher is a person?
+Yes, the teacher is a person.
+is a teacher is a thing?
+No, the teacher isn't a thing.
+What is the teacher?
+The teacher is a person.
+Is he on the chair?
+No, he isn't on the chair.
+Is he under the table?
+No, he isn't under the table.
+Is he in the cabinet?
+No,he isn't in the cabinet.
+Is he in the cabinet?
+No, he isn't on the train.
+Is he in the class?
+Yes, he is in the class.
+Yes, he is a teacher.And he is in the class.
+He isn't in the class alone.
+These students are in the class, too.
+Is he in the class alone?
+No, he isn't in the class alone.
+Are the students in the class alone?
+No, the students aren't in the class alone.
+Are these students in the class, too?
+Yes these students are in the class, too.
+Who are in the class?
+They are in the class.
+Who are in the class?
+Are we in the class, too?
+Yes, we are in the class, too.
+Are we things?
+No, we aren't things.
+Are we people?
+Yes, we are people.
+Is this cabinet a person?
+No, this cabinet isn't a person.
+Is this a cabinet is a thing?
+Yes, this cabinet is a thing.
+Is this cabinet on the ceiling?
+No, this cabinet isn't on the ceiling.
+Is this cabinet on the wall?
+No, this cabinet isn't on the wall.
+Is this cabinet under the table?
+No, this cabinet isn't under the table.
+Is this cabinet on the floor?
+Yes, this cabinet is on the floor.
+Where is this cabinet?
+This cabinet is on the floor.
+Where is this cabinet?
+Is it morning?
+No, it isn't morning.
+is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No, it isn't evening.
+Is it night?
+Yes, it is night.
+Is it 11 pm?
+No, it isn't 11pm.
+Is it 12 o'clock midnight?
+No, it isn't 12 o'clock midnight.
+Is it 12:30 am?
+No, it isn't 12:30 am.
+Is it 3 am?
+No, it isn't 3 am.
+Is it 10pm?
+No, it isn't 10pm.
+What time is it?
+It is 11:30 pm.
+What time is it?
+Is it afternoon?
+No, it isn't afternoon.
+It is evening?
+No, it isn't evening.
+It is night?
+No, it isn't night.
+Is it morning?
+Yes, it is morning.
+Is it 12 o'clock Noon?
+No, it isn't 12 o'clock Noon.
+Is it 1 pm?
+No, it isn't 1 pm.
+Is it 5 am?
+No, it isn't 5 am.
+What time is it?
+It is 10 am.
+What time is it?
+It is 10 am.
+What time is it?
+It is 11:25 am.
+What time is it?
+It is 7 pm.
+What time is it?
+It is 7:30 am.
+What time is it?
+It is 6:10 pm.
+What time is it?
+It is 1:40 am.
+What time is it?
+It is 8:55 am.
+What time is it?
+It is 2:30 pm.
+What time is it?
+It is 3:11 pm.
+What time is it?
+It is 10 am.
+What time is it?
+It is 12:00 noon.
+What time is it?
+It is 9:29 pm.
+What time is it?
+It is 12:00 midnight.
+What time is it?
+It is 4:26 am.
+What time is it?
+It is 8:11 pm.
+What time is it?
+It is 5:41 pm.
+I am = I'm
+You are = you're
+He is = he's
+She is = she's
+It is = it's
+We are = we're
+They are = they're
+From.
+I'm from Toronto.
+Where are you from?
+Where is he from?
+A waiter.
+A restaurant.
+At a restaurant.
+The name of the restaurant.
+A town.
+A city.
+A college.
+Small.
+Big.
+Very.
+Good.
+Bad.
+To be.
+A job.
+Food.
+Nice.
+Happy.
+Unhappy.
+Here.
+But.
+And.
+My name is Mason Miller.
+I'm from Ashville, Alabama.
+It's a small nice town.
+I'm a waiter at the upstate restaurant.
+It's a good job.
+I'm happy to be here.
+The food isn't very good.
+But the people are nice.
+I'm here at the restaurant from 12:00 o'clock Noon to 4:00 o'clock in the afternoon.
+I'm a student at Carvel college, too.
+I'm in class at Carvel from 8:00 to 11:30 in the morning.
+This is my friend Henry.
+He is a waiter, too.
+But he's not happy to be here.
+So,
+His name is Mason.
+His last name is Miller.
+Is his name David?
+No, his name isn't David.
+Is his name Carter?
+No, his name isn't Carter.
+Is his name Ethan?
+No, his name isn't Ethan.
+Is his name Jacob?
+No, his name isn't Jacob.
+Is his name Mason?
+Yes, his name is Mason.
+What is his name?
+His name is Mason.
+What is his name?
+Is his last name Miller?
+Yes, his last name is Miller.
+What is his last name?
+His last name is Miller.
+What is his last name?
+Is Mason a woman?
+No, Mason isn't a woman.
+Is Mason a man?
+Yes, Mason is a man.
+Mason Miller is a man.
+He is from Ashville. Ashville is a small nice town in Alabama.
+Is he from New York?
+No, he isn't from Newyork.
+Is he from Toronto?
+No, he isn't from Toronto.
+Is he from Ashville?
+Yes, he is from Ashville.
+Where is he from?
+He is from Ashville.
+Where is he from?
+He is from Ashville.
+Who is from Ashville?
+Mason is from Ashville.
+Yes, Mason Miller is from Ashville.
+Ashville is a small nice town in Alabama.
+Is Ashville is a big city?
+No, Ashville isn't a big city.
+Is Ashville a small town?
+Yes, Ashville is a small town.
+Is it in Ontario?
+No, it isn't in Ontario.
+It is in new jersey?
+No, it isn't in New Jersey.
+Is Ashville in California?
+No, Ashville isn't in California.
+Is Ashville in Alabama?
+Yes, Ashville is in Alabama.
+Where is Ashville?
+Ashville is in Alabama.
+Who is from Ashville, Alabama?
+Mason is from Ashville, Alabama.
+Who is from Ashville, Alabama?
+Where is Mason from?
+Mason is from Ashville, Alabama.
+Where is Mason from?
+Is Ashville a nice city?
+No, Ashville isn't a nice city.
+Is Ashville a nice town?
+Yes, Ashville is a nice town.
+Ashville is a small nice town in Alabama.
+Mason Miller is from a small nice town of Ashville in Alabama.
+He is a waiter at the upstate restaurant.
+Is the name of this restaurant "Beanery"?
+No, the name of this restaurant isn't Beanery.
+Is the name of this restaurant isn't Papa John's?
+No, the name of this restaurant isn't Papa John's.
+Is the name of this restaurant Upstate?
+Yes, the name of this restaurant is Upstate.
+Is the name of this restaurant upstate?
+What is the name of this restaurant?
+The name of this restaurant is Upstate.
+Is Mason a teacher at college?
+No, Mason isn't a teacher at college.
+Is Mason a waiter?
+Yes, Mason is a waiter.
+What is Mason?
+Mason is a waiter.
+Is Mason a waiter at McDonalds?
+No, Mason isn't a waiter at Mcdonalds.
+Is Mason a waiter at the Subway restaurant?
+Is Mason a waiter at the subway restaurant?
+No, Mason isn't a waiter at the subway restaurant.
+Is Mason a waiter at the Upstate restaurant?
+Yes, Mason is a waiter at the upstate restaurant.
+What is Mason?
+Mason is a waiter at the upstate Restaurant.
+What is Mason?
+Mason is a waiter at the upstate Restaurant.
+Who is a waiter at the upstate restaurant?
+Mason is a waiter at the upstate Restaurant.
+Mason is a waiter here at this restaurant.
+The name of this restaurant is Upstate.
+It's a good job.
+He is happy to be here at this restaurant.
+He is happy to be a waiter at this restaurant.
+Is Mason's job bad?
+No, Mason's job isn't bad.
+For a student, no it's not bad.
+Is Mason's job good?
+Yes, Mason's job is good.
+Is Mason happy to be a waiter at Upstate?
+Yes, Mason is happy to be a waiter at upstate.
+Is Mason unhappy to be a waiter at Upstate?
+No, Mason isn't unhappy to be a waiter at upstate.
+What is upstate?
+Upstate is a restaurant.
+Who is a waiter at upstate?
+Mason is a waiter at upstate.
+Is he unhappy to be here?
+No, he isn't unhappy to be here.
+Is he happy to be here?
+Yes, he is happy to be here.
+Is Mason happy to be a waiter here?
+Yes,Mason is happy to be a waiter here.
+He is happy to be a waiter at the upstate restaurant.
+The food isn't very good here.
+But the people are nice.
+Is the food very good at upstate?
+No, the food isn't very good at upstate.
+Is the food nice at upstate?
+No, the food isn't nice at upstate.
+Is the food not very good at upstate?
+Yes, the food isn't very good at upstate.
+Where is the food not very good?
+The food isn't very good at the upstate restaurant.
+Where is the food not very good?
+The food isn't very good at the upstate restaurant.
+Are people very bad at upstate?
+No, people aren't very bad at upstate.
+Are people very nice at upstate?
+Yes, people are very nice at upstate.
+Where are people nice?
+People are nice at the upstate restaurant.
+Where are people nice?
+What is Mason?
+Mason is a waiter at the upstate restaurant.
+Is Mason unhappy to be a waiter here?
+No, Mason isn't unhappy to be a waiter here.
+Is Mason happy to be a waiter here?
+Yes, Mason is happy to be a waiter here.
+Where is Mason from?
+Mason is from Ashville.
+Where is Ashville?
+Ashville is in Alabama.
+What is Ashville?
+Ashville is a nice small town.
+So, Mason, whose last name is Miller.Mason miller Is from a nice small town of Ashville Alabama.
+He is a waiter at the upstate restaurant.
+He is happy to be here.
+The food isn't very good at this restaurant.
+But the people are nice.
+----‐------------------------------------------------------

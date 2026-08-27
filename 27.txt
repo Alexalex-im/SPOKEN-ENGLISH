@@ -1,0 +1,428 @@
+Do you eat fresh bananas?
+Yes, I eat fresh bananas.
+Do you need to cook bananas before you can eat them?
+No, I don't need to cook bananas before I can eat them.
+Do they sell pineapples in the Subway?
+No, they don't sell pineapples in the Subway.
+Do they sell pineapples at a movie theatre?
+No, they don't sell pineapples at a movie theatre.
+Do you know a place where they sell pineapples?
+Yes, I know a place where they sell pineapples.
+Do you know a place where they sell pineapples?
+Where can I buy some pineapples?
+You can buy some pineapples at a grocery store.
+Do pineapples grow in Canada?
+No, pineapples don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't pineapples grow in Canada?
+Pineapples don't grow in Canada because it's too cold for them to grow there.
+Do pineapples grow in Thailand?
+Yes, pineapples grow in Thailand.
+Is it too cold for them to grow there?
+No, it's not too cold for them to grow there.
+Do you need to go to Thailand to eat pineapples?
+No, I don't need to go to Thailand to eat pineapples.
+Why not?
+Because I can buy them at a grocery store here.
+Why do you not need to go to Thailand to eat pineapples?
+I don't need to go to Thailand to eat pineapples because I can buy them at a grocery store here.
+Do you need to cook pineapples before you can eat them?
+No, I don't need to cook pineapples before I can eat them.
+Can you eat pineapples fresh?
+Yes, I can eat pineapples fresh.
+Can you eat pineapples fresh?
+Do bananas grow on trees?
+Yes, bananas grow on trees.
+Where do bananas grow?
+Bananas grow on trees.
+Where do bananas grow?
+What colour are bananas?
+Bananas are yellow.
+Do bananas grow in Canada?
+No, bananas don't grow in Canada.
+Why not?
+Because it's too cold for them to grow there.
+Why don't bananas grow in Canada?
+Bananas don't grow in Canada. because it's too cold for them to grow there.
+Bananas only grow in hot countries.
+Canada is not hot by any means.
+Can you eat fresh bananas?
+Yes, I can eat fresh bananas.
+What about meat, can you eat fresh meat?
+No, I can't eat fresh meat.
+Do you need to cook your meat before you can eat it?
+Yes, I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it?
+I need to cook my meat before I can eat it.
+What do you need to do with your meat before you can eat it.
+Is it a great idea to eat fresh meat?
+No, it's not a great idea to eat fresh meat.
+Is it good for you to eat fresh meat?
+No, it's not good for me to eat fresh meat.
+Is it really bad for you to eat fresh meat?
+Yes, it's really bad for me to eat fresh meat.
+Can you cook?
+Yes, I can cook.
+Do you think you cook badly?
+No, I don't think I cook badly.
+Do you think you cook well?
+Yes, I think I cook well.
+Is your job to cook food?
+Yes, my job is to cook food.
+What is your job?
+My job is to cook food.
+Can you cook scrambled eggs Well?
+Yes, I can cook scrambled eggs well.
+Do you like bananas?
+Yes, I like bananas.
+How many bananas can you eat for lunch?
+I can eat 2 bananas for lunch.
+How many bananas can you eat for lunch?
+Do you know a place where I can buy some bananas?
+Yes, I know a place where you can buy some bananas.
+Can I buy some bananas at a movie theatre?
+No, you can't buy any bananas at a movie theatre.
+Can I buy some bananas at a grocery store?
+Yes, you can buy some bananas at a grocery store.
+Where can I buy some bananas?
+You can buy some bananas at a grocery store.
+Do you need to have some money to buy bananas at a grocery store?
+Yes, I need to have some money to buy bananas at a grocery.
+Do you need to have some money to buy bananas at a grocery store?
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+What do you need to have to buy bananas at a grocery store?
+I need to have some money to buy bananas at a grocery store.
+Do you prefer to eat healthy food or junk food for breakfast?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+I prefer to eat healthy food for breakfast.
+Which do you prefer to eat for breakfast healthy food or junk food?
+Do you go grocery shopping when your fridge is empty?
+Yes, I go grocery shopping when my fridge is empty.
+Is your fridge full of food now?
+No, my fridge isn't full of food now.
+Is your fridge empty?
+Yes, my fridge is empty.
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty?
+Why are you at the grocery store?
+I'm at the grocery store because my fridge is empty.
+Do you go to the movies when your fridge is empty?
+No, I don't go to the movies when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+What do you do when your fridge is empty?
+I go grocery shopping when my fridge is empty.
+Do you have your favourite grocery store?
+Yes, I have my favorite grocery store.
+Is it a big store or a small store ?
+It's a big store.
+Is your favourite grocery store closed on Saturdays and Sundays?
+No, my favorite grocery store isn't close on Saturdays under Sundays.
+Is your favourite grocery store open on Saturdays and Sundays?
+Yes, My favourite grocery store is open on Saturdays and Sundays.
+Do you usually go grocery shopping on weekends or on work days?
+I usually go grocery shopping on weekends, and sometimes on work days.
+Do you usually go grocery shopping on weekends or on workdays?
+I usually go grocery shopping on weekends, and sometimes on work days.
+How many times a week do you usually go grocery shopping?
+I usually go grocery shopping 4 times a week.
+How many times a week do you usually go grocery shopping?
+Do you like your job?
+Yes, I like my job.
+Do you have a 9 to 5 job?
+Yes, I have a 9 to 5 job.
+Does it mean you come to work at 9 and leave work at 5?
+Yes, it means I come to work at 9 and leave work at 5.
+What time do you come to work?
+I come to work at 9 AM.
+What time do you leave work
+I leave work at 5 PM?
+Do you usually have time to eat during the work day?
+Yes, I usually have time to eat during the work day.
+Do you go to work 3 times a week?
+No, I don't go to work 3 times near week.
+Do you go to work 7 times a week?
+No, I don't go to work 7 times a week
+Do you go to work 5 times a week?
+Yes, I go to work 5 times a week.
+How many times a week do you go to work?
+I go to work 5 times a week.
+How many times a week do you go to work?
+On which days do you go to work?
+I go to work Monday to Friday.
+On which days do you go to work?
+I go to work Monday to Friday.
+Do you like to work Monday to Friday?
+Yes, I like to work Monday to Friday.
+Do you usually have a lot of work to do on work days?
+Yes, I usually have a lot of work to do on work days.
+Do you get tired when you work a lot?
+Yes, I get tired when I work a lot.
+Do you have any time to relax when you have a lot of work to do?
+No, I don't have any time to relax when I have a lot of work to do.
+Do you have any time to hang out with your friends when you have a lot of work to do?
+No, I don't have any time to hang out with my friends when I have a lot of work to do.
+Is it a great idea to go to the movies during the workday?
+No, it's not a great idea to go to the movies during the work day.
+Of course not.
+You have work to do.
+do it.
+And when you're done.
+enjoy your free time.
+What's left of it.
+Is it a terrible idea to go to the movies during the work day?
+Yes, it's a terrible idea to go to the movies during the work day.
+Is it a terrible idea to go to the movies during the work day?
+Do you like to hang out at the movies only when you have free time?
+Yes, I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free time.
+When do you like to hang out at the movies?
+When do you like to hang out at the movies?
+I like to hang out at the movies only when I have free.
+Do you have a place to live?
+Yes, I have a place to live.
+Do you live on the street?
+No, I don't live on the street.
+Is this the place where you live?
+Yes, this is the place where I live.
+Do you think your house is terrible?
+No, I don't think my house is terrible.
+Do you think your house is nice?
+Yes, I think my house is nice.
+Do you usually stay home on weekends?
+Yes, I usually stay home on weekends.
+Where do you usually stay on weekends?
+I usually stay home on weekends.
+Where do you usually stay on weekends?
+Do you like to eat at the restaurant?
+Yes, I like to eat at the restaurant.
+Do you have your favourite restaurant in this city?
+Yes, I have my favourite restaurant in this city.
+Does it work at night?
+No, it doesnot work at night.
+Does it only work during the day?
+Yes, it only works during the day.
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+When does your favourite restaurant work?
+When does your favourite restaurant work?
+My favourite restaurant only works during the day.
+Do you have a lot of time to eat at the restaurant when you have a lot of work to do?
+No, I don't have a lot of time to eat at the restaurant when I have a lot of work to do.
+Do you have any time to eat at the restaurant when you have a lot of work to do?
+No, I don't have any time to eat at the restaurant when I have a lot of work to do.
+Do you order a pizza delivery when you don't have time to go to the restaurant?
+Yes, I order a pizza delivery when I don't have time to go to the restaurant.
+Do you stay hungry when you don't have time to go to the restaurant.
+No, I don't stay hungry when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+What do you do when you don't have time to go to the restaurant?
+What do you do when you don't have time to go to the restaurant?
+I order a pizza delivery when I don't have time to go to the restaurant.
+Is pizza your favorite food when you're hungry?
+Yes, pizza is my favourite food when I'm hungry.
+Is grass your favourite food when you're hungry?
+No, grass isn't my favourite food when I'm hungry.
+What is your favourite food when you're hungry?
+My favourite food is pizza when I'm hungry.
+What is your favourite food when you're hungry?
+Do you often order a pizza delivery?
+Yes, I often order a pizza delivery.
+Do you order a pizza delivery 3 times a day?
+No, I don't order a pizza delivery 3 times a day.
+Do you order a pizza delivery 5 times a week?
+No, I don't order a pizza delivery 5 times a week.
+Do you order a pizza delivery 3 times a week?
+Yes, I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+How often do you order a pizza delivery?
+How often do you order a pizza delivery?
+I order a pizza delivery 3 times a week.
+Do you get hungry if you don't eat for 5 days?
+Yes, I get hungry if I don't eat for 5 days.
+Do you get thirsty if you don't drink for 2 days?
+Yes, I get thirsty if I don't drink for 2 days.
+Do you like to stay at work at night?
+No, I don't like to stay at work at night.
+Do you sometimes stay at work at night when you have a lot of work to do?
+Yes, I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+I sometimes stay at work at night when I have a lot of work to do.
+Where do you sometimes stay at night when you have a lot of work to do?
+Do you stay at work when you have free time?
+No, I don't stay at work when I have free time.
+Can you drive a car?
+Yes, I can drive a car.
+Do you have a car to drive?
+No, I don't have a car to drive.
+If he had a car.
+Why would he be taking the Subway.
+Are you driving a car?
+No, I'm not driving a car.
+Are you in the Subway?
+Yes, I'm in the Subway.
+Where are you now?
+I'm in the Subway.
+Do you take the Subway to work every day?
+Yes, I take the Subway to work every day.
+How do you get to work?
+I take the Subway to work.
+How do you get to work?
+I take the Subway to work.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Why don't you drive a car to work?
+I don't drive a car to work because I don't have a car.
+Are you usually tired when you go to work?
+No, I'm usually not tired when I go to the work.
+Do you usually get very tired at work?
+Yes, I usually get very tired at work.
+Do you like to get very tired?
+No, I don't like to get very tired.
+Are you usually tired when you go home from work?
+Yes, I'm usually tired when I go home from work.
+Do you like to relax when you're tired?
+Yes, I like to relax when I'm tired.
+Do you like to work when you're very tired?
+No, I don't like to work when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+What do you like to do when you're very tired?
+I like to relax when I'm very tired.
+Do you have your favourite place to relax when you're tired?
+Yes, I have my favourite place to relax when I'm tired.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+What is your favourite place to relax when you're tired?
+When I'm tired, my favourite place to relax is my home.
+Are you homeless?
+No, I am not homeless.
+Do you have a place to live?
+Yes, I have a place to live
+Do you have a place to live?
+Do you know any people who don't have a place to live?
+No, I don't know any people who don't have a place to live.
+Do you live in the Subway?
+No, I don't live in the Subway.
+Why not?
+Because I have a home.
+So, why don't you live in the Subway?
+I don't live in the Subway because I have a home.
+Do you know any people who live in the Subway?
+No, I don't know any people who live in the subway.
+Are there any trees growing in the subway?
+No, there aren't any trees growing in the subway.
+Do you think you are rich?
+No, I don't think I'm rich.
+Why not?
+Because I don't have money for a car.
+So, why do you think you're not rich?
+I think I'm not rich because I don't have money for a car.
+Do you want to be rich?
+Yes, I want to be rich.
+Do you have a fridge in your kitchen?
+Yes, I have a fridge in my kitchen.
+How many fridges do you have in your kitchen?
+I have one fridge in my kitchen.
+How many fridges do you have in your kitchen?
+Do you put food in your fridge?
+Yes, I put food in my fridge.
+Do you put grass and leaves in your fridge?
+No, I don't put grass and leaves in my fridge.
+What do you put in your fridge?
+I put food in my fridge.
+Do you like it when your fridge is full of tasty food?
+Yes, I like it when my fridge is full of tasty food.
+Do you like it when your fridge is full of tasty food?
+Do you like it when your fridge is full of gross food?
+No, I don't like it when my fridge is full of gross food.
+Do you like it when your fridge is full of gross food?
+When your fridge is empty, do you go grocery shopping?
+Yes, when my fridge is empty, I go grocery shopping.
+What do you do when your fridge is empty?
+When my fridge is empty, I go grocery shopping.
+Can you go grocery shopping when you don't have any money?
+No, I can't go grocery shopping when I don't have any money.
+Can poor people go to the restaurant every day?
+No, poor people can't go to the restaurant every day.
+She drinks 3 cups of coffee in the morning.
+Question: How...?
+How many cups of coffee does she drink in the morning?
+Lily thinks this restaurant is awesome.
+Question: Who...?
+Lily thinks this restaurant is awesome.
+Lily is Josh's girlfriend.
+Question: Whose...?
+Whose girlfriend is Lily?
+She is thanking Josh.
+Question: Who...?
+Who is she thanking?
+She is thanking him for dinner
+Question: What...?
+What is she thanking him for?
+When people say "thank you", I answer "you're welcome"
+Question: What...?
+What do you answer when people say "thank you"?
+He goes to that restaurant from time to time.
+Question: How often...?
+How often does he go to that restaurant?
+"From time to time" means "sometimes"
+Question: What...?
+What does "from time to time" mean?
+He likes to eat in that restaurant from time to time
+Question: How often...?
+How often does he like to eat in that restaurant?
+Josh can eat in that restaurant from time to time because the food is cheap enough
+Question: Why...?
+Why can Josh eat in that restaurant from time to time?
+He wants to take her to the Italian place next time.
+Question: Where...?
+Where does he want to take her next time?
+Josh wants to take his girlfriend Lily to the Italian restaurant next time Question: Who...?
+Who does Josh want to take to the Italian restaurant next time?
+It's a terrible weather to go for a walk without an umbrella because it's raining.
+Question: Why...?
+Why is it a terrible weather to go for a walk without an umbrella?
+The weather is driving her crazy lately.
+Question: What...?
+What is driving her crazy lately?
+He thinks Lily is right about the weather
+Question: What...?
+What does he think Lily is right about?
+When the weather is unpredictable, it means you can't predict it
+Question: What...?
+what does it mean when the weather is unpredictable?
+Lily can't predict the weather because it's unpredictable
+Question: Why...?
+Why can't Lily predict the weather?
+This weather is driving Lily crazy.
+Question: Who...?
+Who is this weather driving crazy?
+She thinks Josh has their umbrellas
+Question: What...?
+what does she think Josh has?
+They need their umbrellas because it's raining.
+Question:Why...?
+Why do they need their umbrellas?
+Lily thinks Josh has their umbrellas
+Question: Who...?
+Who thinks Josh has their umbrellas?
+Josh has only one umbrella.
+Question: How many...?
+How many umbrellas does Josh have?
+He has his umbrella.
+Question: Whose...?
+Whose umbrella does he have?
+She is getting all wet because it's raining, and she doesn't have her umbrella.
+Question: Why...?
+Why is she getting all wet?
+She wants Josh to give her his umbrella
+Question: What...?
+What does she want Josh to give her?
+----‐------------------------------------------------------

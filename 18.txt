@@ -1,0 +1,418 @@
+Do you eat junk food at the movie theatre?
+Yes, I eat junk food at the movie theatre.
+Do you eat healthy food at the movie theatre?
+No, I don't eat healthy food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+What food do you eat at the movie theatre?
+I eat junk food at the movie theatre.
+Do you go to the movie theatre to watch movies or to eat junk food?
+I go to the movie theatre to watch movies.
+Do you go to the movie theatre to watch movies or to eat junk?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+I go to the movie theatre to watch movies.
+Why do you go to the movie theatre?
+Do you eat your junk food before the movie?
+No, I don't eat my junk food before the movie.
+Do you eat your junk food after the movie?
+No, I don't eat my junk food after the movie.
+Do you eat your junk food during the movie?
+Yes, I eat my junk food during the movie
+When you go to the movie theatre? when do you eat your junk food?
+When I go to the movie theatre I eat my junk food during the movie.
+When you go to the movie theatre? when do you eat your junk food?
+Do you get up at 2 AM every day.
+No, I don't get up at 2 AM everyday.
+Do you get up at 6 AM every day?
+Yes, I get up at 6 AM every day.
+What time do you get up everyday?
+I get up at 6 AM everyday.
+What time do you get up every day?
+Do you sleep during the day?
+No, I don't sleep during the day.
+Do you sleep on the train?
+No, I don't sleep on the train.
+Do you usually have breakfast before you go to work?
+Yes, I usually have breakfast before I go to work.
+Do you usually have time to have breakfast before you go to work?
+Yes, I usually have time to have breakfast before I go to work.
+Do you have your breakfast before you get up?
+No, I don't have my breakfast before I get up.
+Do you have your breakfast after you get up?
+Yes, I have my breakfast after I get up.
+What time do you usually have your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What time do you usually have your breakfast?
+I usually have my breakfast at 6:30 in the morning.
+What do you usually eat for breakfast?
+I usually eat cereal for breakfast.
+What do you usually eat for breakfast?
+How do you like your cereal with milk or without it?
+I like my cereal with milk.
+Is cereal good for you in the morning?
+Yes, cereal is good for me in the morning.
+Why do you eat cereal in the morning?
+I eat cereal in the morning because it's good for me.
+Do you usually have dinner before work or after work?
+I usually have dinner after work.
+What do you usually eat for dinner?
+I usually eat a salad for dinner.
+Is a salad healthy food?
+Yes, a salad is healthy food.
+Is a salad junk food?
+No, a salad isn't junk food.
+Light salad is good for you.
+It's not junk.
+It's healthy.
+But too much of it of course.
+Do you always get up happy in the morning?
+No, I don't always get up happy in the morning.
+Is it rush hour now?
+Yes, it is rush hour now.
+What time is it?
+It is 8 o'clock in the morning.
+Do you often take a train during rush hour?
+Yes, I often take a train during rush hour.
+Do you like to take a train during rush hour?
+No, I don't like to take a train during rush hour.
+Do you like to take a train during rush hour?
+No, I don't like to take a train during rush hour.
+Is this train empty of people?
+No, This train isn't empty of people.
+Are there a few people on this train?
+No, there aren't a few people on this train.
+Are there a lot of people on this train?
+Yes, there are a lot of people on this train.
+Are there a lot of people on this train?
+Is this train full of people?
+Yes, this train is full of people.
+How many people are there on this train?
+There are a lot of people on this train.
+How many people are there on this train?
+How many people are there on this train?
+There are a lot of people on this train.
+Are you happy to be on this train now?
+No, I'm not happy to be on this time now.
+Why not ?
+Because there are a lot of people here.
+Why aren't you happy to be on this train now?
+I'm not happy to be on this train now because there are a lot of people here.
+Why aren't you happy to be on this train now?
+I'm not happy to be on this train now because there are a lot of people here.
+Is rush hour the time when many people go to work or home?
+Yes, rush hour is the time when many people go to work or home.
+What is rush hour?
+Rush hour is the time when many people go to work or home.
+Do you usually go to work during rush hour?
+Yes, I usually go to work during rush hour.
+What time do you usually go to work
+I usually go to work at 8 AM?
+What time do you usually go to work
+Do you live in the street?
+No, I don't live in the street.
+Do you want to live in the street?
+No, I don't want to live in the street.
+Do you have a home?
+Yes, I have a home.
+Do you live in the street?
+No, I don't live in the street.
+Why not?
+Because I have a home.
+Why don't you live in the street?
+I don't live in the street because I have a home.
+Do you like to live at your home?
+Yes, I like to live at my home.
+Do you have a bed in your home?
+Yes, I have a bed in my room.
+Do you sleep on the floor?
+No, I don't sleep on the floor.
+Why not?
+Because I have a bed.
+Why don't you sleep on the floor?
+I don't sleep on the floor because I have a bed.
+Why don't you sleep on the floor?
+Do you usually go to bed early?
+No, I don't usually go to bed early.
+Do you usually go to bed late?
+Yes, I usually go to bed late.
+What time do you usually go to bed?
+I usually go to bed at 12 o'clock midnight.
+What time do you usually go to bed?
+What time do you usually get up in the morning?
+I usually get up at 6 o'clock in the morning.
+Are you sometimes late for work?
+Yes, I'm sometimes late for work.
+Do you like to be late for work?
+No, I don't like to be late for work.
+Are you happy when you are late for work?
+No, I'm not happy when I'm late for work.
+Are you happy when you are late for work?
+Do you usually have light dinner or heavy dinner?
+I usually have light dinner.
+Is it healthy to eat a lot of heavy food before you go to sleep?
+No, it's not healthy to eat a lot of heavy food Before I go to sleep.
+Is it very bad for you to eat a lot of heavy food before you go to sleep?
+Yes, it's very bad for me to eat a lot of heavy food Before I go to Sleep.
+Is there a little sugar in soda?
+No, there isn't a little sugar in soda.
+Is there a lot of sugar in soda?
+Yes, There is a lot of sugar in soda.
+How much sugar is there in soda?
+There is a lot of sugar in soda?
+How much sugar is there in soda?
+Why is it bad for you to drink a lot of soda?
+It's bad for me to drink a lot of soda because there is a lot of sugar in it.
+Why is it bad for you to drink a lot of soda?
+It's bad for me to drink a lot of soda because there is a lot of sugar in it.
+Is there a little salt in French fries?
+No, there isn't a little salt in French fries.
+Is there a lot of salt in French fries?
+Yes, there is a lot of salt in French fries.
+How much salt is there in French fries?
+There is a lot of salt in French fries. Why is it bad for you to eat a lot of French fries?
+It's bad for me to eat a lot of French fries because there is a lot of salt in them.
+Why is it bad for you to eat a lot of French fries?
+It's bad for me to eat a lot of French fries because there is a lot of salt in them.
+Do you eat cereal for breakfast lunch and dinner?
+I don't eat cereal for breakfast lunch and dinner.
+Is it good for you to eat cereal for Breakfast, lunch and dinner?
+No, it's not good for me to eat cereal for breakfast lunch dinner.
+Do you sleep in the kitchen?
+No, I don't sleep in the kitchen.
+Are there any beds in your kitchen?
+No, there aren't any beds in my kitchen.
+Do you sleep in the living room?
+No, I don't sleep in the living room.
+Do you have a living room?
+Yes, I have a living room.
+Do you have a bathroom?
+Yes, I have a bathroom.
+How many bathrooms do you have?
+I have one bathroom.
+How many bathrooms do you have?
+Do you sleep in the bathroom?
+No, I don't sleep in the bathroom.
+Do you want to sleep in the bathroom?
+No, I don't want to sleep in the bathroom.
+Are there any beds in your bathroom?
+No, there aren't any beds in my bathroom.
+Do you sleep in your bedroom?
+Yes, I sleep in my bedroom.
+Do you sleep on the floor or in your bed.
+I sleep in my bed.
+How many beds are there in your bedroom?
+There is one bed in my bedroom.
+How many beds are there in your bedroom?
+Is it hot here now?
+No, it's not hot here now.
+Is it warm here now?
+No, it's not warm here now.
+Is it cool here now?
+No, it's not cool here now.
+Is it cold here now?
+Yes it's cold here now.
+Do you like it when it's cold?
+No, I don't like it when it's cold.
+Do you like it when it's very hot?
+No, I don't like it when it's very hot.
+Do you like to sleep in your fridge when it's very hot?
+No, I don't like to sleep in my fridge when it's very hot.
+Fridge is not a good idea.
+Nothing is better than your comfy bed.
+Is it hot in your fridge?
+No. it's not hot in my fridge.
+Is it cold in your fridge?
+Yes, it's cold in my fridge.
+Do you have a stomach?
+Yes, I have a stomach.
+How many stomachs do you have
+I have one stomach?
+Is your stomach full now?
+No, my stomach isn't full now.
+Is your stomach empty now?
+Yes, my stomach is empty now.
+Is there room for a pizza in your stomach now?
+Yes, there is room for a pizza in my
+Stomach now.
+Is there room for 10 big hamburgers in your stomach now?
+No, there isn't room for 10 big hamburgers in my stomach now.
+Is there too little room for 10 hamburgers in your stomach now?
+Yes, there is too little room for 10 hamburgers in my stomach now.
+Are there any grocery stores on the street where you live?
+Yes, There are some grocery stores on the street where I alive.
+Do you often go grocery shopping
+No, I don't often go grocery shopping.
+Do you go grocery shopping everyday?
+No, I don't go grocery shopping every day.
+Do grocery stores usually work at night?
+No, grocery stores don't usually work at night.
+Do grocery stores only work during the day?
+Yes, Grocery stores only work during the day.
+When do grocery stores usually work?
+Grocery stores usually work during the day.
+When do grocery stores usually work?
+Why don't you go grocery shopping at night?
+I don't go grocery shopping at night because grocery stores don't work at night.
+Why don't you go grocery shopping at night?
+Why don't you go grocery shopping at night?
+I don't go grocery shopping at night because grocery stores don't work at night.
+Are you hungry now?
+Yes I'm hungry now.
+Is there room for food in your stomach now?
+Yes, there is room for food in my stomach now.
+When you are hungry, does it mean you want to eat?
+Yes, when I'm hungry, it means I want to eat.
+When you are hungry, does it mean you want to drink?
+No, when I'm hungry it doesn't mean I want to drink.
+When you are hungry does it mean you want to sleep?
+No, when I'm hungry, it doesn't mean I want to sleep.
+What does it mean when you are hungry?
+When I'm hungry, it means I want to eat.
+What does it mean when you are hungry?
+When I'm hungry, it means I want to eat.
+Do you usually drink a cup of coffee after you come to work?
+Yes, I usually drink a cup of coffee after I come to work.
+What do you usually drink after you come to work?
+I usually drink a cup of coffee after I come to work.
+How many cups of coffee do you drink after you come to work in the morning?
+I drink one cup of coffee after I come to work in the morning.
+How many cups of coffee do you drink after you come to work in the morning?
+Do you like your coffee with milk or without milk?
+I like my coffee with milk.
+Do you put any sugar in your coffee?
+Yes, I put some sugar in my coffee.
+How do you like your coffee?
+I like my coffee with milk and sugar.
+How do you like your coffee?
+Do you think coffee without milk and sugar is tasty?
+No, I think coffee without milk and sugar isn't tasty.
+Do you think coffee without milk and sugar is gross?
+Yes, I think coffee without milk and sugar is gross.
+Does coffee taste good to you with or without milk?
+Coffee tastes good to me with milk.
+How does coffee taste without milk?
+Coffee tests bad without milk.
+Are you thirsty now?
+Yes I'm thirsty now.
+When you are thirsty, does it mean you want to drink some water?
+Yes, when I'm thirsty, it means I want to drink some water.
+When you are thirsty, does it mean you want to eat some food?
+No ,when I'm thirsty, it doesn't mean I want to eat some food.
+When you are thirsty, does it mean you want to watch a movie?
+No, when I'm thirsty, it doesn't mean I want to watch a movie.
+What does it mean when you are thirsty?
+When I'm thirsty, it means I want to drink some water.
+What does it mean when you are thirsty?
+Do you like French fries.
+Yes, I like French fries.
+Is there usually a lot of salt in French fries?
+Yes, there is usually a lot of salt in French fries.
+Do French fries taste good without salt?
+No, French fries don't taste good without salt.
+How do French fries taste without salt.?
+French fries taste bad without salt.
+How do French fries taste without salt?
+Unfortunately.
+with so much salt.
+It's really bad junk food.
+Are French fries junk food, or healthy food?
+French fries are junk food?
+Do you often eat junk food at the movie theatre?
+Yes, I often eat junk food at the movie theatre.
+Do you drink soda with it?
+Yes, I drink soda with it.
+What do you usually drink with your junk food at the movie theatre.?
+I usually drink soda with my junk food at the movie theatre.
+Does junk food usually taste good, or bad?
+Junk food usually tastes good.
+How does junk food usually tastes?
+Junk food usually tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+Why do many people eat junk food?
+Many people eat junk food because it tastes good.
+It's a very bad habit.
+And a very difficult one to quit.
+I have one phone.
+Question: How...?
+How many phones do you have?
+I go to work in the morning.
+Question: When...?
+When do you go to work?
+I work at an office
+Question:Where...?
+Where do you work?
+I go to work at 8 o'clock in the morning
+Question: What time...?
+What time do you go to work
+I usually drink coffee in the morning.
+Question: what...?
+What do you usually drink in the morning?
+I like my coffee hot
+Question: How...?
+How do you like your coffee.
+I usually eat hamburgers and French fries at a restaurant
+Question: Where...?
+Where do you usually eat hamburgers and French fries?
+I usually drink one cup of coffee when I get up in the morning
+Question: How...?
+How many cups of coffee do you usually drink when you get up in the morning?
+I don't drink a lot of coffee because it's bad for me
+Question: Why...?
+Why don't you drink a lot of coffee?
+I take a train to work
+Question: How...?
+How do you go to work?
+They put salt in French fries
+Question: What...?
+What do they put in French fries?
+They put a lot of salt in French fries
+Question: How much...?
+How much salt do they put in French fries?
+I usually have my breakfast at 6:30 in the morning
+Question: What time...?
+What time do you usually have your breakfast?
+It is 8 o'clock in the morning
+Question: What time...?
+What time is it?
+There are a lot of people on this train
+Question: How...?
+How many people are there on this train?
+I'm not happy to be on this train now because there are a lot of people here?
+Question: Why...?
+Why aren't you happy to be on this train now?
+I don't live in this street because I have a home
+Question: Why?
+Why don't you live in the street?
+I usually go to bed at 12 o'clock noon
+Question: What time...?
+What time do you usually go to bed?
+There is a lot of sugar in soda
+Question: How much...?
+How much sugar is there in soda?
+I have one fridge.
+Question: How...?
+How many fridges do you have?
+Grocery stores only work during the day
+Question: When...?
+When do grocery stores only work?
+I don't go grocery shopping at night because grocery stores don't work at night
+Question: Why...?
+Why don't you go grocery shopping at night?
+When I'm hungry, it means I want to eat
+Question: What...?
+What does it mean when you are hungry?
+When I'm hungry, I eat
+Question: What...?
+What do you do when you are hungry?
+There is a lot of food at this grocery store
+Question: How much...?
+How much food is there at this grocery store
+I usually come to work at 9 o'clock in the morning
+Question: What time...?
+What time do you usually come to work in the morning?
+When I'm thirsty, it means I want to drink some water.
+Question: What...?
+What does it mean when you are thirsty?
+----‐------------------------------------------------------

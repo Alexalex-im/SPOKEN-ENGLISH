@@ -1,0 +1,122 @@
+This
+This is a woman.
+This is a cabinet.
+Is this
+Is this a chair?
+Is this a woman?
+Is this a cabinet?
+Is this a phone?
+Yes,this is a phone.
+A phone.
+A table.
+A laptop.
+A man.
+A woman.
+A cabinet.
+Yes.
+this.
+a phone.
+a table.
+a laptop.
+a man.
+a woman.
+a cabinet.
+yes.
+Is this a phone?
+Yes,this is a phone.
+Is this a table?
+Yes,this is a table.
+Is this a laptop?
+Yes,this is a laptop.
+Is this a man?
+Yes,this is a man.
+Is this a woman?
+Yes,this is a woman.
+Is this a cabinet?
+Yes,this is a cabinet.
+A teacher.
+A student.
+A floor.
+A ceiling.
+A wall.
+A teacher.
+A student.
+A floor.
+A ceiling.
+A wall.
+Is this a teacher?
+Yes, this is a teacher.
+Is this a student?
+Yes, this is a student.
+Is this a floor?
+Yes, this is a floor.
+Is this a ceiling?
+Yes, this is a ceiling.
+Is this a wall?
+Yes, this is a wall.
+This is a man.
+This is a laptop.
+This is a cabinet.
+The laptop.
+The laptop is on the table.
+The man is on the chair.
+The woman is on the cabinet.
+The table is on the floor.
+This is a man.
+The man is on the chair.
+Is the man on the chair?
+Is the man on the chair?
+The laptop is on the table?
+The table is on the floor.
+Is the table on the floor?
+The woman is on the cabinet.
+Is the woman on the cabinet?
+Where is the man?
+Where is the table?
+Where is the chair?
+Where is the laptop?
+Where
+Who
+What
+On
+The
+A chair
+Where
+Who
+What
+On
+The
+A chair.
+Is the man on the chair?
+Yes, the man is on the chair.
+Is the table on the floor?
+Yes, the table is on the floor.
+Is the woman on the cabinet?
+Yes, the woman is on the cabinet.
+Is the laptop on the table?
+Yes, the laptop is on the table.
+Where is the man?
+The man is on the chair.
+Where is the woman?
+The woman is on the cabinet.
+Where is the laptop?
+The laptop is on the table.
+Where is the cabinet?
+The cabinet Is on the floor.
+Where is the table?
+The table is on the floor?
+Who is on the chair?
+The man is on the chair.
+Who is on the chair?
+Who is on the cabinet?
+The woman ison the cabinet.
+What is on the table?
+The laptop is on the table.
+What is this?
+This is a table.
+The table Is on the floor.
+What is this?
+This is a cabinet.
+Where is the cabinet?
+The cabinet on the floor.
+----------------------------‐------------------------------

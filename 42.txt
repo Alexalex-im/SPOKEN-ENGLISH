@@ -1,0 +1,612 @@
+Does your boss make you work 24/7?
+No, my boss doesn't make me work 24/7.
+Can anyone make you work 24/7?
+No, no one can make me work 24/7
+You can't work 24/7.
+Unless you are a terminator.
+If your boss offers you 1 million dollars a month, do you want to work 24/7?
+No, if my boss offers me 1 million dollars a month, I don't want to work 24/7.
+Do you work at a small company?
+No, I don't work at a small company.
+Do you work at a big company?
+Yes, I work at a big company.
+Do you know exactly how many people work at this company?
+No, I don't know exactly how many people work at this company.
+Do you work alone?
+No, I don't work alone.
+Do you have any colleagues?
+Yes, I have some colleagues.
+Do you know exactly how many colleagues you have?
+No, I don't know exactly how many colleagues I have.
+Why not?
+Because this is a big company.
+How many colleagues do you have?
+I have about 300 colleagues.
+Do you know all your colleagues?
+No, I don't know all my colleagues.
+Do you know some of your colleagues?
+Yes, I know some of my colleagues.
+Do you like all your colleagues?
+No, I don't like all my colleagues.
+Do you think everybody likes you here?
+No, I don't think everybody likes me here.
+Is it pleasant to get bad grades when you study hard?
+No, It's not pleasant to get bad grades when you study hard.
+Is it unpleasant to get bad grades when you study hard?
+Yes, it's unpleasant to get bad grades when you study hard.
+How does it feel to get bad grades when you study hard?
+It's unpleasant to get bad grades when you study hard.
+How does it feel to get bad grades when you study hard?
+How does it feel to get bad grades when you study hard?
+It's unpleasant to get bad grades when you study hard.
+Do you have to hang out with your friends a lot if you want to get good grades?
+No, I don't have to hang out with my friends a lot if I want to get good grades.
+Do you have to study hard instead of hanging out with your friends if you want to get good grades?
+Yes, I have to study hard instead of hanging out with my friends if I want to get good grades.
+What do you have to do instead of hanging out with your friends if you want to get good grades?
+I have to study hard instead of hanging out with my friends if I want to get good grades.
+What do you have to do instead of hanging out with your friends if you want to get good grades?
+What do you have to do instead of hanging out with your friends if you want to get good grades?
+I have to study hard instead of hanging out with my friends if I want to get good grades.
+Bad grades mean no college degree
+and all your job opportunities go bye-bye.
+Are you short?
+No, I'm not short.
+Are you tall?
+Yes, I'm tall.
+Do you play basketball?
+Yes, I sometimes play basketball.
+Do you enjoy playing basketball?
+Yes, I enjoy playing basketball.
+Do you enjoy playing basketball?
+Do you enjoy playing basketball when you're really tired?
+No, I don't enjoy playing basketball when I'm really tired.
+What do you want to do when you're really tired?
+I want to sleep when I'm really tired.
+What do you want to do when you're really tired?
+Do you enjoy playing basketball when you're really hungry?
+No, I don't enjoy playing basketball when I'm really hungry.
+What do you want to do when you're really hungry?
+I want to eat when I'm really hungry.
+What do you want to do when you're really hungry?
+Is it easy to play basketball if you're short?
+No, It's not easy to play basketball if you're short.
+Is it difficult to play basketball if you're short?
+Yes, It's difficult to play basketball if you're short.
+Do you like to play video games when you're tired and want to relax?
+Yes, I like to play video games when I'm tired and want to relax.
+Do you like to play sports games when you're tired and want to relax?
+No, I don't like to play sports games when I'm tired and want to relax.
+What kind of games do you like to play when you're tired and want to relax?
+I like to play video games when I'm tired and want to relax.
+What kind of games do you like to play when you're tired and want to relax?
+What kind of games do you like to play when you're tired and want to relax?
+I like to play video games when I'm tired and want to relax.
+Do you play soccer?
+Yes, I sometimes play soccer.
+Which do you like to play better, soccer or basketball?
+I like to play soccer better.
+Are both of these games team games?
+Yes, both of these games are team games.
+Do you prefer team games, or games where you play alone?
+I prefer team games.
+Do you prefer team games, or games where you play alone?
+What kind of games do you like better, those where you play alone, or in team?
+I like better those games where I play in team.
+Do you usually walk to work, or do you take the Subway?
+I usually take the Subway to work.
+How do you usually get to work?
+I usually take the Subway to work.
+How do you usually get to work?
+Does it take you 1 hour to get to work in the morning?
+No, it doesn't take me 1 hour to get to work in the morning.
+Does it take you only 5 minutes to get to work in the morning?
+No, it doesn't take me only 5 minutes to get to work in the morning.
+How long does it take you to get to work in the morning?
+It takes me 30 minutes to get to work in the morning.
+How long does it take you to get to work in the morning?
+Do people often get stuck in traffic when they drive during rush hour?
+Yes, people often get stuck in traffic when they drive during rush hour.
+Where do people often get stuck when they drive during rush hour?
+People often get stuck in traffic when they drive during rush hour.
+Do you enjoy getting stuck in traffic?
+No, I don't enjoy getting stuck in traffic.
+Do you hate getting stuck in traffic?
+Yes, I hate getting stuck in traffic.
+If you're stuck in traffic for too long, can you be late for work?
+Yes, if I'm stuck in traffic for too long I can be late for work.
+Is it very important for you to be at work at 9?
+Yes, it's very important for me to be at work at 9.
+Why?
+Because my work day starts at 9.
+Why is it very important for you to be at work at 9?
+It's very important for me to be at work at 9 because my work day starts at 9.
+Does your boss like it when you're late for work?
+No, my boss doesn't like it when I'm late for work.
+Can your boss fire you if you get late for work too often?
+Yes, my boss can fire me if I get late for work too often.
+Do you want your boss to fire you?
+No, I don't want my boss to fire me.
+What can your boss do to you if you get late for work too often?
+My boss can fire me if I get late for Work too often.
+Do you have to pay your bills every month?
+Yes, I have to pay my bills every month.
+Do you enjoy paying your bills?
+No, I don't enjoy paying my bills.
+Do you have to pay your rent every month too?
+Yes, I have to pay my rent every month too.
+Can you live in your apartment if you stop paying your rent?
+No, I can't live in my apartment if I stop paying my rent.
+Do they kick you out of your apartment if you stop paying your rent?
+Yes, they kick me out of my apartment if I stop paying my rent.
+What do they do if you stop paying your rent?
+They kick me out of my apartment if I stop paying my rent.
+Is it pleasant when they kick you out of your apartment?
+No, it's not pleasant when they kick me out of my apartment.
+Is it unpleasant when they kick you out of your apartment?
+Yes, it's unpleasant when they kick me out of my apartment.
+Why is it important to pay your rent every month?
+It's important to pay my rent every month because they can kick me out if I don't.
+Why is it important to pay your rent every month?
+It's important to pay my rent every month because they can kick me out if I don't.
+Are you taking the Subway?
+No, I'm not taking the subway.
+Do you enjoy taking the Subway during rush hour?
+No, I don't enjoy taking the Subway during rush hour.
+Why not?
+Because there are too many peoples on the Subway during rush hour.
+Why don't you enjoy taking the Subway during rush hour?
+I don't enjoy taking the Subway during rush hour because there are too many people.
+Are you driving a car?
+Yes, I'm driving a car.
+Are you driving to the movie theatre?
+No, I'm not driving to the movie theatre.
+Are you driving to the school library?
+Yes, I'm driving to the school library.
+Where are you driving?
+I'm driving to the school library.
+Do you have a paper to write?
+Yes, I have a paper to write.
+Why are you going to the school library?
+I'm going to the school library because I have a paper to write.
+Are you 12 years old?
+No, I'm not 12 years old.
+Are you 39 years old?
+No, I'm not 39 years old.
+How old are you?
+I'm 20 years old.
+How old are you?
+Are you a child?
+No, I'm not a child.
+Are you an adult?
+Yes, I'm an adult.
+Are you under 18?
+No, I'm not under 18.
+Are you over 18?
+Yes, I'm over 18.
+Can you drive a car if you are under 18?
+No, I can't drive a car if I'm under 18.
+Can you drive a car if you are over 18?
+Yes, I can drive a car if I'm over 18.
+How old do you have to be if you want to drive a car?
+If I want to drive a car, I have to be over 18.
+How old do you have to be if you want to drive a car?
+How old do you have to be if you want to drive a car?
+If I want to drive a car, I have to be over 18.
+Do you want to be a child?
+No, I don't want to be a child.
+Are you lying or are you sitting?
+I'm sitting.
+Are you sitting on the floor?
+No, I'm not sitting on the floor.
+Are you sitting on the couch?
+No, I'm not sitting on the couch.
+Are you sitting in the seat?
+Yes, I'm sitting in the seat.
+Where are you sitting?
+I'm sitting in the seat.
+Is this seat comfortable for you?
+Yes, this seat is comfortable for me.
+Do you like to drive cars with very uncomfortable seats?
+No, I don't like to drive cars with very uncomfortable seats.
+Does your car have a trunk?
+Yes, my car has a trunk.
+How many trunks does your car have?
+My car has one trunk.
+Is it too small for you?
+No, it's not too small for me.
+Is your car trunk big enough for you?
+Yes, my car trunk is big enough for me.
+Do you like to sleep in the trunk?
+No, I don't like to sleep in the trunk.
+Is it comfortable for you to sleep in the trunk?
+No, it's not comfortable for me to sleep in the trunk.
+Is it uncomfortable for you to sleep in the trunk?
+Yes, it's uncomfortable for me to sleep in the trunk.
+Why don't you like to sleep in the trunk?
+I don't like to sleep in the trunk because it's not comfortable to sleep there.
+Why don't you like to sleep in the trunk?
+Why don't you like to sleep in the trunk?
+I don't like to sleep in the trunk because it's not comfortable to sleep there.
+Are you wearing a seat belt?
+Yes, I'm wearing a seat belt.
+Do you always wear a seat belt when you drive a car?
+Yes, I always wear a seat belt when I drive a car.
+Do you always have to wear a seat belt when you drive a car?
+Yes, I always have to wear a seat belt when I drive a car.
+What do you always have to wear when you drive a car?
+I always have to wear a seat belt when I drive a car.
+What do you always have to wear when you drive a car?
+Do most people wear a seat belt when they drive a car?
+Yes, most people wear a seat belt when they drive a car.
+What do most people wear when they drive a car?
+Most people wear a seat belt when they drive a car.
+What do most people wear when they drive a car?
+Are you sitting in a child seat?
+No, I'm not sitting in a child seat.
+Why not?
+Because I'm not a child.
+Why aren't you sitting in a child seat?
+I'm not sitting in a child seat because I'm not a child.
+Who has to sit in a child seat?
+Children have to sit in a child seat.
+Who has to sit in a child seat?
+Who has to sit in a child seat?
+Children have to sit in a child seat.
+Are you wearing clothes?
+Yes, I'm wearing clothes.
+Do you like the clothes you're wearing?
+Yes, I like the clothes I'm wearing.
+Do you always wear clothes when you go to work?
+Yes, I always wear clothes when I go to work.
+Are your clothes comfortable for you?
+Yes, my clothes are comfortable for me.
+Are you wearing glasses?
+No, I'm not wearing glasses.
+Can you see well without glasses?
+Yes, I can see well without glasses.
+If you can't see well, do you have to wear glasses?
+Yes, if I can't see well, I have to wear glasses.
+What do you have to wear if you can't see well?
+If I can't see well, I have to wear glasses.
+What do you have to wear if you can't see well?
+What do you have to wear if you can't see well?
+If I can't see well, I have to wear glasses.
+Am I wearing glasses?
+Yes, you are wearing glasses
+Why?
+Because you can't see well without them.
+Why am I wearing glasses?
+You are wearing glasses because you can't see well without them.
+Do you usually have a lot of work to do Monday to Friday?
+Yes, I usually have a lot of work to do Monday to Friday.
+Do you often go to the restaurant?
+No, I don't often go to the restaurant.
+Do you have to earn a lot of money if you want to eat in a restaurant everyday?
+Yes, I have to earn a lot of money if I want to eat in a restaurant everyday.
+Does this restaurant have a waiter?
+Yes, this restaurant has a waiter.
+Does a waiter bring you food and drinks?
+Yes, a waiter brings me food and drinks.
+Who brings you food and drinks at the restaurant?
+A waiter brings me food and drinks at the restaurant.
+Who brings you food and drinks at the restaurant?
+Do you have to pay the bill after you eat your food?
+Yes, I have to pay the bill after I eat my food.
+What do you have to pay at the restaurant after you eat your food?
+I have to pay my bill at the restaurant after I eat my food.
+Can you leave the restaurant without paying your bill?
+No, I can't leave the restaurant without paying my bill.
+Do you always tip your waiter when you pay your bill?
+Yes, I always tip my waiter when I pay my bill.
+Do you tip the waiter if you don't like the food?
+Yes, I tip the waiter if I don't like the food.
+Does it make the waiter feel good if you don't tip him?
+No, it doesn't make the waiter feel good if I don't tip him.
+Does it make the waiter feel bad if you don't tip him?
+Yes, it makes the waiter feel bad if I don't tip him.
+How does it make the waiter feel if you don't tip him?
+It makes the waiter feel bad if I don't tip him.
+Does it usually take you 5 minutes to eat your lunch?
+No, it doesn't usually take me 5 minutes to eat my lunch.
+Does it usually take you 1 hour to eat your lunch?
+No, it doesn't usually take me 1 hour to eat my lunch.
+Does it usually take you about 20 minutes to eat your lunch?
+Yes, it usually takes me about 20 minutes to eat my lunch.
+How long does it usually take you to eat your lunch?
+It usually takes me about 20 minutes to eat my lunch .
+How long does it usually take you to eat your lunch ?
+Are the chairs in this restaurant comfortable?
+No, the chairs in this restaurant aren't comfortable.
+Are the chairs in this restaurant uncomfortable?
+Yes, the chairs in this restaurant are uncomfortable.
+Why are you standing on the table?
+I'm standing on the table because these chairs are uncomfortable.
+Why are you standing on the table?
+I'm standing on the table because these chairs are uncomfortable.
+Do you like to lie on the couch and do nothing on weekends?
+Yes, I like to lie on the couch and do nothing on weekends.
+Do you like to work hard on weekends?
+No, I don't like to work hard on weekends.
+What do you like to do on weekends?
+I like to lie on the couch and do nothing on weekends.
+Can you earn a lot of money by lying on the couch and doing nothing?
+No, I can't earn a lot of money by lying on the couch and doing nothing.
+Can you only make a lot of money by working hard?
+Yes, I can only make a lot of money by working hard.
+How can you make a lot of money?
+I can make a lot of money by working hard.
+How can you make a lot of money?
+I can make a lot of money by working hard.
+And smart.
+Don't just work hard.
+Work smart.
+Be creative.
+Generate business ideas.
+That's the way to earn money.
+And it only comes from hard work.
+To fall
+A dollar bill
+To drop
+To drop a dollar bill
+Glass
+To break
+To look
+Look at me!
+I'm looking at you!
+Sunglasses
+To pick something up
+I want to pick up that dollar bill
+To put on your clothes
+To take off your clothes
+Messy
+To get messy
+A ticket
+To fit
+Sunny
+In a sunny weather
+Else
+What else?
+Something else
+Nothing else
+There is nowhere else to go.
+Is this floor dry?
+No, this floor isn't dry.
+Is this floor wet?
+Yes, this flour is wet.
+Can you fall if you walk on the wet floor with your eyes closed?
+Yes, I can fall if I walk on the wet floor with my eyes closed.
+Can you fall if you walk on the wet floor with your eyes closed?
+Is it pleasant to fall on the wet floor?
+No, it's not pleasant to fall on the wet floor.
+Is it unpleasant to fall on the wet floor?
+Yes, it's unpleasant to fall on the wet floor.
+Is it Sunny now?
+No, it's not Sunny now.
+Are you wearing sunglasses?
+No, I'm not wearing sunglasses.
+Why not?
+Because it's not Sunny now.
+Why aren't you wearing sunglasses?
+I'm not wearing sunglasses because it's not Sunny now.
+How's the weather now?
+It's raining now.
+How's the weather now?
+How's the weather now?
+It's raining now.
+Are you holding anything in your hand?
+Yes, I'm holding something in my hand.
+What are you holding in your hand?
+I'm holding an umbrella in my hand.
+Why?
+Because it's raining.
+Why are you holding an umbrella in Your hand?
+I'm holding an umbrella in my hand because it's raining.
+Are you holding anything else in your hand?
+No, I'm not holding anything else in my hand.
+What else are you holding in your hand?
+I'm holding nothing else in my hand.
+Do you need to wear sunglasses when it's raining hard?
+No, I don't need to wear sunglasses when it's raining hard .
+Of course not.
+You're not Neo.
+And we're not in the Matrix.
+Do you need to wear sunglasses in a Sunny weather?
+Yes, I need to wear sunglasses in a Sunny weather.
+What do you need to wear in a Sunny weather?
+I need to wear sunglasses in a Sunny weather.
+What do you need to wear in a Sunny weather?
+Is it good for your eyes to wear sunglasses in a Sunny weather?
+Yes, it's good for my eyes to wear sunglasses in a Sunny weather.
+Is it bad for your eyes to wear sunglasses in a Sunny weather?
+No, it's not bad for my eyes to wear sunglasses in a Sunny weather.
+Do you put on your sunglasses when you go to sleep?
+No, I don't put on my sunglasses when I go to sleep.
+Why would you do that, indeed...
+Is it comfortable to sleep wearing sunglasses?
+No, it's not comfortable to sleep wearing sunglasses.
+Why don't you put on your sunglasses when you go to sleep?
+I don't put on my sunglasses when I go to sleep because it's not comfortable to sleep wearing sunglasses.
+Why don't you put on your sunglasses when you go to sleep?
+Why don't you put on your sunglasses when you go to sleep?
+I don't put on my sunglasses when I go to sleep because it's not comfortable to sleep wearing sunglasses.
+Do you always put on your clothes before you leave home?
+Yes, I always put on my clothes before I leave home.
+Do you take off your clothes before you leave home?
+No, I don't take off my clothes before I leave home.
+What do you do with your clothes before you leave home?
+I put on my clothes before I leave home.
+If it's raining and you don't have your umbrella with you, do you get wet?
+Yes, if it's raining and I don't have my umbrella with me, I get wet.
+Is it comfortable for you to wear wet clothes?
+No, it's not comfortable for me to wear wet clothes.
+If you walk in the rain without an umbrella, does your hair get messy?
+Yes, if I walk in the rain without an umbrella, my hair gets messy.
+Do you like it when your hair gets messy?
+No, I don't like it when my hair gets messy.
+When your hair gets messy, do you have to groom it?
+Yes, when my hair gets messy, I have to groom it.
+What do you have to do with your hair when it get messy?
+I have to groom my hair when it gets messy.
+What do you have to do with your hair when it get messy?
+What do you have to do with your hair when it get messy?
+I have to groom my hair when it gets messy.
+Does your hair sometimes get messy 5 minutes after you groom it?
+Yes, my hair sometimes gets messy 5 minutes after I groom it.
+Do you like it when your hair gets messy 5 minutes after you groom it?
+No, I don't like it when my hair gets messy 5 minutes after I groom it.
+Does it drive you crazy when your hair gets messy 5 minutes after you groom it ?
+Yes, it drives me crazy when my hair gets messy 5 minutes after I groom it.
+Does it drive you crazy when your hair gets messy 5 minutes after you groom it?
+How does it make you feel when your hair gets messy 5 minutes after you groom it?
+It drives me crazy when my hair gets messy 5 minutes after I groom it.
+How does it make you feel when your hair gets messy 5 minutes after you groom it?
+How does it make you feel when your hair gets messy 5 minutes after you groom it?
+It drives me crazy when my hair gets messy 5 minutes after I groom it.
+Do you have some dollar bills in your pocket?
+Yes, I have some dollar bills in my pocket.
+Is it comfortable to walk with 1000 bills in your pocket?
+No, it's not comfortable to walk with 1000 bills in my pocket.
+Can 1000 dollar bills fit in your pocket?
+No, 1000 dollar bills can't fit in my pocket.
+If you see a dollar bill lying in the street, do you pick it up?
+Yes, if I see a dollar bill lying in the street I pick it up.
+What do you do if you see a dollar bill lying in the street?
+If I see a dollar bill lying in the street, I pick it up.
+If you drop a dollar bill in the street, do you pick it up?
+Yes, if I drop a dollar bill in the street, I pick it up.
+What do you do if you drop a dollar bill in the street?
+If I drop a dollar bill in the street, I pick it up.
+Can someone else pick up your dollar bill if you don't?
+Yes, someone else can pick up my dollar bill if I don't.
+What can someone else do if you drop your dollar bill in the street and don't pick it up?
+If I drop my dollar bill in the street and don't pick it up, someone else can pick it up.
+Does a dollar bill break if you drop it from the 3'd floor?
+No, a dollar bill doesn't break if I drop it from the 3'd floor.
+Does a dollar bill break if you drop it from the 10th floor?
+No, a dollar bill doesn't break if I drop it from the 10th floor.
+Do people wear glasses when they can't see well?
+Yes, people wear glasses when they can't see well.
+Do people wear sunglasses when they can't see well?
+No, people don't wear sunglasses when they can't see well.
+What do people wear when they can't see well?
+People wear glasses when they can't see well.
+Is it comfortable to wear broken glasses?
+No, It's not comfortable to wear broken glasses.
+Can you see well wearing broken glasses?
+No, I can't see well wearing broken glasses.
+Do you have a phone?
+Yes, I have a phone.
+How many phones do you have?
+I have one phone.
+Is it too big for you?
+No, it's not too big for me.
+Can your phone fit in your pocket?
+Yes, my phone can fit in my pocket.
+If your phone is too big to fit in your pocket, do you have to buy another phone?
+Yes, if my phone is too big to fit in my pocket, I have to buy another phone.
+Which wouldn't be a size of a snowboard.
+What do you have to do if your phone is too big to fit in your pocket?
+If my phone is too big to fit in my pocket, I have to buy another phone.
+Is the glass on your phone broken?
+No, the glass on my phone isn't broken.
+Do you like to use a phone with a broken glass?
+No, I don't like to use a phone with a broken glass.
+Do you hate to use a phone with a broken glass?
+Yes, I hate to use a phone with a broken glass.
+How do you feel about using a phone with a broken glass?
+I hate to use a phone with a broken glass.
+How do you feel about using a phone with a broken glass?
+How do you feel about using a phone with a broken glass?
+I hate to use a phone with a broken glass.
+Does a phone glass break if you drop it from the 3'd floor?
+Yes, a phone glass breaks if I drop it from the 3'd floor.
+Does a phone glass break if you drop it from the 10th floor?
+Yes, a phone glass breaks if I drop it from the 10th floor.
+Do you live in the street?
+No, I don't live in the street.
+Are there many homeless people living in this city?
+Yes, there are many homeless people living in this city.
+Are there many snakes living in this park?
+No, there aren't many snakes living in this park.
+If you see a snake, do you try to hit it.
+No, if I see a snake, I don't try to hit it.
+If you try to hit a snake, can it bite you?
+Yes, if I try to hit a snake, it can bite me.
+What can a snake do if you try to hit it?
+If I try to hit a snake, it can bite me.
+What can a snack do if you try to hit it?
+Is it Winter, or summer now?
+It's winter now.
+Is there any snow in the park now?
+Yes, there is some snow in the park now.
+Is there a little snow in the park now?
+No, there isn't a little snow in the park now.
+Is there a lot of snow in the park now?
+Yes, there is a lot of snow in the park now.
+Do you like to eat snow?
+No, I don't like to eat snow.
+Do you eat snow when you have nothing else to eat?
+No, I don't eat snow when I have nothing else to eat.
+Do small kids like to eat snow when their parents aren't looking at them?
+Yes, small kids like to eat snow when their parents aren't looking at them.
+What do small kids like to do in winter when their parents aren't looking at them?
+Small kids like to eat snow in winter when their parents aren't looking at them.
+Are you wearing sunglasses?
+No, I'm not wearing sunglasses.
+Are you wearing glasses?
+Yes, I'm wearing glasses.
+Why?
+Because I can't see well without them.
+Why are you wearing glasses?
+I'm wearing glasses because I can't see well without them.
+Are your glasses broken?
+No, my glasses aren't broken.
+Is it comfortable to wear broken glasses?
+No, it's not comfortable to wear broken glasses.
+Is it uncomfortable to wear broken glasses?
+Yes, it's uncomfortable to wear broken glasses.
+If you drop your glasses in the snow, do they break?
+No, if I drop my glasses in the snow, they don't break.
+Do you have to pay to walk in this park?
+No, I don't have to pay to walk in this park.
+Do you need to buy a ticket to walk in this park?
+No, I don't need to buy a ticket to walk in this park.
+Can you walk in this park for free?
+Yes, I can walk in this park for free.
+How much do you have to pay to walk in this park?
+I don't have to pay anything to walk in this park.
+How much do you have to pay to walk in this park?
+How much do you have to pay to walk in this park?
+I don't have to pay anything to walk in this park.
+Why not?
+Because it's free.
+It's free.
+You can walk in this park for free.
+Do you need to buy a ticket to watch a movie at a movie theatre?
+Yes, I need to buy a ticket to watch a movie at a movie theatre.
+What do you need to buy to watch a movie at a movie theatre?
+I need to buy a ticket to watch a movie at a movie theatre.
+What do you need to buy to watch a movie at a movie theatre?
+What do you need to buy to watch a movie at a movie theatre?
+I need to buy a ticket to watch a movie at a movie theatre.
+If you try to watch a movie without a ticket, can they kick you out?
+Yes, if I try to watch a movie without a ticket, they can kick me out.
+What can they do if you try to watch a movie without a ticket?
+If I try to watch a movie without a ticket, they can kick me out.
+If your clothes get wet in the rain, do you have to take them off to make them dry?
+Yes, if my clothes get wet in the rain, I have to take them off to make them dry.
+What do you have to do with your clothes, if they get wet in the rain?
+If my clothes get wet in the rain, I have to take them off to make them dry.
+What do you have to do with your clothes, if they get wet in the rain?
+What do you have to do with your clothes, if they get wet in the rain?
+If my clothes get wet in the rain, I have to take them off to make them dry.
+Do you know any winter sports game?
+Yes, I know some winter sports games.
+Do you like to play winter sports games?
+Yes, I like to play winter sports games.
+Do you sometimes like to play video games, too?
+Yes, I sometimes like to play video games, too.
+Which is better for you, to play video games or sports games?
+It's better for me to play sports games.
+----‐------------------------------------------------------

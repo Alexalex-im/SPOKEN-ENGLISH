@@ -1,0 +1,304 @@
+Is your name Sean?
+No, my name isnt Sean.
+Is Your name Tim?
+No, my name isn't Tim.
+Is your name Mike?
+No, my name isn't Mike.
+Is your name John?
+No, my name isn't John.
+Is your name Ron?
+Yes, My name is Ron.
+What is your name?
+My name is Ron.
+What is your name?
+Is this your phone?
+No, this is not my phone.
+Is this her phone?
+No, this is not her phone.
+Is this his phone?
+No, this is not his phone.
+Is this my phone?
+Yes,This is your phone.
+Whose phone is this?
+This is your phone.
+Whose phone is this?
+Is my name John?
+No, your name isn't John.
+Is my name Lisa?
+No, your name isn't Lisa.
+No, My name isn't Lisa.
+Lisa is over there.
+Her name is Lisa.
+My name is Sam.
+Is my name Ron?
+No, your name isn't Ron.
+Is my name Sam?
+Yes, your name is Sam.
+What is my name?
+Your name is Sam?
+What is my name?
+Who's name is Ron?
+My name is Ron.
+Whose name is Sam?
+Your name is Sam?
+Are they teachers?
+No, they aren't teachers.
+Are they students?
+Yes, they are students.
+Who are they?
+They are students.
+Who are they?
+Are these students on the floor?
+No, these students aren't on the floor.
+Are these students on the floor?
+No, these students aren't on the floor.
+Are these students on the ceiling?
+No, these students aren't on the ceiling.
+Are these students on the chairs?
+Yes, these students are on the chairs.
+Where are these students?
+These students are on the chairs.
+Where are these students?
+Who are on the chairs?
+These students are on the chairs.
+Are these students people?
+Yes, these students are people.
+Are these students things?
+No, these students aren't things.
+Yeah the students are people.
+They aren't things.
+The table is a thing.
+The chair is a thing.
+The cabinet is a thing.
+The car is a thing.
+The students are not things.
+They are people.
+Is the teacher a person?
+Yes, the teacher is a person.
+Is the teacher a thing?
+No, the teacher isn't a thing.
+What is the teacher?
+The teacher is a person.
+Is he on the chair?
+No, he isn't on the chair.
+Is he under the table?
+No, he isn't under the table.
+Is he in the cabinet?
+No, he isn't in the cabinet.
+Is he on the train?
+No, he isn't on the train.
+Is he in the class?
+Yes, he is in the class.
+Yes he is a teacher.
+And he is in the class.
+He isn't in the class alone
+These students are in the class, too.
+Is he in the class alone?
+No, he isn't in the class alone.
+Are the students in the class alone?
+No, the students aren't in the class alone.
+Are these students in the class, too.
+Yes, These students are in the class too.
+Who are in the class?
+They are in the class.
+Who are in the class?
+Who are in the class?
+They are in the class.
+Are we in the class, too?
+Yes, We are in the class, too.
+Are we things?
+No, we aren't things.
+Are we people?
+Yes, We are people.
+Is this cabinet a person?
+No, this cabinet isn't a person.
+Is this cabinet a thing?
+Yes, This cabinet is a thing.
+Is this cabinet on the ceiling?
+No, this cabinet isn't on the ceiling.
+Is this cabinet on the wall?
+No, this cabinet isn't on the wall.
+Is this cabinet under the table?
+No, this cabinet isn't under the table.
+Is this cabinet on the floor?
+Yes, this cabinet is on the floor.
+Where is this cabinet?
+This cabinet is on the floor.
+Where is this cabinet?
+Is it morning?
+No, it isn't morning.
+Is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No, it isn't evening.
+Is it night?
+Yes, it is night.
+Is it 11pm?
+No it is not 11 PM.
+Is it 12 o'clock midnight?
+No it is not 12 o'clock midnight.
+Is it 12:30 AM?
+No, It isn't 12:30 AM.
+Is it 3:00 AM?
+No, it isn't 3 AM.
+Is it 10 PM?
+No, it isn't 10 PM.
+what time is it?
+It is 11:30 PM.
+what time is it?
+It is 11:30 PM.
+what time is it?
+It is 11:30 PM.
+Is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No, it isn't evening.
+Is it night?
+No, it isn't night.
+Is it morning?
+Yes, it is morning.
+Is it 12 o'clock noon?
+No, it isn't 12 o'clock noon.
+Is it 1 PM?
+No, it isn't 1 PM.
+Is it 5 AM?
+No, it isn't 5 AM.
+What time is it?
+It is 10 AM.
+What time is it?
+What time is it?
+It's 10 AM.
+What time is it?
+It's 11:25 AM.
+What time is it?
+It's 7 PM.
+What time is it?
+It is 7:30 AM.
+What time is it?
+It's 6:10 PM.
+What time is it?
+It's 1:40 AM.
+What time is it?
+It's 8:55 AM.
+What time is it?
+It's 2:30 PM.
+What time is it?
+It's 3:11 PM.
+What time is it?
+It's 10 AM.
+What time is it?
+It's 12 o'clock noon.
+What time is it?
+It's 9:29 PM.
+What time is it?
+It's 12 o'clock midnight.
+What time is it?
+It's 4:26 AM.
+What time is it?
+It's 8:11 PM.
+What time is it?
+It's 5:41 PM.
+Is - singular object.
+Are - plural object.
+Am - talk about yourself.
+I drink three cups of coffee a day.
+He has two expensive cars.
+I sleep for 6 hours every night.
+We play angry birds before school everyday.
+They take a bus to work.
+Do you drink coffee in the morning
+So what've we got here?
+How many cups of coffee do you drink in the morning?
+I don't drink tea in the morning.
+You don't like coffee with milk.
+I don't have a car.
+When
+To have
+To go
+To go to work
+To like
+To use
+To sleep
+To work
+To take
+To take a train
+To take a bus
+An office
+A bed
+Often
+When
+To have
+To go
+To go to work
+To like
+To use
+To sleep
+To work
+To take
+To take a train
+To take a bus
+An office
+A bed
+Often
+Do you have a phone?
+Yes, I have a phone.
+Do you have a phone?
+Do you like your phone?
+Yes, I like my phone.
+Do you often use your phone?
+Yes, I often use my phone.
+Do you use your phone when you work?
+Yes, I use my phone when I work.
+Do you use your phone when you take a train ?
+Yes, I use my phone when I take a train.
+Do you use your phone when you sleep?
+No, I don't use my phone when I sleep.
+Do you use your phone when you sleep?
+No, I don't use my phone when I sleep.
+Do you go to work in the morning?
+Yes, I go to work in the morning.
+Do you go to work in the afternoon?
+No, I don't go to work in the afternoon.
+Do you go to work in the evening?
+No, I don't go to work in the evening.
+Do you go to work at the night?
+No, I don't go to work at night.
+When do you go to work?
+I go to work in the morning.
+When do you go to work?
+Do you work at a restaurant?
+No, I don't work at a restaurant.
+Do you work at an office?
+Yes, I work at an office.
+Where do you work?
+I work at an office.
+Where do you work?
+Do you like your job?
+Yes, I like my job.
+Are people nice at your work?
+Yes, people are nice at my work.
+Do you sleep at work?
+No, I don't sleep at work.
+Do you go to work at 5 AM?
+No, I don't go to work at 5 AM.
+Do you go to work at 12 o'clock noon?
+No, I don't go to work at 12 o'clock noon.
+Do you go to work at 8 o'clock in the morning?
+Yes, I go to work at 8 o'clock in the morning.
+What time do you go to work?
+I go to work at 8 o'clock in the morning.
+What time do you go to work?
+Do you sleep on the bus when you go to work?
+No, I don't sleep on the bus when I go to work.
+Do you sleep on the bus when you go to work?
+Do you sleep in your bed?
+Yes, I sleep in my bed.
+Do you sleep at a restaurant?
+No, I don't sleep at a restaurant.
+Do you sleep under your table at work?
+No, I don't sleep under my table at work.
+Do you sleep under your table at work?
+Where do you sleep?
+I sleep in my bed.
+Where do you sleep?
+----‐------------------------------------------------------

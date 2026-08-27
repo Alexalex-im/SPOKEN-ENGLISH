@@ -1,0 +1,378 @@
+Is it morning?
+No, it isn't morning.
+Is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No, it isn't evening.
+Is it night?
+Yes, it is night.
+Is it 11pm?
+No it is not 11 PM.
+Is it 12 o'clock midnight?
+No it is not 12 o'clock midnight.
+Is it 12:30 AM?
+No, It isn't 12:30 AM.
+Is it 3:00 AM?
+No, it isn't 3 AM.
+Is it 10 PM?
+No, it isn't 10 PM.
+what time is it?
+It is 11:30 PM.
+what time is it?
+It is 11:30 PM.
+what time is it?
+It is 11:30 PM.
+Is it afternoon?
+No, it isn't afternoon.
+Is it evening?
+No it isn't evening.
+Is it night
+No it isn't night.
+Is it morning?
+Yes, it is morning.
+Is it 12 o'clock noon?
+No, it isn't 12 o'clock noon.
+Is it 1 PM?
+No, it isn't 1 PM.
+Is it 5 AM?
+No, it isn't 5 AM.
+What time is it?
+It is 10 AM.
+What time is it?
+What time is it?
+It is 10 AM?
+What time is it?
+It's 11:25 AM.
+What time is it?
+It's 7 PM.
+What time is it?
+It is 7:30 AM.
+What time is it?
+It's 6:10 PM.
+What time is it?
+It's 1:40 AM.
+What time is it?
+It's 8:55 AM.
+What time is it?
+It's 2:30 PM.
+What time is it?
+It's 3:11 PM.
+What time is it?
+It's 10 AM.
+What time is it?
+It's 12 o'clock noon.
+What time is it?
+It's 9:29 PM.
+What time is it?
+It's 12 o'clock midnight.
+What time is it?
+It's 4:26 AM.
+What time is it?
+It's 8:11 PM.
+What time is it?
+It's 5:41 PM.
+Is your name Sean?
+No, my name isnt Sean.
+Is Your name Tim?
+No, my name isn't Tim.
+Is your name Mike?
+No, my name isn't Mike.
+Is your name John?
+No, my name isn't John.
+Is your name Ron?
+Yes, My name is Ron.
+What is your name?
+My name is Ron.
+What is your name?
+Is this your phone?
+No, this is not my phone.
+Is this her phone?
+No, this is not her phone.
+Is this his phone?
+No, this is not his phone.
+Is this my phone?
+Yes,This is your phone.
+Whose phone is this?
+This is your phone?
+Whose phone is this?
+Is my name John?
+No, your name isn't John.
+Is my name Lisa?
+No, your name isn't Lisa.
+No, My name isn't Lisa.
+Lisa is over there.
+Her name is Lisa.
+My name is Sam.
+Is my name Ron.
+No, your name isn't run.
+Is my name Sam?
+Yes, your name is Sam.
+What is my name?
+Your name is Sam?
+What is my name?
+Who's name is Ron?
+My name is Ron.
+Whose name is Sam?
+Your name is Sam.
+Are they teachers?
+No, they aren't teachers.
+Are they students?
+Yes, they are students.
+Who are they?
+They are students.
+Who are they?
+Are these students on the floor?
+No, These students aren't on the floor.
+Are these students on the floor?
+No, These students aren't on the floor.
+Are these students on the ceiling?
+No, these students aren't on the ceiling.
+No, these students aren't on the ceiling.
+Are these students on the chairs?
+Yes, these students are on the chairs.
+Where are these students?
+These students are on the chairs.
+Where are these students?
+Who are on the chairs?
+These students are on the chairs.
+Are these students people?
+Yes, these students are people.
+Are these students things?
+No, these students aren't things.
+Yeah the students are people.
+they aren't things.
+The table is a thing.
+The chair is a thing.
+The cabinet is a thing.
+The car is a thing.
+The students are not things.
+They are people?
+Is the teacher a person?
+Yes, the teacher is a person.
+Is the teacher a thing?
+No, the teacher isn't a thing.
+What is the teacher?
+The teacher is a person.
+Is he on the chair?
+No, he isn't on the chair.
+Is he under the table?
+No, he isn't under the table.
+Is he in the cabinet?
+No, he isn't in the cabinet.
+Is he on the train?
+No, he isn't on the train.
+Is he in the class?
+Yes, he is in the class.
+Yes, he is a teacher.
+And he is in the class.
+He isn't in the class alone.
+These students are in the class, too.
+Is he in the class alone?
+No, he isn't in the class alone.
+Are the students in the class alone?
+No, the students aren't in the class alone.
+Are these students in the class, too?
+Yes, These students are in the class too.
+Who are in the class?
+They are in the class?
+Who are in the class?
+Who are in the class?
+They are in the class?
+Are we in the class, too?
+Yes, We are in the class too.
+Are we things?
+No, we aren't things.
+Are we people?
+Yes, We are people.
+Is this cabinet a person?
+No, this cabinet isn't a person.
+Is this cabinet a thing?
+Yes, This cabinet is a thing.
+Is this cabinet on the ceiling?
+No, this cabinet isn't on the ceiling.
+Is this cabinet on the wall?
+No, this cabinet isn't on the wall.
+Is this cabinet under the table?
+No, this cabinet isn't under the table.
+Is this cabinet on the floor?
+Yes, this cabinet is on the floor.
+Where is this cabinet?
+This cabinet is on the floor?
+Where is this cabinet?
+Aa
+Bb
+Cc
+Dd
+Ee
+Ff
+Gg
+Hh
+Ii
+Jj
+Kk
+Ll
+Mm
+Nn
+Oo
+Pp
+Qq
+Rr
+Ss
+Tt
+Uu
+Vv
+Ww
+Xx
+Yy
+Zz
+An Apple
+An Orange
+An Horner
+An opportunity
+A friend
+Work
+At work
+An hour
+Two hours
+for one hour
+For 2 hours
+A minute
+How
+How long
+Or
+A friend
+Work
+At work
+An hour
+2 hours
+For one hour
+For 2 hours
+A minute
+How
+How long
+Or
+What is his name?
+His name is Mason.
+What is his last name?
+His last name is Miller.
+Where is he from?
+He is from Ashville, Alabama.
+What is Ashville?
+Ashville is a nice small town.
+Is Mason a teacher?
+No, Mason isn't a teacher.
+What is Mason?
+Mason is a waiter.
+What is Mason?
+Is he happy to be a waiter at the upstate restaurant?
+Yes, he is happy to be a waiter at the update restaurant.
+Is Mason at work from 8 AM to 5 AM?
+No, mason isn't at work from 8 AM to 5.
+Is Mason at work from 9 AM to 6 PM?
+No, mason isn't at work from 9 AM to 6 PM.
+Is Mason at work from 12 o'clock noon to 4 o'clock in the afternoon?
+Yes, mason is at work from 12 o'clock noon to 4 o'clock in the afternoon.
+When is Mason at work?
+The mason is at work from 12 o'clock noon to 4 o'clock in the afternoon.
+When is Mason at work?
+Where is his work?
+His work is at the upstate restaurant.
+Where is his work.
+His work is at the update restaurant
+Is he at work for 10 hours?
+No, he isn't at work for 10 hours.
+Is he worked at for one hour?
+No, he isn't at work for one hour.
+Is he at work for 4 hours?
+Yes, he is at work for 4 hours.
+How long is he at work?
+He is at work for 4 hours.
+How long is he at work?
+He is at work at the restaurant For 4 hours from 12 o'clock noon to 4 o'clock in the afternoon.
+He is a waiter here But he is a student at carvel colleges, too.
+Is Mason a student, too.
+Yes Mason is a student, too.
+Is he a teacher or a student?
+He is a student.
+Yes, he is a student at carval college.
+Is he a student at Stanford?
+No, he isn't a student at Stanford.
+Is he a student at Cambridge?
+No, he isn't a student at Cambridge.
+Is he a student at carval college?
+Yes, he is a student at carval college.
+Is he a student or a waiter at carval college?
+He is a student at carval college?
+He is a student or a waiter at the upstate restaurant?
+He is a waiter at the upstate restaurant?
+What time is he at the restaurant?
+He is at the restaurant from 12 o'clock noon to 4 o'clock in the afternoon.
+What time is he at the restaurant?
+How long is he at the restaurant?
+he is at the restaurant for 4 hours
+How long is he at the restaurant?
+How long is he at the restaurant?
+He is at the restaurant for 4 hours.
+He is a waiter at the upstate. restaurant And he is a student at carval college.
+He is in class at the carval
+From 8 to 11:30 in the morning.
+Is he in class at carval in the morning or at night?
+He is in class at the carwell in the morning.
+What time is he in class?
+He is in class from 8 to 11:30 in the morning.
+What time is he in class?
+He is in class from 8 to 11:30 in the morning.
+Where is he in class?
+He is in class at carval college.
+He is in class at carval college from 8 to 11:30 in the morning He is in class for 3 hours and 30 minutes
+Is he in class for 10 hours?
+No, he isn't in class from 10 hours
+Is he in class for one hour?
+No, he isn't in class for one hour.
+Is he in class for 3 hours and 30 minutes?
+Yes, he is in class for 3 hours and 30 minutes.
+How long is he in class at carval?
+He is in class at carvel for 3 hours and 30 minutes.
+How long is he in class at carval?
+He is in class at the carval for 3 hours and 30 minutes.
+Is this a man or a woman?
+This is a man.
+What is his name?
+His name is Henry.
+Is Henry a teacher?
+No, Henry isn't a teacher.
+Is Henry a waiter, too?
+Yes, Henry is a waiter, too.
+What is Henry?
+Henry is a waiter.
+What is this waiter's name?
+This waiter's name is Henry.
+What is this waiter's name?
+His name is Henry.
+He is a mason's friend.
+Is Henry Mason's friend?
+Yes, Henry is mason's friend.
+Whose friend is Henry?
+Henry is Mason's friend.
+Whose friend is Henry?
+Henry is Mason's friend.
+But Henry isn't happy.
+To be a waiter at the upstate restaurant.
+Is Henry happy to be a waiter here?
+No, Henry isn't happy to be a waiter here.
+Is Henry unhappy to be a waiter at the upstate?
+Yes, Henry is unhappy to be a waiter at the upstate.
+Who is happy to be a waiter here?
+Mason is happy to be a waiter here
+And who is unhappy to be a waiter here?
+Henry is unhappy to be a waiter here.
+Whose friend is Henry?
+Henry is Mason's friend.
+Whose friend is Henry?
+They are friends.
+Mason and Henry.
+They are both waiters.
+But Mason is happy to be here.
+And his friend Henry isn't.
+Now let's do a little test.
+----‐------------------------------------------------------

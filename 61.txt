@@ -1,0 +1,389 @@
+Do you usually try to avoid heavy traffic when you go to work?
+Yes, I usually try to avoid heavy traffic when I go to work.
+Why?
+Because I don't like to be stuck in traffic.
+Why do you usually try to avoid heavy traffic when you go to work?
+I usually try to avoid heavy traffic when I go to work because I don't like to be stuck in traffic.
+Are you driving your car now?
+No, I'm not driving my car now.
+Are you out of gas?
+No, I'm not out of gas.
+Do you have a flat tire?
+Yes, I have a flat tire.
+What's wrong with your tire?
+My tire is flat.
+What's wrong with your tire?
+My tire is flat.
+Why aren't you driving your car?
+I'm not driving my car because I have a flat tire.
+Do you regularly get a flat tire?
+No, I don't regularly get a flat tire.
+Is my car the same as yours?
+No, your car isn't the same as mine.
+Is my car different from yours?
+Yes, your car is different from mine.
+Do I drive a small expensive sports car?
+No, you don't drive a small expensive sports car.
+Do I drive a tow truck?
+Yes, you drive a tow truck.
+What kind of truck do I drive?
+You drive a tow truck .
+Do I have a flat tire too?
+No, you don't have a flat tire too.
+Does your car have a trunk?
+Yes, my car has a trunk.
+Do you have a spare tire in your trunk?
+No, I don't have a spare tire in my trunk.
+Is your trunk big enough to fit a spare tire in it?
+No, my trunk isn't big enough to fit a spare tire in it.
+Is your trunk too small to fit a spare tire in it?
+Yes, my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Why don't you have a spare tire in your trunk?
+I don't have a spare tire in my trunk because my trunk is too small to fit a spare tire in it.
+Do you want me to take your car to the garage?
+Yes, I want you to take my car to the garage.
+Where do you want me to take your car?
+I want you to take my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Do you understand that you have to pay me for taking your car to the garage?
+Yes, I understand that I have to pay you for taking my car to the garage.
+Is there anything on the elevator doors?
+Yes, there is something on the elevator doors.
+Is there some sign on the elevator doors?
+Yes, there is some sign on the elevator doors.
+What's on the elevator doors?
+There's some sign on the elevator doors.
+What does it say?
+It says "out of order".
+What does this sign say?
+This sign says "out of order".
+What does this sign say?
+Do you think both of these elevators are working?
+No, I don't think both of these elevators are working.
+Do you think one of these elevators isn't working?
+Yes, I think one of these elevators Isn't working.
+What makes you think so?
+I think so because one of them has an "out of order" sign on it.
+What makes you think one of these elevators isn't working?
+I think one of these elevators isn't working because there is an "out of order" sign on it.
+Can you take the elevator if there is an "out of order" sign on it?
+No, I can't take the elevator if there is an "out of order" sign on it.
+Do you have to take the stairs instead?
+Yes, I have to take the stairs instead.
+Can you enter the elevator if there is an "out of order" sign on it?
+No, I can't enter the elevator if there is an "out of order" sign on it.
+Do you enjoy taking the stairs to the 10th floor?
+No, I don't enjoy taking the stairs to the 10th floor.
+Do you hate taking the stairs to the 10th floor?
+Yes, I hate taking the stairs to the 10th floor.
+Is it fun to be stuck in the elevator for 3 hours?
+No, it's not fun to be stuck in the elevator for 3 hours.
+Are the elevators in front of you?
+No, the elevators aren't in front of me.
+Are the elevators behind you?
+No, the elevators aren't behind me.
+Are the elevators to your right?
+No, the elevators aren't to my right.
+Where are the elevators?
+The elevators are to my left.
+Do you know how to read this year?
+Yes, I know how to read this year
+Read it.
+Nineteen twenty-five. -1925
+Do you know how to read this year?
+Yes, I know how to read this year.
+Read it.
+Two thousand. -2000
+Can you read this year?
+Yes, I can read this year.
+Read it.
+Twenty Thirty-two. -2032
+Do you often miss your classes?
+Yes, I often miss my classes.
+If you often miss your classes, do teachers give you good grades?
+No, if I often miss my classes, teachers don't give me good grades.
+If you often miss your classes, do teachers give you bad grades?
+Yes, if I often miss my classes, teachers give me bad grades.
+What grades do teachers give you when you miss your classes?
+When I miss my classes, teachers give me bad grades.
+What grades do teachers give you when you miss your classes?
+Do you have to be organized if you want to get good grades?
+Yes, I have to be organized if I want to get good grades.
+Do you like to take difficult exams?
+No, I don't like to take difficult exams.
+Do you usually have fun during difficult exams?
+No, I don't usually have fun during difficult exams.
+Can you fail your exam if you come unprepared?
+Yes, I can fail my exam if I come unprepared.
+Is it fun to fail every exam you take?
+No, it's not fun to fail every exam I take.
+Do you know what the phrase "out of order" means?
+Yes, I know what the phrase "out of order" means.
+Does it mean "working"?
+No, it doesn't mean "working".
+Does it mean "please enter"?
+No, it doesn't mean "please enter".
+Does it mean "broken"?
+Yes, it means "broken".
+What does the phrase "out of order" mean?
+The phrase "out of order" means "broken".
+What does the phrase "out of order" mean?
+What do we call a doctor who fixes your teeth?
+We call a doctor who fixes my teeth a dentist.
+What do we call a doctor who fixes your teeth?
+Do you like to eat a sandwich at night?
+No, I don't like to eat a sandwich at night.
+Is it good for you to eat anything at night?
+No, it's not good for me to eat anything at night.
+Can you make a sandwich if you're out of bread?
+No, I can't make a sandwich if I'm out of bread.
+What do you need if you want to make a sandwich?
+If I want to make a sandwich, I need some bread.
+What do you need if you want to make a sandwich?
+Do you go shopping when you run out of bread?
+Yes, I go shopping when I run out of bread.
+Do you eat chewing gums when you run out of breads?
+No, I don't eat chewing gums when I run out of bread.
+What do you do when you run out of bread?
+I go shopping when I run out of bread.
+Are there any nice grocery stores in your neighbourhood?
+Yes, there are some nice grocery stores in my neighbourhood.
+Is this floor dry?
+No, this floor isn't dry.
+Is there any water on the floor?
+Yes, there is some water on the floor.
+Does it mean the floor is dry, or wet?
+It means the floor is wet.
+What does it mean if there is some water on the floor?
+If there is some water on the floor, it means the floor is wet?
+What does it mean if there is some water on the floor?
+What does it mean if there is some water on the floor?
+If there is some water on the floor, it means the floor is wet.
+Can you fall if you walk on the wet floor?
+Yes, I can fall if I walk on the wet floor.
+Is it pleasant to fall on the wet floor at a grocery store?
+No, it's not pleasant to fall on the wet floor at a grocery store.
+Does it hurt to fall on the wet floor?
+Yes, it hurts to fall on the wet floor.
+How does it feel to fall on the wet floor?
+It hurts to fall on the wet floor.
+How does it feel to fall on the wet floor?
+Do you often take a shower?
+Yes, I often take a shower.
+Do you prefer to take a shower, or a bath?
+I prefer to take a shower.
+Do you like to sing when you take a shower?
+Yes, I like to sing when I take a shower.
+Does it make you a singer?
+No, it doesn't make me a singer.
+Simple past tense.
+Past events
+Be
+I am late for work
+I am late - present time
+He is scared - present time
+There are lots of papers on his table - present time
+is, am, are
+Present forms of the verb
+Be
+Past forms of "be"
+Was, were
+Was - used for singular nouns
+Were - used for plural nouns
+Was. Were
+I was. You were
+He was. They were
+She was. We were
+It was
+There is a car in the driveway - present
+There was a car in the driveway - past
+I am late - is the present
+I was late - past
+He is scared - present
+He was scared - past
+be + subjects -> subject + be
+I was late -> Was I late?
+We were hungry -> Were we hungry?
+There were lots of people at the party -> Were there lots of people at the party?
+How many people were there at the party?
+in negative
+Was not. Were not
+Wasn't. Weren't
+Were you home yesterday?
+No, I wasn't home yesterday.
+I was at work.
+Was he at work last Sunday?
+No, he wasn't at work last Sunday
+He was home.
+We weren't hungry after party yesterday.
+They weren't scared of that bear
+Tonight
+Yesterday
+The day before yesterday
+2 days ago
+Last
+Last week
+Last month
+Last year
+Tired
+Get tired
+Be afraid
+Dark
+The dark
+Light
+Are you at a movie theatre now?
+No, I'm not at a movie theatre now.
+Where are you now?
+I'm at work now.
+Do you want to go to the movies tonight?
+Yes, I want to go to the movies tonight.
+Were you at a movie theatre yesterday?
+No, I wasn't at a movie theatre yesterday.
+Were you at a movie theatre last month?
+No, I wasn't at a movie theatre last month.
+Were you at a movie theatre last year?
+Yes, I was at a movie theatre last year.
+Do you like your job?
+Yes, I like my job.
+Do you prefer to stay home and watch movies all day instead of going to work?
+No, I don't prefer to stay home and watch movies all day instead of going to work.
+Is it boring to stay home all day and watch movies?
+Yes, it is boring to stay home all day and watch movies.
+Were you at work yesterday?
+Yes, I was at work yesterday.
+Were you at work the day before yesterday?
+Yes, I was at work the day before yesterday.
+Were you at work 5 days ago?
+No, I wasn't at work 5 days ago.
+Was it Sunday 5 days ago?
+Yes, it was Sunday 5 days ago.
+Why weren't you at work 5 days ago?
+I wasn't at work 5 days ago because it was Sunday.
+Is it fun to work on weekends instead of hanging out with your friends?
+No, it's not fun to work on weekends instead of hanging out with my friends.
+Is there any money in your wallet?
+Yes, there is some money in my wallet.
+Is there 1000 dollars in your wallet?
+No, there isn't 1000 dollars in my wallet.
+How much money is there in your wallet?
+There is 500 dollars in my wallet.
+Can you buy a new car with this money?
+No, I can't buy a new car with this money.
+Was there any money in your wallet yesterday?
+Yes, there was some money in my wallet yesterday.
+How much money was there in your wallet yesterday?
+There was 600 dollars in my wallet yesterday.
+Are you stuck in traffic now?
+No, I'm not stuck in traffic now.
+Why not?
+Because I'm on the Subway.
+Can you be stuck in traffic if you take the Subway?
+No, I can't be stuck in traffic if I take the Subway.
+Are you often very busy on work days?
+Yes, I'm often very busy on workdays.
+Do you like to be stuck at work on weekends?
+No, I don't like to be stuck at work on weekends.
+Is Tom stuck at work when he has a lot of work to do?
+Yes, Tom is stuck at work when he has a lot of work to do.
+When is Tom stuck at work?
+Tom is stuck at work when he has a lot of work to do.
+Is Tom stuck at work now?
+Yes, Tom is stuck at work now.
+Does he have a lot of work to do now?
+Yes, he has a lot of work to do now.
+Do you think Tom likes to be stuck at work?
+No, I think Tom doesn't like to be stuck at work.
+Were you stuck at work last Thursday?
+No, I wasn't stuck at work last Thursday.
+Are you afraid of me?
+No, I'm not afraid of you.
+Were you afraid of me last week?
+No, I wasn't afraid of you last week.
+Are you afraid of speaking English?
+No, I'm not afraid of speaking English.
+Were you afraid of speaking English 9 months ago?
+Yes, I was afraid of speaking English 9 months ago.
+Are you afraid of elevators?
+No, I'm not afraid of elevators.
+What if it is very dark in the elevator, are you afraid?
+Yes, if it is very dark in the elevator, I'm afraid.
+When are you afraid to take the elevator?
+I'm afraid to take the elevator when it's dark there.
+Are you afraid of being stuck in the dark elevator?
+Yes, I'm afraid of being stuck in the dark elevator.
+Are you afraid of black cats?
+No, I'm not afraid of black cats.
+Are you afraid of being stuck in the elevator with a black cat in it?
+Yes, I'm afraid of being stuck in the elevator with a black cat in it.
+Were you afraid of elevators when you were a child?
+No, I wasn't afraid of elevators when I was a child.
+Were you stuck in a dark elevator when you were a child?
+No, I wasn't stuck in a dark elevator when I was a child.
+Do you want to get stuck in a dark elevator tonight?
+No, I don't want to get stuck in a dark elevator tonight.
+Do you know people who are afraid of elevators?
+No, I don't know people who are afraid of elevators.
+Are there 3 days in a week?
+No, there are not 3 days in a week.
+Are there 20 days in a week?
+No, there are not 20 days in a week.
+How many days are there in a week?
+There are 7 days in a week.
+How many days were there last week?
+There were 7 days last week.
+Do you go to work everyday?
+No, I don't go to work everyday.
+Do you go to work 3 days a week?
+No, I don't go to work 3 days a week.
+How many days a week do you go to work?
+I go to work 5 days a week.
+How many days a week do you go to work?
+Do you enjoy working 5 days a week.
+Yes, I enjoy working 5 days a week.
+Do you want to work 24/7?
+No, I don't want to work 24/7.
+If Jack works 24/7, does he have time to rest?
+No, if Jack works 24/7, he doesn't have time to rest.
+If Jack works 24/7, does he have time to eat and to drink?
+No, If Jack works 24/7, he doesn't have time to eat and to drink.
+If Jack works 24/7, does he have time to hang out with his friends?
+No, if Jack works 24/7, he doesn't have time to hang out with his friends.
+If Jack works 24/7, does he have time to do anything?
+No, if Jack works 24/7, he doesn't have time to do anything.
+What does Jack have time for if he works 24/7?
+If Jack works 24/7, he doesn't have time for anything.
+What does Jack have time for if he works 24/7?
+Is it a lot of fun to work 24/7?
+No, it's not a lot of fun to work 24/7.
+Why not?
+Because you don't have time for anything.
+Do you usually wake up at 5 AM?
+No, I don't usually wake up at 5 AM.
+Do you usually wake up at 7 PM?
+No, I don't usually wake up at 7 PM.
+What time do you usually wake up?
+I usually wake up at 6 AM.
+What time do you usually wake up?
+Do you get up in the morning when it's dark?
+Yes, I sometimes get up in the morning when it's dark.
+Are you afraid to get up when it's very dark?
+No, I'm not afraid to get up when it's very dark.
+Do you like to get up when it's very dark?
+No, I don't like to get up when it's very dark.
+Do you only like to get up when it's light?
+Yes, I only like to get up when it's light.
+When do you like to get up?
+I like to get up when it's light.
+When do you like to get up?
+Was it light at 4 AM yesterday?
+No, it wasn't light at 4 AM yesterday.
+Was it dark at 1 PM the day before yesterday?
+No, it wasn't dark at 1 PM the day before yesterday.
+Are you afraid of the dark?
+Yes, I'm afraid of the dark.
+Were you afraid of the dark when you were a child?
+Yes, I was afraid of the dark when I was a child.
+----‐------------------------------------------------------

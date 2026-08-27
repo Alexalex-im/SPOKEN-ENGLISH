@@ -1,0 +1,146 @@
+Is the man on the chair?
+Yes, the man is on the chair.
+
+Is the table on the floor?
+Yes, the table is on the floor.
+Is the woman on the cabinet?
+Yes, the woman on the cabinet.
+Is the laptop on the table?
+Yes, the laptop is on the table.
+Where is the man?
+The man is on the chair.
+Where is the woman?
+The woman is on the cabinet.
+Where is the laptop?
+The laptop is on the table.
+Where is the cabinet?
+The cabinet is on the floor.
+Where is the table?
+The table is on the floor.
+Who is on the chair?
+The man is on the chair.
+Who is on the cabinet?
+The woman is on the cabinet.
+What is on the table?
+The laptop is on the table.
+What is this?
+This is a table.
+Where is the table?
+The table is on the floor.
+What is this?
+This is a cabinet.
+Where is the cabinet?
+The cabinet is on the floor.
+What is this?
+This is a laptop.
+Where is the laptop?
+The laptop is on the table.
+What is this?
+This is a chair.
+Where is the chair?
+The chair is on the floor.
+
+Is this a teacher?
+Yes, this is a teacher.
+Is this a student?
+Yes, this is a student.
+Is this a floor?
+Yes, this is a floor.
+Is this a ceiling?
+Yes, this is a ceiling.
+Is this a wall?
+Yes, this is a wall.
+Is she on the chair?
+no, she is not on the chair.
+She is not on the chair.
+She is not on the table.
+She is on the floor.
+Is not = isn't.
+This isn't a man.
+She isn't on the chair.
+She isn't a teacher.
+No
+Is not
+Isn't
+In
+Under
+A car
+A bus
+A train
+Is this a man?
+Yes, this is a man.
+Where is the man?
+The man is on the chair.
+Is man on the table?
+No, the man isn't on the table.
+Is the man under the table?
+No, the man isn't under the table.
+Is the man in the table?
+No, the man isn't in the table.
+Is the man on the cabinet?
+No, the man isn' t on the cabinet.
+Is the man in the cabinet?
+No, the man isn't in the cabinet.
+Is the man on the chair?
+Yes, the man is on the chair.
+Where is the man?
+The man is on the chair.
+Is the woman on the chair?
+No, the woman isn't on the chair.
+Is the woman is on the floor?
+No, the woman isn't on the floor.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman in the cabinet?
+No, the woman isn't in the cabinet.
+Is the woman on the cabinet?
+Yes, the woman is on the cabinet.
+Where is the woman?
+The woman is on the cabinet.
+Is this a chair?
+No, this isn't a chair.
+Is this a train?
+No, this isn't a train.
+Is this a cabinet?
+No, this isn't a cabinet.
+Is this a car?
+Yes, this is a car.
+What is this?
+This is a car.
+Is this man on the bus?
+No, this man isn't on the bus.
+Is this man on the train?
+No, this man isn't on the train.
+Is this man under the car?
+No, this man isn't under the car.
+Is this man in the car?
+Yes, the man is in the car.
+Where is this man?
+This man is in the car.
+Is this a man?
+No, this is not a man.
+Is this a woman?
+Yes, this is a woman.
+Who is this?
+This is a woman.
+Who is this?
+This is a woman.
+Is the woman on the train?
+No, is the woman isn't on the train.
+Is the woman in the car?
+No, the woman isn't in the car.
+Is the woman under the table?
+No, the woman isn't under the table.
+Is the woman on the bus?
+Yes, the woman is on the bus.
+Where is the woman?
+The woman is on the bus.
+Is this man on the bus?
+No, this man isn't on the bus.
+Is this man on the car?
+No, this man isn't on the car.
+Is this man on the train?
+Yes, this man is on the train.
+Where is this man?
+This man is on the train.
+-----------------------------------------------------------
